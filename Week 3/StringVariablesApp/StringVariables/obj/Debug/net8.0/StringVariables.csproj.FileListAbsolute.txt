@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVariablesApp\StringVariables\bin\Debug\net8.0\StringVariables.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVariablesApp\StringVariables\bin\Debug\net8.0\StringVariables.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVariablesApp\StringVariables\bin\Debug\net8.0\StringVariables.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVariablesApp\StringVariables\bin\Debug\net8.0\StringVariables.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVariablesApp\StringVariables\bin\Debug\net8.0\StringVariables.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVariablesApp\StringVariables\obj\Debug\net8.0\StringVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVariablesApp\StringVariables\obj\Debug\net8.0\StringVariables.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVariablesApp\StringVariables\obj\Debug\net8.0\StringVariables.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVariablesApp\StringVariables\obj\Debug\net8.0\StringVariables.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVariablesApp\StringVariables\obj\Debug\net8.0\StringVariables.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVariablesApp\StringVariables\obj\Debug\net8.0\refint\StringVariables.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVariablesApp\StringVariables\obj\Debug\net8.0\StringVariables.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVariablesApp\StringVariables\obj\Debug\net8.0\StringVariables.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVariablesApp\StringVariables\obj\Debug\net8.0\ref\StringVariables.dll

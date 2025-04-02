@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StudentCheckMiniProjectApp\StudentCheckMiniProject\bin\Debug\net8.0\StudentCheckMiniProject.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StudentCheckMiniProjectApp\StudentCheckMiniProject\bin\Debug\net8.0\StudentCheckMiniProject.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StudentCheckMiniProjectApp\StudentCheckMiniProject\bin\Debug\net8.0\StudentCheckMiniProject.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StudentCheckMiniProjectApp\StudentCheckMiniProject\bin\Debug\net8.0\StudentCheckMiniProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StudentCheckMiniProjectApp\StudentCheckMiniProject\bin\Debug\net8.0\StudentCheckMiniProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StudentCheckMiniProjectApp\StudentCheckMiniProject\obj\Debug\net8.0\StudentCheckMiniProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StudentCheckMiniProjectApp\StudentCheckMiniProject\obj\Debug\net8.0\StudentCheckMiniProject.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StudentCheckMiniProjectApp\StudentCheckMiniProject\obj\Debug\net8.0\StudentCheckMiniProject.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StudentCheckMiniProjectApp\StudentCheckMiniProject\obj\Debug\net8.0\StudentCheckMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StudentCheckMiniProjectApp\StudentCheckMiniProject\obj\Debug\net8.0\StudentCheckMiniProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StudentCheckMiniProjectApp\StudentCheckMiniProject\obj\Debug\net8.0\refint\StudentCheckMiniProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StudentCheckMiniProjectApp\StudentCheckMiniProject\obj\Debug\net8.0\StudentCheckMiniProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StudentCheckMiniProjectApp\StudentCheckMiniProject\obj\Debug\net8.0\StudentCheckMiniProject.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StudentCheckMiniProjectApp\StudentCheckMiniProject\obj\Debug\net8.0\ref\StudentCheckMiniProject.dll
