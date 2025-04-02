@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVarablesParcticeProjectApp\StringVarablesParcticeProject\bin\Debug\net8.0\StringVarablesParcticeProject.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVarablesParcticeProjectApp\StringVarablesParcticeProject\bin\Debug\net8.0\StringVarablesParcticeProject.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVarablesParcticeProjectApp\StringVarablesParcticeProject\bin\Debug\net8.0\StringVarablesParcticeProject.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVarablesParcticeProjectApp\StringVarablesParcticeProject\bin\Debug\net8.0\StringVarablesParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVarablesParcticeProjectApp\StringVarablesParcticeProject\bin\Debug\net8.0\StringVarablesParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVarablesParcticeProjectApp\StringVarablesParcticeProject\obj\Debug\net8.0\StringVarablesParcticeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVarablesParcticeProjectApp\StringVarablesParcticeProject\obj\Debug\net8.0\StringVarablesParcticeProject.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVarablesParcticeProjectApp\StringVarablesParcticeProject\obj\Debug\net8.0\StringVarablesParcticeProject.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVarablesParcticeProjectApp\StringVarablesParcticeProject\obj\Debug\net8.0\StringVarablesParcticeProject.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVarablesParcticeProjectApp\StringVarablesParcticeProject\obj\Debug\net8.0\StringVarablesParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVarablesParcticeProjectApp\StringVarablesParcticeProject\obj\Debug\net8.0\refint\StringVarablesParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVarablesParcticeProjectApp\StringVarablesParcticeProject\obj\Debug\net8.0\StringVarablesParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVarablesParcticeProjectApp\StringVarablesParcticeProject\obj\Debug\net8.0\StringVarablesParcticeProject.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\StringVarablesParcticeProjectApp\StringVarablesParcticeProject\obj\Debug\net8.0\ref\StringVarablesParcticeProject.dll
