@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DoubleVariablesApp\DoubleVariables\bin\Debug\net8.0\DoubleVariables.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DoubleVariablesApp\DoubleVariables\bin\Debug\net8.0\DoubleVariables.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DoubleVariablesApp\DoubleVariables\bin\Debug\net8.0\DoubleVariables.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DoubleVariablesApp\DoubleVariables\bin\Debug\net8.0\DoubleVariables.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DoubleVariablesApp\DoubleVariables\bin\Debug\net8.0\DoubleVariables.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DoubleVariablesApp\DoubleVariables\obj\Debug\net8.0\DoubleVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DoubleVariablesApp\DoubleVariables\obj\Debug\net8.0\DoubleVariables.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DoubleVariablesApp\DoubleVariables\obj\Debug\net8.0\DoubleVariables.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DoubleVariablesApp\DoubleVariables\obj\Debug\net8.0\DoubleVariables.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DoubleVariablesApp\DoubleVariables\obj\Debug\net8.0\DoubleVariables.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DoubleVariablesApp\DoubleVariables\obj\Debug\net8.0\refint\DoubleVariables.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DoubleVariablesApp\DoubleVariables\obj\Debug\net8.0\DoubleVariables.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DoubleVariablesApp\DoubleVariables\obj\Debug\net8.0\DoubleVariables.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DoubleVariablesApp\DoubleVariables\obj\Debug\net8.0\ref\DoubleVariables.dll

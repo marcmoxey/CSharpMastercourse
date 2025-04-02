@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\IntVariablesParcticeProjectApp\IntVariablesParcticeProject\bin\Debug\net8.0\IntVariablesParcticeProject.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\IntVariablesParcticeProjectApp\IntVariablesParcticeProject\bin\Debug\net8.0\IntVariablesParcticeProject.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\IntVariablesParcticeProjectApp\IntVariablesParcticeProject\bin\Debug\net8.0\IntVariablesParcticeProject.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\IntVariablesParcticeProjectApp\IntVariablesParcticeProject\bin\Debug\net8.0\IntVariablesParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\IntVariablesParcticeProjectApp\IntVariablesParcticeProject\bin\Debug\net8.0\IntVariablesParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\IntVariablesParcticeProjectApp\IntVariablesParcticeProject\obj\Debug\net8.0\IntVariablesParcticeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\IntVariablesParcticeProjectApp\IntVariablesParcticeProject\obj\Debug\net8.0\IntVariablesParcticeProject.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\IntVariablesParcticeProjectApp\IntVariablesParcticeProject\obj\Debug\net8.0\IntVariablesParcticeProject.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\IntVariablesParcticeProjectApp\IntVariablesParcticeProject\obj\Debug\net8.0\IntVariablesParcticeProject.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\IntVariablesParcticeProjectApp\IntVariablesParcticeProject\obj\Debug\net8.0\IntVariablesParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\IntVariablesParcticeProjectApp\IntVariablesParcticeProject\obj\Debug\net8.0\refint\IntVariablesParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\IntVariablesParcticeProjectApp\IntVariablesParcticeProject\obj\Debug\net8.0\IntVariablesParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\IntVariablesParcticeProjectApp\IntVariablesParcticeProject\obj\Debug\net8.0\IntVariablesParcticeProject.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\IntVariablesParcticeProjectApp\IntVariablesParcticeProject\obj\Debug\net8.0\ref\IntVariablesParcticeProject.dll
