@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\InstantiatedClassesDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\InstantiatedClassesDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\InstantiatedClassesDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\InstantiatedClassesDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\InstantiatedClassesDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\InstantiatedClassesDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\InstantiatedClassesDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\InstantiatedClassesDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\moxey\source\repos\CSharpMastercoruse\InstantiatedClassesDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\InstantiatedClassesDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\InstantiatedClassesDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\InstantiatedClassesDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\InstantiatedClassesDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\InstantiatedClassesDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
