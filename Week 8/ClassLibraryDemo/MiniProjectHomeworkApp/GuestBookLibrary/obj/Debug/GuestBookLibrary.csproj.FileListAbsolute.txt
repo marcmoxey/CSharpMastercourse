@@ -1,0 +1,6 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\MiniProjectHomeworkApp\GuestBookLibrary\bin\Debug\GuestBookLibrary.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\MiniProjectHomeworkApp\GuestBookLibrary\bin\Debug\GuestBookLibrary.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\MiniProjectHomeworkApp\GuestBookLibrary\obj\Debug\GuestBookLibrary.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\MiniProjectHomeworkApp\GuestBookLibrary\obj\Debug\GuestBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\MiniProjectHomeworkApp\GuestBookLibrary\obj\Debug\GuestBookLibrary.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\MiniProjectHomeworkApp\GuestBookLibrary\obj\Debug\GuestBookLibrary.pdb
