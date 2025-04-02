@@ -1,0 +1,10 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\PersonalFinanceTracker\FinanceApp\obj\Debug\FinanceApp.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\PersonalFinanceTracker\FinanceApp\obj\Debug\FinanceApp.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\PersonalFinanceTracker\FinanceApp\bin\Debug\FinanceApp.exe.config
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\PersonalFinanceTracker\FinanceApp\bin\Debug\FinanceApp.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\PersonalFinanceTracker\FinanceApp\bin\Debug\FinanceApp.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\PersonalFinanceTracker\FinanceApp\bin\Debug\FinanceLibrary.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\PersonalFinanceTracker\FinanceApp\bin\Debug\FinanceLibrary.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\PersonalFinanceTracker\FinanceApp\obj\Debug\FinanceApp.csproj.Up2Date
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\PersonalFinanceTracker\FinanceApp\obj\Debug\FinanceApp.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\PersonalFinanceTracker\FinanceApp\obj\Debug\FinanceApp.pdb
