@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionariesApp\Dicitionaries\bin\Debug\net8.0\Dicitionaries.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionariesApp\Dicitionaries\bin\Debug\net8.0\Dicitionaries.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionariesApp\Dicitionaries\bin\Debug\net8.0\Dicitionaries.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionariesApp\Dicitionaries\bin\Debug\net8.0\Dicitionaries.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionariesApp\Dicitionaries\bin\Debug\net8.0\Dicitionaries.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionariesApp\Dicitionaries\obj\Debug\net8.0\Dicitionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionariesApp\Dicitionaries\obj\Debug\net8.0\Dicitionaries.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionariesApp\Dicitionaries\obj\Debug\net8.0\Dicitionaries.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionariesApp\Dicitionaries\obj\Debug\net8.0\Dicitionaries.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionariesApp\Dicitionaries\obj\Debug\net8.0\Dicitionaries.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionariesApp\Dicitionaries\obj\Debug\net8.0\refint\Dicitionaries.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionariesApp\Dicitionaries\obj\Debug\net8.0\Dicitionaries.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionariesApp\Dicitionaries\obj\Debug\net8.0\Dicitionaries.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionariesApp\Dicitionaries\obj\Debug\net8.0\ref\Dicitionaries.dll

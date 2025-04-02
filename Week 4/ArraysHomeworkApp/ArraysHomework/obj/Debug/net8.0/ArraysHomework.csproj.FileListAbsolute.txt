@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ArraysHomeworkApp\ArraysHomework\bin\Debug\net8.0\ArraysHomework.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ArraysHomeworkApp\ArraysHomework\bin\Debug\net8.0\ArraysHomework.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ArraysHomeworkApp\ArraysHomework\bin\Debug\net8.0\ArraysHomework.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ArraysHomeworkApp\ArraysHomework\bin\Debug\net8.0\ArraysHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ArraysHomeworkApp\ArraysHomework\bin\Debug\net8.0\ArraysHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ArraysHomeworkApp\ArraysHomework\obj\Debug\net8.0\ArraysHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ArraysHomeworkApp\ArraysHomework\obj\Debug\net8.0\ArraysHomework.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ArraysHomeworkApp\ArraysHomework\obj\Debug\net8.0\ArraysHomework.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ArraysHomeworkApp\ArraysHomework\obj\Debug\net8.0\ArraysHomework.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ArraysHomeworkApp\ArraysHomework\obj\Debug\net8.0\ArraysHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ArraysHomeworkApp\ArraysHomework\obj\Debug\net8.0\refint\ArraysHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ArraysHomeworkApp\ArraysHomework\obj\Debug\net8.0\ArraysHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ArraysHomeworkApp\ArraysHomework\obj\Debug\net8.0\ArraysHomework.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ArraysHomeworkApp\ArraysHomework\obj\Debug\net8.0\ref\ArraysHomework.dll
