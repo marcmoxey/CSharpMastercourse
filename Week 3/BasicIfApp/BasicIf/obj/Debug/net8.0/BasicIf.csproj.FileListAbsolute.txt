@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfApp\BasicIf\bin\Debug\net8.0\BasicIf.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfApp\BasicIf\bin\Debug\net8.0\BasicIf.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfApp\BasicIf\bin\Debug\net8.0\BasicIf.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfApp\BasicIf\bin\Debug\net8.0\BasicIf.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfApp\BasicIf\bin\Debug\net8.0\BasicIf.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfApp\BasicIf\obj\Debug\net8.0\BasicIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfApp\BasicIf\obj\Debug\net8.0\BasicIf.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfApp\BasicIf\obj\Debug\net8.0\BasicIf.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfApp\BasicIf\obj\Debug\net8.0\BasicIf.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfApp\BasicIf\obj\Debug\net8.0\BasicIf.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfApp\BasicIf\obj\Debug\net8.0\refint\BasicIf.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfApp\BasicIf\obj\Debug\net8.0\BasicIf.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfApp\BasicIf\obj\Debug\net8.0\BasicIf.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfApp\BasicIf\obj\Debug\net8.0\ref\BasicIf.dll

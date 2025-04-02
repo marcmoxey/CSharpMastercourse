@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\AdvancedIfPracticProjectApp\AdvancedIfPracticProject\bin\Debug\net8.0\AdvancedIfPracticProject.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\AdvancedIfPracticProjectApp\AdvancedIfPracticProject\bin\Debug\net8.0\AdvancedIfPracticProject.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\AdvancedIfPracticProjectApp\AdvancedIfPracticProject\bin\Debug\net8.0\AdvancedIfPracticProject.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\AdvancedIfPracticProjectApp\AdvancedIfPracticProject\bin\Debug\net8.0\AdvancedIfPracticProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\AdvancedIfPracticProjectApp\AdvancedIfPracticProject\bin\Debug\net8.0\AdvancedIfPracticProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\AdvancedIfPracticProjectApp\AdvancedIfPracticProject\obj\Debug\net8.0\AdvancedIfPracticProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\AdvancedIfPracticProjectApp\AdvancedIfPracticProject\obj\Debug\net8.0\AdvancedIfPracticProject.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\AdvancedIfPracticProjectApp\AdvancedIfPracticProject\obj\Debug\net8.0\AdvancedIfPracticProject.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\AdvancedIfPracticProjectApp\AdvancedIfPracticProject\obj\Debug\net8.0\AdvancedIfPracticProject.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\AdvancedIfPracticProjectApp\AdvancedIfPracticProject\obj\Debug\net8.0\AdvancedIfPracticProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\AdvancedIfPracticProjectApp\AdvancedIfPracticProject\obj\Debug\net8.0\refint\AdvancedIfPracticProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\AdvancedIfPracticProjectApp\AdvancedIfPracticProject\obj\Debug\net8.0\AdvancedIfPracticProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\AdvancedIfPracticProjectApp\AdvancedIfPracticProject\obj\Debug\net8.0\AdvancedIfPracticProject.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\AdvancedIfPracticProjectApp\AdvancedIfPracticProject\obj\Debug\net8.0\ref\AdvancedIfPracticProject.dll
