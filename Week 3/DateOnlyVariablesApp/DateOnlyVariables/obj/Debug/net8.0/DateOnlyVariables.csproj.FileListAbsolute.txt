@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DateOnlyVariablesApp\DateOnlyVariables\bin\Debug\net8.0\DateOnlyVariables.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DateOnlyVariablesApp\DateOnlyVariables\bin\Debug\net8.0\DateOnlyVariables.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DateOnlyVariablesApp\DateOnlyVariables\bin\Debug\net8.0\DateOnlyVariables.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DateOnlyVariablesApp\DateOnlyVariables\bin\Debug\net8.0\DateOnlyVariables.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DateOnlyVariablesApp\DateOnlyVariables\bin\Debug\net8.0\DateOnlyVariables.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DateOnlyVariablesApp\DateOnlyVariables\obj\Debug\net8.0\DateOnlyVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DateOnlyVariablesApp\DateOnlyVariables\obj\Debug\net8.0\DateOnlyVariables.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DateOnlyVariablesApp\DateOnlyVariables\obj\Debug\net8.0\DateOnlyVariables.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DateOnlyVariablesApp\DateOnlyVariables\obj\Debug\net8.0\DateOnlyVariables.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DateOnlyVariablesApp\DateOnlyVariables\obj\Debug\net8.0\DateOnlyVariables.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DateOnlyVariablesApp\DateOnlyVariables\obj\Debug\net8.0\refint\DateOnlyVariables.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DateOnlyVariablesApp\DateOnlyVariables\obj\Debug\net8.0\DateOnlyVariables.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DateOnlyVariablesApp\DateOnlyVariables\obj\Debug\net8.0\DateOnlyVariables.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\DateOnlyVariablesApp\DateOnlyVariables\obj\Debug\net8.0\ref\DateOnlyVariables.dll
