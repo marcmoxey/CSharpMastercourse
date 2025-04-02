@@ -1,6 +1,0 @@
-C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\PersonalFinanceTracker\FinanceLibrary\bin\Debug\FinanceLibrary.dll
-C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\PersonalFinanceTracker\FinanceLibrary\bin\Debug\FinanceLibrary.pdb
-C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\PersonalFinanceTracker\FinanceLibrary\obj\Debug\FinanceLibrary.csproj.AssemblyReference.cache
-C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\PersonalFinanceTracker\FinanceLibrary\obj\Debug\FinanceLibrary.csproj.CoreCompileInputs.cache
-C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\PersonalFinanceTracker\FinanceLibrary\obj\Debug\FinanceLibrary.dll
-C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\PersonalFinanceTracker\FinanceLibrary\obj\Debug\FinanceLibrary.pdb
