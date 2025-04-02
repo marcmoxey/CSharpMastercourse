@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsApp\ForEachLoops\bin\Debug\net8.0\ForEachLoops.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsApp\ForEachLoops\bin\Debug\net8.0\ForEachLoops.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsApp\ForEachLoops\bin\Debug\net8.0\ForEachLoops.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsApp\ForEachLoops\bin\Debug\net8.0\ForEachLoops.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsApp\ForEachLoops\bin\Debug\net8.0\ForEachLoops.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsApp\ForEachLoops\obj\Debug\net8.0\ForEachLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsApp\ForEachLoops\obj\Debug\net8.0\ForEachLoops.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsApp\ForEachLoops\obj\Debug\net8.0\ForEachLoops.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsApp\ForEachLoops\obj\Debug\net8.0\ForEachLoops.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsApp\ForEachLoops\obj\Debug\net8.0\ForEachLoops.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsApp\ForEachLoops\obj\Debug\net8.0\refint\ForEachLoops.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsApp\ForEachLoops\obj\Debug\net8.0\ForEachLoops.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsApp\ForEachLoops\obj\Debug\net8.0\ForEachLoops.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsApp\ForEachLoops\obj\Debug\net8.0\ref\ForEachLoops.dll

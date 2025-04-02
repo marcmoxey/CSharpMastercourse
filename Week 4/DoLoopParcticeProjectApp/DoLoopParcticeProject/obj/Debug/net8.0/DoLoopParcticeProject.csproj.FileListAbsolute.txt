@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopParcticeProjectApp\DoLoopParcticeProject\bin\Debug\net8.0\DoLoopParcticeProject.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopParcticeProjectApp\DoLoopParcticeProject\bin\Debug\net8.0\DoLoopParcticeProject.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopParcticeProjectApp\DoLoopParcticeProject\bin\Debug\net8.0\DoLoopParcticeProject.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopParcticeProjectApp\DoLoopParcticeProject\bin\Debug\net8.0\DoLoopParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopParcticeProjectApp\DoLoopParcticeProject\bin\Debug\net8.0\DoLoopParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopParcticeProjectApp\DoLoopParcticeProject\obj\Debug\net8.0\DoLoopParcticeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopParcticeProjectApp\DoLoopParcticeProject\obj\Debug\net8.0\DoLoopParcticeProject.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopParcticeProjectApp\DoLoopParcticeProject\obj\Debug\net8.0\DoLoopParcticeProject.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopParcticeProjectApp\DoLoopParcticeProject\obj\Debug\net8.0\DoLoopParcticeProject.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopParcticeProjectApp\DoLoopParcticeProject\obj\Debug\net8.0\DoLoopParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopParcticeProjectApp\DoLoopParcticeProject\obj\Debug\net8.0\refint\DoLoopParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopParcticeProjectApp\DoLoopParcticeProject\obj\Debug\net8.0\DoLoopParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopParcticeProjectApp\DoLoopParcticeProject\obj\Debug\net8.0\DoLoopParcticeProject.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopParcticeProjectApp\DoLoopParcticeProject\obj\Debug\net8.0\ref\DoLoopParcticeProject.dll

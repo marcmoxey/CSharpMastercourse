@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopsHomeworkApp\DoLoopsHomework\bin\Debug\net8.0\DoLoopsHomework.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopsHomeworkApp\DoLoopsHomework\bin\Debug\net8.0\DoLoopsHomework.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopsHomeworkApp\DoLoopsHomework\bin\Debug\net8.0\DoLoopsHomework.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopsHomeworkApp\DoLoopsHomework\bin\Debug\net8.0\DoLoopsHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopsHomeworkApp\DoLoopsHomework\bin\Debug\net8.0\DoLoopsHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopsHomeworkApp\DoLoopsHomework\obj\Debug\net8.0\DoLoopsHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopsHomeworkApp\DoLoopsHomework\obj\Debug\net8.0\DoLoopsHomework.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopsHomeworkApp\DoLoopsHomework\obj\Debug\net8.0\DoLoopsHomework.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopsHomeworkApp\DoLoopsHomework\obj\Debug\net8.0\DoLoopsHomework.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopsHomeworkApp\DoLoopsHomework\obj\Debug\net8.0\DoLoopsHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopsHomeworkApp\DoLoopsHomework\obj\Debug\net8.0\refint\DoLoopsHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopsHomeworkApp\DoLoopsHomework\obj\Debug\net8.0\DoLoopsHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopsHomeworkApp\DoLoopsHomework\obj\Debug\net8.0\DoLoopsHomework.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DoLoopsHomeworkApp\DoLoopsHomework\obj\Debug\net8.0\ref\DoLoopsHomework.dll
