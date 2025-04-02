@@ -1,7 +1,0 @@
-C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\OnlineStoreProductApp\OnlineStoreProduct\bin\Debug\OnlineStoreProduct.exe.config
-C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\OnlineStoreProductApp\OnlineStoreProduct\bin\Debug\OnlineStoreProduct.exe
-C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\OnlineStoreProductApp\OnlineStoreProduct\bin\Debug\OnlineStoreProduct.pdb
-C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\OnlineStoreProductApp\OnlineStoreProduct\obj\Debug\OnlineStoreProduct.csproj.AssemblyReference.cache
-C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\OnlineStoreProductApp\OnlineStoreProduct\obj\Debug\OnlineStoreProduct.csproj.CoreCompileInputs.cache
-C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\OnlineStoreProductApp\OnlineStoreProduct\obj\Debug\OnlineStoreProduct.exe
-C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\OnlineStoreProductApp\OnlineStoreProduct\obj\Debug\OnlineStoreProduct.pdb
