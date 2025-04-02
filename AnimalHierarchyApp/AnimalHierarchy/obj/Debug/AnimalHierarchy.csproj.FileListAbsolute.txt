@@ -1,7 +1,0 @@
-C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\AnimalHierarchyApp\AnimalHierarchy\bin\Debug\AnimalHierarchy.exe.config
-C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\AnimalHierarchyApp\AnimalHierarchy\bin\Debug\AnimalHierarchy.exe
-C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\AnimalHierarchyApp\AnimalHierarchy\bin\Debug\AnimalHierarchy.pdb
-C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\AnimalHierarchyApp\AnimalHierarchy\obj\Debug\AnimalHierarchy.csproj.AssemblyReference.cache
-C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\AnimalHierarchyApp\AnimalHierarchy\obj\Debug\AnimalHierarchy.csproj.CoreCompileInputs.cache
-C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\AnimalHierarchyApp\AnimalHierarchy\obj\Debug\AnimalHierarchy.exe
-C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\AnimalHierarchyApp\AnimalHierarchy\obj\Debug\AnimalHierarchy.pdb
