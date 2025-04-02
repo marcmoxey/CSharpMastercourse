@@ -1,0 +1,14 @@
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/MediaPlayerSystem/bin/Debug/net9.0/MediaPlayerSystem
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/MediaPlayerSystem/bin/Debug/net9.0/MediaPlayerSystem.deps.json
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/MediaPlayerSystem/bin/Debug/net9.0/MediaPlayerSystem.runtimeconfig.json
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/MediaPlayerSystem/bin/Debug/net9.0/MediaPlayerSystem.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/MediaPlayerSystem/bin/Debug/net9.0/MediaPlayerSystem.pdb
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/MediaPlayerSystem/obj/Debug/net9.0/MediaPlayerSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/MediaPlayerSystem/obj/Debug/net9.0/MediaPlayerSystem.AssemblyInfoInputs.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/MediaPlayerSystem/obj/Debug/net9.0/MediaPlayerSystem.AssemblyInfo.cs
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/MediaPlayerSystem/obj/Debug/net9.0/MediaPlayerSystem.csproj.CoreCompileInputs.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/MediaPlayerSystem/obj/Debug/net9.0/MediaPlayerSystem.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/MediaPlayerSystem/obj/Debug/net9.0/refint/MediaPlayerSystem.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/MediaPlayerSystem/obj/Debug/net9.0/MediaPlayerSystem.pdb
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/MediaPlayerSystem/obj/Debug/net9.0/MediaPlayerSystem.genruntimeconfig.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/MediaPlayerSystem/obj/Debug/net9.0/ref/MediaPlayerSystem.dll

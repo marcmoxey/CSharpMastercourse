@@ -1,0 +1,14 @@
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InterfaceHomework/bin/Debug/net9.0/InterfaceHomework
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InterfaceHomework/bin/Debug/net9.0/InterfaceHomework.deps.json
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InterfaceHomework/bin/Debug/net9.0/InterfaceHomework.runtimeconfig.json
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InterfaceHomework/bin/Debug/net9.0/InterfaceHomework.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InterfaceHomework/bin/Debug/net9.0/InterfaceHomework.pdb
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InterfaceHomework/obj/Debug/net9.0/InterfaceHomework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InterfaceHomework/obj/Debug/net9.0/InterfaceHomework.AssemblyInfoInputs.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InterfaceHomework/obj/Debug/net9.0/InterfaceHomework.AssemblyInfo.cs
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InterfaceHomework/obj/Debug/net9.0/InterfaceHomework.csproj.CoreCompileInputs.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InterfaceHomework/obj/Debug/net9.0/InterfaceHomework.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InterfaceHomework/obj/Debug/net9.0/refint/InterfaceHomework.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InterfaceHomework/obj/Debug/net9.0/InterfaceHomework.pdb
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InterfaceHomework/obj/Debug/net9.0/InterfaceHomework.genruntimeconfig.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InterfaceHomework/obj/Debug/net9.0/ref/InterfaceHomework.dll
