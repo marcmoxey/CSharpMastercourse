@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\UsingBreakpointsApp\UsingBreakpoints\bin\Debug\net8.0\UsingBreakpoints.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\UsingBreakpointsApp\UsingBreakpoints\bin\Debug\net8.0\UsingBreakpoints.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\UsingBreakpointsApp\UsingBreakpoints\bin\Debug\net8.0\UsingBreakpoints.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\UsingBreakpointsApp\UsingBreakpoints\bin\Debug\net8.0\UsingBreakpoints.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\UsingBreakpointsApp\UsingBreakpoints\bin\Debug\net8.0\UsingBreakpoints.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\UsingBreakpointsApp\UsingBreakpoints\obj\Debug\net8.0\UsingBreakpoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\UsingBreakpointsApp\UsingBreakpoints\obj\Debug\net8.0\UsingBreakpoints.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\UsingBreakpointsApp\UsingBreakpoints\obj\Debug\net8.0\UsingBreakpoints.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\UsingBreakpointsApp\UsingBreakpoints\obj\Debug\net8.0\UsingBreakpoints.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\UsingBreakpointsApp\UsingBreakpoints\obj\Debug\net8.0\UsingBreakpoints.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\UsingBreakpointsApp\UsingBreakpoints\obj\Debug\net8.0\refint\UsingBreakpoints.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\UsingBreakpointsApp\UsingBreakpoints\obj\Debug\net8.0\UsingBreakpoints.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\UsingBreakpointsApp\UsingBreakpoints\obj\Debug\net8.0\UsingBreakpoints.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\UsingBreakpointsApp\UsingBreakpoints\obj\Debug\net8.0\ref\UsingBreakpoints.dll

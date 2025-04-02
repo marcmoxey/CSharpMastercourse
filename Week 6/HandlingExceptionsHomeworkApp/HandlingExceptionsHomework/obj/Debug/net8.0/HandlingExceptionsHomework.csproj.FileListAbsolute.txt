@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandlingExceptionsHomeworkApp\HandlingExceptionsHomework\bin\Debug\net8.0\HandlingExceptionsHomework.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandlingExceptionsHomeworkApp\HandlingExceptionsHomework\bin\Debug\net8.0\HandlingExceptionsHomework.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandlingExceptionsHomeworkApp\HandlingExceptionsHomework\bin\Debug\net8.0\HandlingExceptionsHomework.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandlingExceptionsHomeworkApp\HandlingExceptionsHomework\bin\Debug\net8.0\HandlingExceptionsHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandlingExceptionsHomeworkApp\HandlingExceptionsHomework\bin\Debug\net8.0\HandlingExceptionsHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandlingExceptionsHomeworkApp\HandlingExceptionsHomework\obj\Debug\net8.0\HandlingExceptionsHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandlingExceptionsHomeworkApp\HandlingExceptionsHomework\obj\Debug\net8.0\HandlingExceptionsHomework.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandlingExceptionsHomeworkApp\HandlingExceptionsHomework\obj\Debug\net8.0\HandlingExceptionsHomework.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandlingExceptionsHomeworkApp\HandlingExceptionsHomework\obj\Debug\net8.0\HandlingExceptionsHomework.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandlingExceptionsHomeworkApp\HandlingExceptionsHomework\obj\Debug\net8.0\HandlingExceptionsHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandlingExceptionsHomeworkApp\HandlingExceptionsHomework\obj\Debug\net8.0\refint\HandlingExceptionsHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandlingExceptionsHomeworkApp\HandlingExceptionsHomework\obj\Debug\net8.0\HandlingExceptionsHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandlingExceptionsHomeworkApp\HandlingExceptionsHomework\obj\Debug\net8.0\HandlingExceptionsHomework.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandlingExceptionsHomeworkApp\HandlingExceptionsHomework\obj\Debug\net8.0\ref\HandlingExceptionsHomework.dll

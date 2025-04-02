@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandingExceptionsApp\HandingExceptions\bin\Debug\net8.0\HandingExceptions.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandingExceptionsApp\HandingExceptions\bin\Debug\net8.0\HandingExceptions.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandingExceptionsApp\HandingExceptions\bin\Debug\net8.0\HandingExceptions.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandingExceptionsApp\HandingExceptions\bin\Debug\net8.0\HandingExceptions.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandingExceptionsApp\HandingExceptions\bin\Debug\net8.0\HandingExceptions.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandingExceptionsApp\HandingExceptions\obj\Debug\net8.0\HandingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandingExceptionsApp\HandingExceptions\obj\Debug\net8.0\HandingExceptions.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandingExceptionsApp\HandingExceptions\obj\Debug\net8.0\HandingExceptions.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandingExceptionsApp\HandingExceptions\obj\Debug\net8.0\HandingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandingExceptionsApp\HandingExceptions\obj\Debug\net8.0\HandingExceptions.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandingExceptionsApp\HandingExceptions\obj\Debug\net8.0\refint\HandingExceptions.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandingExceptionsApp\HandingExceptions\obj\Debug\net8.0\HandingExceptions.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandingExceptionsApp\HandingExceptions\obj\Debug\net8.0\HandingExceptions.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\HandingExceptionsApp\HandingExceptions\obj\Debug\net8.0\ref\HandingExceptions.dll
