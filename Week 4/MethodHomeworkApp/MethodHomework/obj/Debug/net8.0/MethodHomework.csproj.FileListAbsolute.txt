@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\MethodHomeworkApp\MethodHomework\bin\Debug\net8.0\MethodHomework.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\MethodHomeworkApp\MethodHomework\bin\Debug\net8.0\MethodHomework.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\MethodHomeworkApp\MethodHomework\bin\Debug\net8.0\MethodHomework.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\MethodHomeworkApp\MethodHomework\bin\Debug\net8.0\MethodHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\MethodHomeworkApp\MethodHomework\bin\Debug\net8.0\MethodHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\MethodHomeworkApp\MethodHomework\obj\Debug\net8.0\MethodHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\MethodHomeworkApp\MethodHomework\obj\Debug\net8.0\MethodHomework.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\MethodHomeworkApp\MethodHomework\obj\Debug\net8.0\MethodHomework.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\MethodHomeworkApp\MethodHomework\obj\Debug\net8.0\MethodHomework.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\MethodHomeworkApp\MethodHomework\obj\Debug\net8.0\MethodHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\MethodHomeworkApp\MethodHomework\obj\Debug\net8.0\refint\MethodHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\MethodHomeworkApp\MethodHomework\obj\Debug\net8.0\MethodHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\MethodHomeworkApp\MethodHomework\obj\Debug\net8.0\MethodHomework.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\MethodHomeworkApp\MethodHomework\obj\Debug\net8.0\ref\MethodHomework.dll
