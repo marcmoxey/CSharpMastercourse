@@ -1,0 +1,7 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\ShapeAreaCalculatorApp\ShapeAreaCalculator\bin\Debug\ShapeAreaCalculator.exe.config
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\ShapeAreaCalculatorApp\ShapeAreaCalculator\bin\Debug\ShapeAreaCalculator.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\ShapeAreaCalculatorApp\ShapeAreaCalculator\bin\Debug\ShapeAreaCalculator.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\ShapeAreaCalculatorApp\ShapeAreaCalculator\obj\Debug\ShapeAreaCalculator.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\ShapeAreaCalculatorApp\ShapeAreaCalculator\obj\Debug\ShapeAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\ShapeAreaCalculatorApp\ShapeAreaCalculator\obj\Debug\ShapeAreaCalculator.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\ShapeAreaCalculatorApp\ShapeAreaCalculator\obj\Debug\ShapeAreaCalculator.pdb

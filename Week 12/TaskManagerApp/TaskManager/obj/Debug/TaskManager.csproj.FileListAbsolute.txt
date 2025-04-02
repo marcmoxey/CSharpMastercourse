@@ -1,0 +1,10 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\TaskManagerApp\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\TaskManagerApp\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\TaskManagerApp\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\TaskManagerApp\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\TaskManagerApp\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\TaskManagerApp\TaskManager\bin\Debug\TaskManagerLibrary.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\TaskManagerApp\TaskManager\bin\Debug\TaskManagerLibrary.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\TaskManagerApp\TaskManager\obj\Debug\TaskMana.F3FB485A.Up2Date
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\TaskManagerApp\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\TaskManagerApp\TaskManager\obj\Debug\TaskManager.pdb

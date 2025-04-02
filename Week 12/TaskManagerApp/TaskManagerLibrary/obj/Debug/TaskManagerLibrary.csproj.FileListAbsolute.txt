@@ -1,0 +1,6 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\TaskManagerApp\TaskManagerLibrary\obj\Debug\TaskManagerLibrary.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\TaskManagerApp\TaskManagerLibrary\obj\Debug\TaskManagerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\TaskManagerApp\TaskManagerLibrary\bin\Debug\TaskManagerLibrary.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\TaskManagerApp\TaskManagerLibrary\bin\Debug\TaskManagerLibrary.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\TaskManagerApp\TaskManagerLibrary\obj\Debug\TaskManagerLibrary.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\12Week\TaskManagerApp\TaskManagerLibrary\obj\Debug\TaskManagerLibrary.pdb
