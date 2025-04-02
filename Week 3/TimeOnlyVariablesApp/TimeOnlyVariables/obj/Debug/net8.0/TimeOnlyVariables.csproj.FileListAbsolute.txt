@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyVariablesApp\TimeOnlyVariables\bin\Debug\net8.0\TimeOnlyVariables.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyVariablesApp\TimeOnlyVariables\bin\Debug\net8.0\TimeOnlyVariables.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyVariablesApp\TimeOnlyVariables\bin\Debug\net8.0\TimeOnlyVariables.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyVariablesApp\TimeOnlyVariables\bin\Debug\net8.0\TimeOnlyVariables.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyVariablesApp\TimeOnlyVariables\bin\Debug\net8.0\TimeOnlyVariables.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net8.0\TimeOnlyVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net8.0\TimeOnlyVariables.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net8.0\TimeOnlyVariables.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net8.0\TimeOnlyVariables.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net8.0\TimeOnlyVariables.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net8.0\refint\TimeOnlyVariables.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net8.0\TimeOnlyVariables.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net8.0\TimeOnlyVariables.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyVariablesApp\TimeOnlyVariables\obj\Debug\net8.0\ref\TimeOnlyVariables.dll

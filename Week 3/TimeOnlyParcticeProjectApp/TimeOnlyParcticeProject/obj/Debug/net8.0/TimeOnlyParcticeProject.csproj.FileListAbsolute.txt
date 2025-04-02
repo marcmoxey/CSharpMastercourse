@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyParcticeProjectApp\TimeOnlyParcticeProject\bin\Debug\net8.0\TimeOnlyParcticeProject.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyParcticeProjectApp\TimeOnlyParcticeProject\bin\Debug\net8.0\TimeOnlyParcticeProject.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyParcticeProjectApp\TimeOnlyParcticeProject\bin\Debug\net8.0\TimeOnlyParcticeProject.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyParcticeProjectApp\TimeOnlyParcticeProject\bin\Debug\net8.0\TimeOnlyParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyParcticeProjectApp\TimeOnlyParcticeProject\bin\Debug\net8.0\TimeOnlyParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyParcticeProjectApp\TimeOnlyParcticeProject\obj\Debug\net8.0\TimeOnlyParcticeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyParcticeProjectApp\TimeOnlyParcticeProject\obj\Debug\net8.0\TimeOnlyParcticeProject.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyParcticeProjectApp\TimeOnlyParcticeProject\obj\Debug\net8.0\TimeOnlyParcticeProject.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyParcticeProjectApp\TimeOnlyParcticeProject\obj\Debug\net8.0\TimeOnlyParcticeProject.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyParcticeProjectApp\TimeOnlyParcticeProject\obj\Debug\net8.0\TimeOnlyParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyParcticeProjectApp\TimeOnlyParcticeProject\obj\Debug\net8.0\refint\TimeOnlyParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyParcticeProjectApp\TimeOnlyParcticeProject\obj\Debug\net8.0\TimeOnlyParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyParcticeProjectApp\TimeOnlyParcticeProject\obj\Debug\net8.0\TimeOnlyParcticeProject.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TimeOnlyParcticeProjectApp\TimeOnlyParcticeProject\obj\Debug\net8.0\ref\TimeOnlyParcticeProject.dll

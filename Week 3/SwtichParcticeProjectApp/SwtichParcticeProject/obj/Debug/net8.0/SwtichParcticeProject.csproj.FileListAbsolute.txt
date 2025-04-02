@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\SwtichParcticeProjectApp\SwtichParcticeProject\bin\Debug\net8.0\SwtichParcticeProject.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\SwtichParcticeProjectApp\SwtichParcticeProject\bin\Debug\net8.0\SwtichParcticeProject.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\SwtichParcticeProjectApp\SwtichParcticeProject\bin\Debug\net8.0\SwtichParcticeProject.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\SwtichParcticeProjectApp\SwtichParcticeProject\bin\Debug\net8.0\SwtichParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\SwtichParcticeProjectApp\SwtichParcticeProject\bin\Debug\net8.0\SwtichParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\SwtichParcticeProjectApp\SwtichParcticeProject\obj\Debug\net8.0\SwtichParcticeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\SwtichParcticeProjectApp\SwtichParcticeProject\obj\Debug\net8.0\SwtichParcticeProject.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\SwtichParcticeProjectApp\SwtichParcticeProject\obj\Debug\net8.0\SwtichParcticeProject.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\SwtichParcticeProjectApp\SwtichParcticeProject\obj\Debug\net8.0\SwtichParcticeProject.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\SwtichParcticeProjectApp\SwtichParcticeProject\obj\Debug\net8.0\SwtichParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\SwtichParcticeProjectApp\SwtichParcticeProject\obj\Debug\net8.0\refint\SwtichParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\SwtichParcticeProjectApp\SwtichParcticeProject\obj\Debug\net8.0\SwtichParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\SwtichParcticeProjectApp\SwtichParcticeProject\obj\Debug\net8.0\SwtichParcticeProject.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\SwtichParcticeProjectApp\SwtichParcticeProject\obj\Debug\net8.0\ref\SwtichParcticeProject.dll
