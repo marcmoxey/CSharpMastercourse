@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\BreakpointsHomeworkApp\BreakpointsHomework\bin\Debug\net8.0\BreakpointsHomework.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\BreakpointsHomeworkApp\BreakpointsHomework\bin\Debug\net8.0\BreakpointsHomework.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\BreakpointsHomeworkApp\BreakpointsHomework\bin\Debug\net8.0\BreakpointsHomework.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\BreakpointsHomeworkApp\BreakpointsHomework\bin\Debug\net8.0\BreakpointsHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\BreakpointsHomeworkApp\BreakpointsHomework\bin\Debug\net8.0\BreakpointsHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\BreakpointsHomeworkApp\BreakpointsHomework\obj\Debug\net8.0\BreakpointsHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\BreakpointsHomeworkApp\BreakpointsHomework\obj\Debug\net8.0\BreakpointsHomework.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\BreakpointsHomeworkApp\BreakpointsHomework\obj\Debug\net8.0\BreakpointsHomework.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\BreakpointsHomeworkApp\BreakpointsHomework\obj\Debug\net8.0\BreakpointsHomework.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\BreakpointsHomeworkApp\BreakpointsHomework\obj\Debug\net8.0\BreakpointsHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\BreakpointsHomeworkApp\BreakpointsHomework\obj\Debug\net8.0\refint\BreakpointsHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\BreakpointsHomeworkApp\BreakpointsHomework\obj\Debug\net8.0\BreakpointsHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\BreakpointsHomeworkApp\BreakpointsHomework\obj\Debug\net8.0\BreakpointsHomework.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\06Week\BreakpointsHomeworkApp\BreakpointsHomework\obj\Debug\net8.0\ref\BreakpointsHomework.dll
