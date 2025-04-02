@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionHomeworkApp\TypeConversionHomework\bin\Debug\net8.0\TypeConversionHomework.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionHomeworkApp\TypeConversionHomework\bin\Debug\net8.0\TypeConversionHomework.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionHomeworkApp\TypeConversionHomework\bin\Debug\net8.0\TypeConversionHomework.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionHomeworkApp\TypeConversionHomework\bin\Debug\net8.0\TypeConversionHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionHomeworkApp\TypeConversionHomework\bin\Debug\net8.0\TypeConversionHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionHomeworkApp\TypeConversionHomework\obj\Debug\net8.0\TypeConversionHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionHomeworkApp\TypeConversionHomework\obj\Debug\net8.0\TypeConversionHomework.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionHomeworkApp\TypeConversionHomework\obj\Debug\net8.0\TypeConversionHomework.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionHomeworkApp\TypeConversionHomework\obj\Debug\net8.0\TypeConversionHomework.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionHomeworkApp\TypeConversionHomework\obj\Debug\net8.0\TypeConversionHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionHomeworkApp\TypeConversionHomework\obj\Debug\net8.0\refint\TypeConversionHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionHomeworkApp\TypeConversionHomework\obj\Debug\net8.0\TypeConversionHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionHomeworkApp\TypeConversionHomework\obj\Debug\net8.0\TypeConversionHomework.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionHomeworkApp\TypeConversionHomework\obj\Debug\net8.0\ref\TypeConversionHomework.dll

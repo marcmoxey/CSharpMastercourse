@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionParcticeProjectApp\TypeConversionParcticeProject\bin\Debug\net8.0\TypeConversionParcticeProject.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionParcticeProjectApp\TypeConversionParcticeProject\bin\Debug\net8.0\TypeConversionParcticeProject.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionParcticeProjectApp\TypeConversionParcticeProject\bin\Debug\net8.0\TypeConversionParcticeProject.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionParcticeProjectApp\TypeConversionParcticeProject\bin\Debug\net8.0\TypeConversionParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionParcticeProjectApp\TypeConversionParcticeProject\bin\Debug\net8.0\TypeConversionParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionParcticeProjectApp\TypeConversionParcticeProject\obj\Debug\net8.0\TypeConversionParcticeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionParcticeProjectApp\TypeConversionParcticeProject\obj\Debug\net8.0\TypeConversionParcticeProject.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionParcticeProjectApp\TypeConversionParcticeProject\obj\Debug\net8.0\TypeConversionParcticeProject.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionParcticeProjectApp\TypeConversionParcticeProject\obj\Debug\net8.0\TypeConversionParcticeProject.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionParcticeProjectApp\TypeConversionParcticeProject\obj\Debug\net8.0\TypeConversionParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionParcticeProjectApp\TypeConversionParcticeProject\obj\Debug\net8.0\refint\TypeConversionParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionParcticeProjectApp\TypeConversionParcticeProject\obj\Debug\net8.0\TypeConversionParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionParcticeProjectApp\TypeConversionParcticeProject\obj\Debug\net8.0\TypeConversionParcticeProject.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\TypeConversionParcticeProjectApp\TypeConversionParcticeProject\obj\Debug\net8.0\ref\TypeConversionParcticeProject.dll
