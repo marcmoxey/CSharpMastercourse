@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfParcticeProjectApp\BasicIfParcticeProject\bin\Debug\net8.0\BasicIfParcticeProject.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfParcticeProjectApp\BasicIfParcticeProject\bin\Debug\net8.0\BasicIfParcticeProject.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfParcticeProjectApp\BasicIfParcticeProject\bin\Debug\net8.0\BasicIfParcticeProject.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfParcticeProjectApp\BasicIfParcticeProject\bin\Debug\net8.0\BasicIfParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfParcticeProjectApp\BasicIfParcticeProject\bin\Debug\net8.0\BasicIfParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfParcticeProjectApp\BasicIfParcticeProject\obj\Debug\net8.0\BasicIfParcticeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfParcticeProjectApp\BasicIfParcticeProject\obj\Debug\net8.0\BasicIfParcticeProject.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfParcticeProjectApp\BasicIfParcticeProject\obj\Debug\net8.0\BasicIfParcticeProject.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfParcticeProjectApp\BasicIfParcticeProject\obj\Debug\net8.0\BasicIfParcticeProject.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfParcticeProjectApp\BasicIfParcticeProject\obj\Debug\net8.0\BasicIfParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfParcticeProjectApp\BasicIfParcticeProject\obj\Debug\net8.0\refint\BasicIfParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfParcticeProjectApp\BasicIfParcticeProject\obj\Debug\net8.0\BasicIfParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfParcticeProjectApp\BasicIfParcticeProject\obj\Debug\net8.0\BasicIfParcticeProject.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BasicIfParcticeProjectApp\BasicIfParcticeProject\obj\Debug\net8.0\ref\BasicIfParcticeProject.dll

@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BoolVariablesParcticeProjectApp\BoolVariablesParcticeProject\bin\Debug\net8.0\BoolVariablesParcticeProject.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BoolVariablesParcticeProjectApp\BoolVariablesParcticeProject\bin\Debug\net8.0\BoolVariablesParcticeProject.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BoolVariablesParcticeProjectApp\BoolVariablesParcticeProject\bin\Debug\net8.0\BoolVariablesParcticeProject.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BoolVariablesParcticeProjectApp\BoolVariablesParcticeProject\bin\Debug\net8.0\BoolVariablesParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BoolVariablesParcticeProjectApp\BoolVariablesParcticeProject\bin\Debug\net8.0\BoolVariablesParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BoolVariablesParcticeProjectApp\BoolVariablesParcticeProject\obj\Debug\net8.0\BoolVariablesParcticeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BoolVariablesParcticeProjectApp\BoolVariablesParcticeProject\obj\Debug\net8.0\BoolVariablesParcticeProject.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BoolVariablesParcticeProjectApp\BoolVariablesParcticeProject\obj\Debug\net8.0\BoolVariablesParcticeProject.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BoolVariablesParcticeProjectApp\BoolVariablesParcticeProject\obj\Debug\net8.0\BoolVariablesParcticeProject.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BoolVariablesParcticeProjectApp\BoolVariablesParcticeProject\obj\Debug\net8.0\BoolVariablesParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BoolVariablesParcticeProjectApp\BoolVariablesParcticeProject\obj\Debug\net8.0\refint\BoolVariablesParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BoolVariablesParcticeProjectApp\BoolVariablesParcticeProject\obj\Debug\net8.0\BoolVariablesParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BoolVariablesParcticeProjectApp\BoolVariablesParcticeProject\obj\Debug\net8.0\BoolVariablesParcticeProject.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\BoolVariablesParcticeProjectApp\BoolVariablesParcticeProject\obj\Debug\net8.0\ref\BoolVariablesParcticeProject.dll
