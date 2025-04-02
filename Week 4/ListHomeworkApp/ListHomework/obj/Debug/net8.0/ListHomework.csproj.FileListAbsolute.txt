@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListHomeworkApp\ListHomework\bin\Debug\net8.0\ListHomework.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListHomeworkApp\ListHomework\bin\Debug\net8.0\ListHomework.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListHomeworkApp\ListHomework\bin\Debug\net8.0\ListHomework.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListHomeworkApp\ListHomework\bin\Debug\net8.0\ListHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListHomeworkApp\ListHomework\bin\Debug\net8.0\ListHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListHomeworkApp\ListHomework\obj\Debug\net8.0\ListHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListHomeworkApp\ListHomework\obj\Debug\net8.0\ListHomework.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListHomeworkApp\ListHomework\obj\Debug\net8.0\ListHomework.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListHomeworkApp\ListHomework\obj\Debug\net8.0\ListHomework.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListHomeworkApp\ListHomework\obj\Debug\net8.0\ListHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListHomeworkApp\ListHomework\obj\Debug\net8.0\refint\ListHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListHomeworkApp\ListHomework\obj\Debug\net8.0\ListHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListHomeworkApp\ListHomework\obj\Debug\net8.0\ListHomework.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListHomeworkApp\ListHomework\obj\Debug\net8.0\ref\ListHomework.dll

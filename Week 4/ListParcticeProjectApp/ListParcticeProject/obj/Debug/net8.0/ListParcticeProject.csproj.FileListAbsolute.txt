@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListParcticeProjectApp\ListParcticeProject\bin\Debug\net8.0\ListParcticeProject.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListParcticeProjectApp\ListParcticeProject\bin\Debug\net8.0\ListParcticeProject.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListParcticeProjectApp\ListParcticeProject\bin\Debug\net8.0\ListParcticeProject.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListParcticeProjectApp\ListParcticeProject\bin\Debug\net8.0\ListParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListParcticeProjectApp\ListParcticeProject\bin\Debug\net8.0\ListParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListParcticeProjectApp\ListParcticeProject\obj\Debug\net8.0\ListParcticeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListParcticeProjectApp\ListParcticeProject\obj\Debug\net8.0\ListParcticeProject.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListParcticeProjectApp\ListParcticeProject\obj\Debug\net8.0\ListParcticeProject.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListParcticeProjectApp\ListParcticeProject\obj\Debug\net8.0\ListParcticeProject.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListParcticeProjectApp\ListParcticeProject\obj\Debug\net8.0\ListParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListParcticeProjectApp\ListParcticeProject\obj\Debug\net8.0\refint\ListParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListParcticeProjectApp\ListParcticeProject\obj\Debug\net8.0\ListParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListParcticeProjectApp\ListParcticeProject\obj\Debug\net8.0\ListParcticeProject.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ListParcticeProjectApp\ListParcticeProject\obj\Debug\net8.0\ref\ListParcticeProject.dll
