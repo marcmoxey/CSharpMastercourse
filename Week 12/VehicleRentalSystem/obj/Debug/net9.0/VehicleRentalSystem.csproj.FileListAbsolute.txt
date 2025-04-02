@@ -1,0 +1,14 @@
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/VehicleRentalSystem/bin/Debug/net9.0/VehicleRentalSystem
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/VehicleRentalSystem/bin/Debug/net9.0/VehicleRentalSystem.deps.json
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/VehicleRentalSystem/bin/Debug/net9.0/VehicleRentalSystem.runtimeconfig.json
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/VehicleRentalSystem/bin/Debug/net9.0/VehicleRentalSystem.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/VehicleRentalSystem/bin/Debug/net9.0/VehicleRentalSystem.pdb
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/VehicleRentalSystem/obj/Debug/net9.0/VehicleRentalSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/VehicleRentalSystem/obj/Debug/net9.0/VehicleRentalSystem.AssemblyInfoInputs.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/VehicleRentalSystem/obj/Debug/net9.0/VehicleRentalSystem.AssemblyInfo.cs
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/VehicleRentalSystem/obj/Debug/net9.0/VehicleRentalSystem.csproj.CoreCompileInputs.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/VehicleRentalSystem/obj/Debug/net9.0/VehicleRentalSystem.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/VehicleRentalSystem/obj/Debug/net9.0/refint/VehicleRentalSystem.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/VehicleRentalSystem/obj/Debug/net9.0/VehicleRentalSystem.pdb
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/VehicleRentalSystem/obj/Debug/net9.0/VehicleRentalSystem.genruntimeconfig.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/VehicleRentalSystem/obj/Debug/net9.0/ref/VehicleRentalSystem.dll

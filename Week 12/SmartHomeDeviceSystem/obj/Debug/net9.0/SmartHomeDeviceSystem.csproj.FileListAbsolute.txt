@@ -1,0 +1,14 @@
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/SmartHomeDeviceSystem/bin/Debug/net9.0/SmartHomeDeviceSystem
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/SmartHomeDeviceSystem/bin/Debug/net9.0/SmartHomeDeviceSystem.deps.json
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/SmartHomeDeviceSystem/bin/Debug/net9.0/SmartHomeDeviceSystem.runtimeconfig.json
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/SmartHomeDeviceSystem/bin/Debug/net9.0/SmartHomeDeviceSystem.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/SmartHomeDeviceSystem/bin/Debug/net9.0/SmartHomeDeviceSystem.pdb
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/SmartHomeDeviceSystem/obj/Debug/net9.0/SmartHomeDeviceSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/SmartHomeDeviceSystem/obj/Debug/net9.0/SmartHomeDeviceSystem.AssemblyInfoInputs.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/SmartHomeDeviceSystem/obj/Debug/net9.0/SmartHomeDeviceSystem.AssemblyInfo.cs
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/SmartHomeDeviceSystem/obj/Debug/net9.0/SmartHomeDeviceSystem.csproj.CoreCompileInputs.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/SmartHomeDeviceSystem/obj/Debug/net9.0/SmartHomeDeviceSystem.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/SmartHomeDeviceSystem/obj/Debug/net9.0/refint/SmartHomeDeviceSystem.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/SmartHomeDeviceSystem/obj/Debug/net9.0/SmartHomeDeviceSystem.pdb
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/SmartHomeDeviceSystem/obj/Debug/net9.0/SmartHomeDeviceSystem.genruntimeconfig.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/SmartHomeDeviceSystem/obj/Debug/net9.0/ref/SmartHomeDeviceSystem.dll
