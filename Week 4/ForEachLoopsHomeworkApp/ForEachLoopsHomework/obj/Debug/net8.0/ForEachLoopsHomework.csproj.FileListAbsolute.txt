@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsHomeworkApp\ForEachLoopsHomework\bin\Debug\net8.0\ForEachLoopsHomework.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsHomeworkApp\ForEachLoopsHomework\bin\Debug\net8.0\ForEachLoopsHomework.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsHomeworkApp\ForEachLoopsHomework\bin\Debug\net8.0\ForEachLoopsHomework.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsHomeworkApp\ForEachLoopsHomework\bin\Debug\net8.0\ForEachLoopsHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsHomeworkApp\ForEachLoopsHomework\bin\Debug\net8.0\ForEachLoopsHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net8.0\ForEachLoopsHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net8.0\ForEachLoopsHomework.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net8.0\ForEachLoopsHomework.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net8.0\ForEachLoopsHomework.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net8.0\ForEachLoopsHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net8.0\refint\ForEachLoopsHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net8.0\ForEachLoopsHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net8.0\ForEachLoopsHomework.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net8.0\ref\ForEachLoopsHomework.dll
