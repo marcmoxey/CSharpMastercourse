@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PaymentProcessSystem/1.0.0": {
+        "runtime": {
+          "PaymentProcessSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PaymentProcessSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

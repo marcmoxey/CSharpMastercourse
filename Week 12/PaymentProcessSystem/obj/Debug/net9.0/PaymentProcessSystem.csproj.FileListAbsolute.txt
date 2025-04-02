@@ -1,0 +1,14 @@
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/PaymentProcessSystem/bin/Debug/net9.0/PaymentProcessSystem
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/PaymentProcessSystem/bin/Debug/net9.0/PaymentProcessSystem.deps.json
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/PaymentProcessSystem/bin/Debug/net9.0/PaymentProcessSystem.runtimeconfig.json
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/PaymentProcessSystem/bin/Debug/net9.0/PaymentProcessSystem.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/PaymentProcessSystem/bin/Debug/net9.0/PaymentProcessSystem.pdb
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/PaymentProcessSystem/obj/Debug/net9.0/PaymentProcessSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/PaymentProcessSystem/obj/Debug/net9.0/PaymentProcessSystem.AssemblyInfoInputs.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/PaymentProcessSystem/obj/Debug/net9.0/PaymentProcessSystem.AssemblyInfo.cs
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/PaymentProcessSystem/obj/Debug/net9.0/PaymentProcessSystem.csproj.CoreCompileInputs.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/PaymentProcessSystem/obj/Debug/net9.0/PaymentProcessSystem.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/PaymentProcessSystem/obj/Debug/net9.0/refint/PaymentProcessSystem.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/PaymentProcessSystem/obj/Debug/net9.0/PaymentProcessSystem.pdb
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/PaymentProcessSystem/obj/Debug/net9.0/PaymentProcessSystem.genruntimeconfig.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/PaymentProcessSystem/obj/Debug/net9.0/ref/PaymentProcessSystem.dll
