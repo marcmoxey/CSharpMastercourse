@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionaryHomeworkApp\DicitionaryHomework\bin\Debug\net8.0\DicitionaryHomework.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionaryHomeworkApp\DicitionaryHomework\bin\Debug\net8.0\DicitionaryHomework.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionaryHomeworkApp\DicitionaryHomework\bin\Debug\net8.0\DicitionaryHomework.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionaryHomeworkApp\DicitionaryHomework\bin\Debug\net8.0\DicitionaryHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionaryHomeworkApp\DicitionaryHomework\bin\Debug\net8.0\DicitionaryHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionaryHomeworkApp\DicitionaryHomework\obj\Debug\net8.0\DicitionaryHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionaryHomeworkApp\DicitionaryHomework\obj\Debug\net8.0\DicitionaryHomework.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionaryHomeworkApp\DicitionaryHomework\obj\Debug\net8.0\DicitionaryHomework.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionaryHomeworkApp\DicitionaryHomework\obj\Debug\net8.0\DicitionaryHomework.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionaryHomeworkApp\DicitionaryHomework\obj\Debug\net8.0\DicitionaryHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionaryHomeworkApp\DicitionaryHomework\obj\Debug\net8.0\refint\DicitionaryHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionaryHomeworkApp\DicitionaryHomework\obj\Debug\net8.0\DicitionaryHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionaryHomeworkApp\DicitionaryHomework\obj\Debug\net8.0\DicitionaryHomework.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DicitionaryHomeworkApp\DicitionaryHomework\obj\Debug\net8.0\ref\DicitionaryHomework.dll

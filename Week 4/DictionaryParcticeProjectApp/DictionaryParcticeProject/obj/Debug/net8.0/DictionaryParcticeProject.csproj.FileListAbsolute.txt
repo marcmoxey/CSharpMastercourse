@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DictionaryParcticeProjectApp\DictionaryParcticeProject\bin\Debug\net8.0\DictionaryParcticeProject.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DictionaryParcticeProjectApp\DictionaryParcticeProject\bin\Debug\net8.0\DictionaryParcticeProject.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DictionaryParcticeProjectApp\DictionaryParcticeProject\bin\Debug\net8.0\DictionaryParcticeProject.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DictionaryParcticeProjectApp\DictionaryParcticeProject\bin\Debug\net8.0\DictionaryParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DictionaryParcticeProjectApp\DictionaryParcticeProject\bin\Debug\net8.0\DictionaryParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DictionaryParcticeProjectApp\DictionaryParcticeProject\obj\Debug\net8.0\DictionaryParcticeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DictionaryParcticeProjectApp\DictionaryParcticeProject\obj\Debug\net8.0\DictionaryParcticeProject.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DictionaryParcticeProjectApp\DictionaryParcticeProject\obj\Debug\net8.0\DictionaryParcticeProject.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DictionaryParcticeProjectApp\DictionaryParcticeProject\obj\Debug\net8.0\DictionaryParcticeProject.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DictionaryParcticeProjectApp\DictionaryParcticeProject\obj\Debug\net8.0\DictionaryParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DictionaryParcticeProjectApp\DictionaryParcticeProject\obj\Debug\net8.0\refint\DictionaryParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DictionaryParcticeProjectApp\DictionaryParcticeProject\obj\Debug\net8.0\DictionaryParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DictionaryParcticeProjectApp\DictionaryParcticeProject\obj\Debug\net8.0\DictionaryParcticeProject.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\DictionaryParcticeProjectApp\DictionaryParcticeProject\obj\Debug\net8.0\ref\DictionaryParcticeProject.dll
