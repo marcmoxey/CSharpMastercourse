@@ -1,0 +1,7 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercoruse\07Week\PropertyTypeDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercoruse\07Week\PropertyTypeDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercoruse\07Week\PropertyTypeDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercoruse\07Week\PropertyTypeDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercoruse\07Week\PropertyTypeDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercoruse\07Week\PropertyTypeDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercoruse\07Week\PropertyTypeDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
