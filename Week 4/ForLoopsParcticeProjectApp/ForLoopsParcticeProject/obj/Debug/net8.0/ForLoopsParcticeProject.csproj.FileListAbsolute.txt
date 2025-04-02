@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsParcticeProjectApp\ForLoopsParcticeProject\bin\Debug\net8.0\ForLoopsParcticeProject.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsParcticeProjectApp\ForLoopsParcticeProject\bin\Debug\net8.0\ForLoopsParcticeProject.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsParcticeProjectApp\ForLoopsParcticeProject\bin\Debug\net8.0\ForLoopsParcticeProject.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsParcticeProjectApp\ForLoopsParcticeProject\bin\Debug\net8.0\ForLoopsParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsParcticeProjectApp\ForLoopsParcticeProject\bin\Debug\net8.0\ForLoopsParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsParcticeProjectApp\ForLoopsParcticeProject\obj\Debug\net8.0\ForLoopsParcticeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsParcticeProjectApp\ForLoopsParcticeProject\obj\Debug\net8.0\ForLoopsParcticeProject.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsParcticeProjectApp\ForLoopsParcticeProject\obj\Debug\net8.0\ForLoopsParcticeProject.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsParcticeProjectApp\ForLoopsParcticeProject\obj\Debug\net8.0\ForLoopsParcticeProject.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsParcticeProjectApp\ForLoopsParcticeProject\obj\Debug\net8.0\ForLoopsParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsParcticeProjectApp\ForLoopsParcticeProject\obj\Debug\net8.0\refint\ForLoopsParcticeProject.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsParcticeProjectApp\ForLoopsParcticeProject\obj\Debug\net8.0\ForLoopsParcticeProject.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsParcticeProjectApp\ForLoopsParcticeProject\obj\Debug\net8.0\ForLoopsParcticeProject.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsParcticeProjectApp\ForLoopsParcticeProject\obj\Debug\net8.0\ref\ForLoopsParcticeProject.dll

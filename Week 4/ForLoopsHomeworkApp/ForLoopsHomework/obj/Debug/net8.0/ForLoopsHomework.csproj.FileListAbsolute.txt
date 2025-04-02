@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsHomeworkApp\ForLoopsHomework\bin\Debug\net8.0\ForLoopsHomework.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsHomeworkApp\ForLoopsHomework\bin\Debug\net8.0\ForLoopsHomework.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsHomeworkApp\ForLoopsHomework\bin\Debug\net8.0\ForLoopsHomework.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsHomeworkApp\ForLoopsHomework\bin\Debug\net8.0\ForLoopsHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsHomeworkApp\ForLoopsHomework\bin\Debug\net8.0\ForLoopsHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net8.0\ForLoopsHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net8.0\ForLoopsHomework.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net8.0\ForLoopsHomework.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net8.0\ForLoopsHomework.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net8.0\ForLoopsHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net8.0\refint\ForLoopsHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net8.0\ForLoopsHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net8.0\ForLoopsHomework.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\04Week\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net8.0\ref\ForLoopsHomework.dll
