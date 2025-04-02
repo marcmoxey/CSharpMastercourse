@@ -1,0 +1,6 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\ClassLibraryDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\ClassLibraryDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\ClassLibraryDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\ClassLibraryDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\ClassLibraryDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\ClassLibraryDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb

@@ -1,0 +1,6 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\ClassLibraryHomeworkApp\PersonLibrary\bin\Debug\PersonLibrary.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\ClassLibraryHomeworkApp\PersonLibrary\bin\Debug\PersonLibrary.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\ClassLibraryHomeworkApp\PersonLibrary\obj\Debug\PersonLibrary.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\ClassLibraryHomeworkApp\PersonLibrary\obj\Debug\PersonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\ClassLibraryHomeworkApp\PersonLibrary\obj\Debug\PersonLibrary.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\ClassLibraryHomeworkApp\PersonLibrary\obj\Debug\PersonLibrary.pdb

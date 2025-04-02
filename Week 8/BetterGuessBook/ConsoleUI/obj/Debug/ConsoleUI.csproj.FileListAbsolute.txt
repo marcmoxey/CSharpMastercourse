@@ -1,0 +1,10 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\BetterGuessBook\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\BetterGuessBook\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\BetterGuessBook\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\BetterGuessBook\ConsoleUI\bin\Debug\GuestBookLibrary.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\BetterGuessBook\ConsoleUI\bin\Debug\GuestBookLibrary.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\BetterGuessBook\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\BetterGuessBook\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\BetterGuessBook\ConsoleUI\obj\Debug\ConsoleUI.csproj.Up2Date
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\BetterGuessBook\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\08Week\BetterGuessBook\ConsoleUI\obj\Debug\ConsoleUI.pdb
