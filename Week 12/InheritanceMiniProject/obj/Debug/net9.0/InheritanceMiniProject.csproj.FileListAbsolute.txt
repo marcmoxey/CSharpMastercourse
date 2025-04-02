@@ -1,0 +1,14 @@
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProject/bin/Debug/net9.0/InheritanceMiniProject
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProject/bin/Debug/net9.0/InheritanceMiniProject.deps.json
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProject/bin/Debug/net9.0/InheritanceMiniProject.runtimeconfig.json
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProject/bin/Debug/net9.0/InheritanceMiniProject.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProject/bin/Debug/net9.0/InheritanceMiniProject.pdb
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProject/obj/Debug/net9.0/InheritanceMiniProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProject/obj/Debug/net9.0/InheritanceMiniProject.AssemblyInfoInputs.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProject/obj/Debug/net9.0/InheritanceMiniProject.AssemblyInfo.cs
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProject/obj/Debug/net9.0/InheritanceMiniProject.csproj.CoreCompileInputs.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProject/obj/Debug/net9.0/InheritanceMiniProject.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProject/obj/Debug/net9.0/refint/InheritanceMiniProject.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProject/obj/Debug/net9.0/InheritanceMiniProject.pdb
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProject/obj/Debug/net9.0/InheritanceMiniProject.genruntimeconfig.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProject/obj/Debug/net9.0/ref/InheritanceMiniProject.dll

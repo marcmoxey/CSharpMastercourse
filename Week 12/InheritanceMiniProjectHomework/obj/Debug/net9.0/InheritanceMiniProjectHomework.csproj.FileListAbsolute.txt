@@ -1,0 +1,14 @@
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProjectHomework/bin/Debug/net9.0/InheritanceMiniProjectHomework
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProjectHomework/bin/Debug/net9.0/InheritanceMiniProjectHomework.deps.json
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProjectHomework/bin/Debug/net9.0/InheritanceMiniProjectHomework.runtimeconfig.json
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProjectHomework/bin/Debug/net9.0/InheritanceMiniProjectHomework.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProjectHomework/bin/Debug/net9.0/InheritanceMiniProjectHomework.pdb
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProjectHomework/obj/Debug/net9.0/InheritanceMiniProjectHomework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProjectHomework/obj/Debug/net9.0/InheritanceMiniProjectHomework.AssemblyInfoInputs.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProjectHomework/obj/Debug/net9.0/InheritanceMiniProjectHomework.AssemblyInfo.cs
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProjectHomework/obj/Debug/net9.0/InheritanceMiniProjectHomework.csproj.CoreCompileInputs.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProjectHomework/obj/Debug/net9.0/InheritanceMiniProjectHomework.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProjectHomework/obj/Debug/net9.0/refint/InheritanceMiniProjectHomework.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProjectHomework/obj/Debug/net9.0/InheritanceMiniProjectHomework.pdb
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProjectHomework/obj/Debug/net9.0/InheritanceMiniProjectHomework.genruntimeconfig.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/InheritanceMiniProjectHomework/obj/Debug/net9.0/ref/InheritanceMiniProjectHomework.dll

@@ -1,0 +1,14 @@
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/GameCharacterAbilities/bin/Debug/net9.0/GameCharacterAbilities
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/GameCharacterAbilities/bin/Debug/net9.0/GameCharacterAbilities.deps.json
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/GameCharacterAbilities/bin/Debug/net9.0/GameCharacterAbilities.runtimeconfig.json
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/GameCharacterAbilities/bin/Debug/net9.0/GameCharacterAbilities.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/GameCharacterAbilities/bin/Debug/net9.0/GameCharacterAbilities.pdb
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/GameCharacterAbilities/obj/Debug/net9.0/GameCharacterAbilities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/GameCharacterAbilities/obj/Debug/net9.0/GameCharacterAbilities.AssemblyInfoInputs.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/GameCharacterAbilities/obj/Debug/net9.0/GameCharacterAbilities.AssemblyInfo.cs
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/GameCharacterAbilities/obj/Debug/net9.0/GameCharacterAbilities.csproj.CoreCompileInputs.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/GameCharacterAbilities/obj/Debug/net9.0/GameCharacterAbilities.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/GameCharacterAbilities/obj/Debug/net9.0/refint/GameCharacterAbilities.dll
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/GameCharacterAbilities/obj/Debug/net9.0/GameCharacterAbilities.pdb
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/GameCharacterAbilities/obj/Debug/net9.0/GameCharacterAbilities.genruntimeconfig.cache
+/Users/marcmoxey/Repo/CSharpMastercoruse/12Week/GameCharacterAbilities/obj/Debug/net9.0/ref/GameCharacterAbilities.dll
