@@ -1,0 +1,10 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\AccessModifiersDemoApp\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.exe.config
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\AccessModifiersDemoApp\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\AccessModifiersDemoApp\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\AccessModifiersDemoApp\AccessModifiersDemo\bin\Debug\DemoLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\AccessModifiersDemoApp\AccessModifiersDemo\bin\Debug\DemoLibrary.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\AccessModifiersDemoApp\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\AccessModifiersDemoApp\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\AccessModifiersDemoApp\AccessModifiersDemo\obj\Debug\AccessMo.1518B2BF.Up2Date
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\AccessModifiersDemoApp\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\AccessModifiersDemoApp\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.pdb
