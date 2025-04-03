@@ -1,0 +1,6 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 12\StudentGradeManagement System\GradeLibrary\bin\Debug\GradeLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 12\StudentGradeManagement System\GradeLibrary\bin\Debug\GradeLibrary.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 12\StudentGradeManagement System\GradeLibrary\obj\Debug\GradeLibrary.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 12\StudentGradeManagement System\GradeLibrary\obj\Debug\GradeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 12\StudentGradeManagement System\GradeLibrary\obj\Debug\GradeLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 12\StudentGradeManagement System\GradeLibrary\obj\Debug\GradeLibrary.pdb
