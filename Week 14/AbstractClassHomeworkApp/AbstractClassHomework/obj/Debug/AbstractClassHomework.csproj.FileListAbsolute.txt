@@ -1,0 +1,10 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\AbstractClassHomeworkApp\AbstractClassHomework\bin\Debug\AbstractClassHomework.exe.config
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\AbstractClassHomeworkApp\AbstractClassHomework\bin\Debug\AbstractClassHomework.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\AbstractClassHomeworkApp\AbstractClassHomework\bin\Debug\AbstractClassHomework.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\AbstractClassHomeworkApp\AbstractClassHomework\bin\Debug\DemoLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\AbstractClassHomeworkApp\AbstractClassHomework\bin\Debug\DemoLibrary.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\AbstractClassHomeworkApp\AbstractClassHomework\obj\Debug\AbstractClassHomework.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\AbstractClassHomeworkApp\AbstractClassHomework\obj\Debug\AbstractClassHomework.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\AbstractClassHomeworkApp\AbstractClassHomework\obj\Debug\Abstract.F990C350.Up2Date
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\AbstractClassHomeworkApp\AbstractClassHomework\obj\Debug\AbstractClassHomework.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\AbstractClassHomeworkApp\AbstractClassHomework\obj\Debug\AbstractClassHomework.pdb
