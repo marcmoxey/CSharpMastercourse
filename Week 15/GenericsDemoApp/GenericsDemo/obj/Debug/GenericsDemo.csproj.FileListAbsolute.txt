@@ -1,0 +1,7 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericsDemoApp\GenericsDemo\bin\Debug\GenericsDemo.exe.config
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericsDemoApp\GenericsDemo\bin\Debug\GenericsDemo.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericsDemoApp\GenericsDemo\bin\Debug\GenericsDemo.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.pdb
