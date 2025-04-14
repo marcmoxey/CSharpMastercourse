@@ -1,0 +1,7 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\EventHomeworkApp\EventHomework\bin\Debug\EventHomework.exe.config
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\EventHomeworkApp\EventHomework\bin\Debug\EventHomework.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\EventHomeworkApp\EventHomework\bin\Debug\EventHomework.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\EventHomeworkApp\EventHomework\obj\Debug\EventHomework.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\EventHomeworkApp\EventHomework\obj\Debug\EventHomework.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\EventHomeworkApp\EventHomework\obj\Debug\EventHomework.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\EventHomeworkApp\EventHomework\obj\Debug\EventHomework.pdb
