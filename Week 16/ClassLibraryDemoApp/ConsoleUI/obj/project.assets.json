@@ -1,0 +1,139 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "CoreLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CoreLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CoreLibrary.dll": {}
+        }
+      },
+      "FrameworkLibrary/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/FrameworkLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FrameworkLibrary.dll": {}
+        }
+      },
+      "StandardLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/StandardLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StandardLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CoreLibrary/CoreLibrary.csproj",
+      "msbuildProject": "../CoreLibrary/CoreLibrary.csproj"
+    },
+    "FrameworkLibrary/1.0.0": {
+      "type": "project",
+      "path": "../FrameworkLibrary/FrameworkLibrary.csproj",
+      "msbuildProject": "../FrameworkLibrary/FrameworkLibrary.csproj"
+    },
+    "StandardLibrary/1.0.0": {
+      "type": "project",
+      "path": "../StandardLibrary/StandardLibrary.csproj",
+      "msbuildProject": "../StandardLibrary/StandardLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "CoreLibrary >= 1.0.0",
+      "FrameworkLibrary >= 1.0.0",
+      "StandardLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\moxey\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 16\\ClassLibraryDemoApp\\ConsoleUI\\ConsoleUI.csproj",
+      "projectName": "ConsoleUI",
+      "projectPath": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 16\\ClassLibraryDemoApp\\ConsoleUI\\ConsoleUI.csproj",
+      "packagesPath": "C:\\Users\\moxey\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 16\\ClassLibraryDemoApp\\ConsoleUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\moxey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 16\\ClassLibraryDemoApp\\CoreLibrary\\CoreLibrary.csproj": {
+              "projectPath": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 16\\ClassLibraryDemoApp\\CoreLibrary\\CoreLibrary.csproj"
+            },
+            "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 16\\ClassLibraryDemoApp\\FrameworkLibrary\\FrameworkLibrary.csproj": {
+              "projectPath": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 16\\ClassLibraryDemoApp\\FrameworkLibrary\\FrameworkLibrary.csproj"
+            },
+            "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 16\\ClassLibraryDemoApp\\StandardLibrary\\StandardLibrary.csproj": {
+              "projectPath": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 16\\ClassLibraryDemoApp\\StandardLibrary\\StandardLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

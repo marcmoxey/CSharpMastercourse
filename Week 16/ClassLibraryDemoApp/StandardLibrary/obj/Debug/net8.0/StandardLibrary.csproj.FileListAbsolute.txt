@@ -1,0 +1,12 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryDemoApp\StandardLibrary\bin\Debug\net8.0\StandardLibrary.deps.json
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryDemoApp\StandardLibrary\bin\Debug\net8.0\StandardLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryDemoApp\StandardLibrary\bin\Debug\net8.0\StandardLibrary.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryDemoApp\StandardLibrary\obj\Debug\net8.0\StandardLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryDemoApp\StandardLibrary\obj\Debug\net8.0\StandardLibrary.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryDemoApp\StandardLibrary\obj\Debug\net8.0\StandardLibrary.AssemblyInfo.cs
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryDemoApp\StandardLibrary\obj\Debug\net8.0\StandardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryDemoApp\StandardLibrary\obj\Debug\net8.0\StandardLibrary.sourcelink.json
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryDemoApp\StandardLibrary\obj\Debug\net8.0\StandardLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryDemoApp\StandardLibrary\obj\Debug\net8.0\refint\StandardLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryDemoApp\StandardLibrary\obj\Debug\net8.0\StandardLibrary.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryDemoApp\StandardLibrary\obj\Debug\net8.0\ref\StandardLibrary.dll
