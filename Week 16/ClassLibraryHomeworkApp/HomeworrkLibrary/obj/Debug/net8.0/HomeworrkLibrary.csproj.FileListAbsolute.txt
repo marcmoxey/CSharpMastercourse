@@ -1,0 +1,12 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryHomeworkApp\HomeworrkLibrary\bin\Debug\net8.0\HomeworrkLibrary.deps.json
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryHomeworkApp\HomeworrkLibrary\bin\Debug\net8.0\HomeworrkLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryHomeworkApp\HomeworrkLibrary\bin\Debug\net8.0\HomeworrkLibrary.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryHomeworkApp\HomeworrkLibrary\obj\Debug\net8.0\HomeworrkLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryHomeworkApp\HomeworrkLibrary\obj\Debug\net8.0\HomeworrkLibrary.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryHomeworkApp\HomeworrkLibrary\obj\Debug\net8.0\HomeworrkLibrary.AssemblyInfo.cs
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryHomeworkApp\HomeworrkLibrary\obj\Debug\net8.0\HomeworrkLibrary.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryHomeworkApp\HomeworrkLibrary\obj\Debug\net8.0\HomeworrkLibrary.sourcelink.json
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryHomeworkApp\HomeworrkLibrary\obj\Debug\net8.0\HomeworrkLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryHomeworkApp\HomeworrkLibrary\obj\Debug\net8.0\refint\HomeworrkLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryHomeworkApp\HomeworrkLibrary\obj\Debug\net8.0\HomeworrkLibrary.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryHomeworkApp\HomeworrkLibrary\obj\Debug\net8.0\ref\HomeworrkLibrary.dll
