@@ -1,0 +1,10 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormHomeworkApp\WinFormHomework\bin\Debug\WinFormHomework.exe.config
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormHomeworkApp\WinFormHomework\bin\Debug\WinFormHomework.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormHomeworkApp\WinFormHomework\bin\Debug\WinFormHomework.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormHomeworkApp\WinFormHomework\obj\Debug\WinFormHomework.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormHomeworkApp\WinFormHomework\obj\Debug\WinFormHomework.Form1.resources
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormHomeworkApp\WinFormHomework\obj\Debug\WinFormHomework.Properties.Resources.resources
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormHomeworkApp\WinFormHomework\obj\Debug\WinFormHomework.csproj.GenerateResource.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormHomeworkApp\WinFormHomework\obj\Debug\WinFormHomework.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormHomeworkApp\WinFormHomework\obj\Debug\WinFormHomework.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormHomeworkApp\WinFormHomework\obj\Debug\WinFormHomework.pdb
