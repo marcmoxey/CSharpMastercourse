@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\WinFormMiniProject\bin\Debug\WinFormMiniProject.exe.config
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\WinFormMiniProject\bin\Debug\WinFormMiniProject.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\WinFormMiniProject\bin\Debug\WinFormMiniProject.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\WinFormMiniProject\bin\Debug\DemoLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\WinFormMiniProject\bin\Debug\DemoLibrary.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.AddressEntry.resources
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.PersonEntry.resources
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.Properties.Resources.resources
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.csproj.GenerateResource.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormM.920D88FF.Up2Date
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.pdb
