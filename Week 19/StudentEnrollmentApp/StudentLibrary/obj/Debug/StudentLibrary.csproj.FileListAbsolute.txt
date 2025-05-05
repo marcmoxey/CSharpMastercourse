@@ -1,0 +1,6 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\StudentCourseEnrollmentApp\StudentLibrary\bin\Debug\StudentLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\StudentCourseEnrollmentApp\StudentLibrary\bin\Debug\StudentLibrary.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\StudentCourseEnrollmentApp\StudentLibrary\obj\Debug\StudentLibrary.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\StudentCourseEnrollmentApp\StudentLibrary\obj\Debug\StudentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\StudentCourseEnrollmentApp\StudentLibrary\obj\Debug\StudentLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\StudentCourseEnrollmentApp\StudentLibrary\obj\Debug\StudentLibrary.pdb
