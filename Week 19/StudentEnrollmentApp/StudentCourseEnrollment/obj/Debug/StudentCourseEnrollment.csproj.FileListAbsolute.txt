@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\StudentCourseEnrollmentApp\StudentCourseEnrollment\obj\Debug\StudentCourseEnrollment.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\StudentCourseEnrollmentApp\StudentCourseEnrollment\obj\Debug\StudentCourseEnrollment.CourseEntry.resources
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\StudentCourseEnrollmentApp\StudentCourseEnrollment\obj\Debug\StudentCourseEnrollment.Properties.Resources.resources
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\StudentCourseEnrollmentApp\StudentCourseEnrollment\obj\Debug\StudentCourseEnrollment.StudentEntry.resources
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\StudentCourseEnrollmentApp\StudentCourseEnrollment\obj\Debug\StudentCourseEnrollment.csproj.GenerateResource.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\StudentCourseEnrollmentApp\StudentCourseEnrollment\obj\Debug\StudentCourseEnrollment.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\StudentCourseEnrollmentApp\StudentCourseEnrollment\bin\Debug\StudentCourseEnrollment.exe.config
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\StudentCourseEnrollmentApp\StudentCourseEnrollment\bin\Debug\StudentCourseEnrollment.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\StudentCourseEnrollmentApp\StudentCourseEnrollment\bin\Debug\StudentCourseEnrollment.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\StudentCourseEnrollmentApp\StudentCourseEnrollment\bin\Debug\StudentLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\StudentCourseEnrollmentApp\StudentCourseEnrollment\bin\Debug\StudentLibrary.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\StudentCourseEnrollmentApp\StudentCourseEnrollment\obj\Debug\StudentC.FD13BD07.Up2Date
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\StudentCourseEnrollmentApp\StudentCourseEnrollment\obj\Debug\StudentCourseEnrollment.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\StudentCourseEnrollmentApp\StudentCourseEnrollment\obj\Debug\StudentCourseEnrollment.pdb
