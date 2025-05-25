@@ -1,0 +1,53 @@
+﻿<Window x:Class="WpfUser.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfUser"
+        mc:Ignorable="d" FontSize="24"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Orientation="Vertical" Grid.Row="0" Grid.Column="1" Margin="0,10,0,0" >
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Margin="0,0,5,5">First Name</TextBlock>
+                <TextBox x:Name="firstNameTextBox" MinWidth="200" MaxWidth="300" Margin="0,0,0,10"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Margin="0,0,5,0">Last Name</TextBlock>
+                <TextBox x:Name="lasttNameTextBox" MinWidth="200" MaxWidth="300"/>
+            </StackPanel>
+        </StackPanel>
+
+        <Button x:Name="saveBtn" Click="saveBtn_Click" Padding="5,10" Grid.Column="1" Grid.Row="1" Margin="0,8,0,0">Save</Button>
+        
+        
+        <StackPanel Orientation="Vertical" Grid.Row="2" Grid.Column="1" Margin="0,10,0,0">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Full Name: " Margin="0,0,34,0"></TextBlock>
+                <TextBlock Text="...." x:Name="fullNameResultsTextBlock"> </TextBlock>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Login Name: " Margin="0,0,10,0"></TextBlock>
+                <TextBlock Text="...." x:Name="loginResultsTextBox"></TextBlock>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Initals: " Margin="0,0,75,0"></TextBlock>
+                <TextBlock Text="...." x:Name="initalResultsTextBlock"></TextBlock>
+            </StackPanel>
+        </StackPanel>
+
+
+    </Grid>
+</Window>

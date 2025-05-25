@@ -1,0 +1,11 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.deps.json
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.sourcelink.json
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormMiniProjectApp\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.pdb

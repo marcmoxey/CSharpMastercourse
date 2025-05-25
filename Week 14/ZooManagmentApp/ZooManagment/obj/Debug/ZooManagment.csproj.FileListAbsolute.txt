@@ -1,0 +1,7 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ZooManagmentApp\ZooManagment\obj\Debug\ZooManagment.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ZooManagmentApp\ZooManagment\obj\Debug\ZooManagment.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ZooManagmentApp\ZooManagment\bin\Debug\ZooManagment.exe.config
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ZooManagmentApp\ZooManagment\bin\Debug\ZooManagment.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ZooManagmentApp\ZooManagment\bin\Debug\ZooManagment.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ZooManagmentApp\ZooManagment\obj\Debug\ZooManagment.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ZooManagmentApp\ZooManagment\obj\Debug\ZooManagment.pdb

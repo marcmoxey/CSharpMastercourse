@@ -1,0 +1,7 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodHomeworkApp\ExtensionMethodHomework\bin\Debug\ExtensionMethodHomework.exe.config
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodHomeworkApp\ExtensionMethodHomework\bin\Debug\ExtensionMethodHomework.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodHomeworkApp\ExtensionMethodHomework\bin\Debug\ExtensionMethodHomework.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodHomeworkApp\ExtensionMethodHomework\obj\Debug\ExtensionMethodHomework.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodHomeworkApp\ExtensionMethodHomework\obj\Debug\ExtensionMethodHomework.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodHomeworkApp\ExtensionMethodHomework\obj\Debug\ExtensionMethodHomework.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodHomeworkApp\ExtensionMethodHomework\obj\Debug\ExtensionMethodHomework.pdb

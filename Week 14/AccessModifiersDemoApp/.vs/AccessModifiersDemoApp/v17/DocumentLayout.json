@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\AccessModifiersDemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6460A37-59C0-4AD3-8BDF-BE6387FFF089}|DemoLibrary\\DemoLibrary.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 14\\accessmodifiersdemoapp\\demolibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6460A37-59C0-4AD3-8BDF-BE6387FFF089}|DemoLibrary\\DemoLibrary.csproj|solutionrelative:demolibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716162DA-8D71-4386-9057-7FEEA11B5A20}|AccessModifiersDemo\\AccessModifiersDemo.csproj|C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\AccessModifiersDemoApp\\accessmodifiersdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716162DA-8D71-4386-9057-7FEEA11B5A20}|AccessModifiersDemo\\AccessModifiersDemo.csproj|solutionrelative:accessmodifiersdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6460A37-59C0-4AD3-8BDF-BE6387FFF089}|DemoLibrary\\DemoLibrary.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 14\\accessmodifiersdemoapp\\demolibrary\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6460A37-59C0-4AD3-8BDF-BE6387FFF089}|DemoLibrary\\DemoLibrary.csproj|solutionrelative:demolibrary\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6460A37-59C0-4AD3-8BDF-BE6387FFF089}|DemoLibrary\\DemoLibrary.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 14\\accessmodifiersdemoapp\\demolibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6460A37-59C0-4AD3-8BDF-BE6387FFF089}|DemoLibrary\\DemoLibrary.csproj|solutionrelative:demolibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716162DA-8D71-4386-9057-7FEEA11B5A20}|AccessModifiersDemo\\AccessModifiersDemo.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 14\\accessmodifiersdemoapp\\accessmodifiersdemo\\ceo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716162DA-8D71-4386-9057-7FEEA11B5A20}|AccessModifiersDemo\\AccessModifiersDemo.csproj|solutionrelative:accessmodifiersdemo\\ceo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716162DA-8D71-4386-9057-7FEEA11B5A20}|AccessModifiersDemo\\AccessModifiersDemo.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 14\\accessmodifiersdemoapp\\accessmodifiersdemo\\modifieddataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716162DA-8D71-4386-9057-7FEEA11B5A20}|AccessModifiersDemo\\AccessModifiersDemo.csproj|solutionrelative:accessmodifiersdemo\\modifieddataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CEO.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\AccessModifiersDemoApp\\AccessModifiersDemo\\CEO.cs",
+              "RelativeDocumentMoniker": "AccessModifiersDemo\\CEO.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\AccessModifiersDemoApp\\AccessModifiersDemo\\CEO.cs",
+              "RelativeToolTip": "AccessModifiersDemo\\CEO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:40:41.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModifiedDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\AccessModifiersDemoApp\\AccessModifiersDemo\\ModifiedDataAccess.cs",
+              "RelativeDocumentMoniker": "AccessModifiersDemo\\ModifiedDataAccess.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\AccessModifiersDemoApp\\AccessModifiersDemo\\ModifiedDataAccess.cs",
+              "RelativeToolTip": "AccessModifiersDemo\\ModifiedDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:40:39.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\AccessModifiersDemoApp\\DemoLibrary\\Employee.cs",
+              "RelativeDocumentMoniker": "DemoLibrary\\Employee.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\AccessModifiersDemoApp\\DemoLibrary\\Employee.cs",
+              "RelativeToolTip": "DemoLibrary\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:40:32.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\AccessModifiersDemoApp\\DemoLibrary\\Manager.cs",
+              "RelativeDocumentMoniker": "DemoLibrary\\Manager.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\AccessModifiersDemoApp\\DemoLibrary\\Manager.cs",
+              "RelativeToolTip": "DemoLibrary\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:40:29.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\AccessModifiersDemoApp\\DemoLibrary\\Person.cs",
+              "RelativeDocumentMoniker": "DemoLibrary\\Person.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\AccessModifiersDemoApp\\DemoLibrary\\Person.cs",
+              "RelativeToolTip": "DemoLibrary\\Person.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAC0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:56:05.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\AccessModifiersDemoApp\\AccessModifiersDemo\\Program.cs",
+              "RelativeDocumentMoniker": "AccessModifiersDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\AccessModifiersDemoApp\\AccessModifiersDemo\\Program.cs",
+              "RelativeToolTip": "AccessModifiersDemo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:53:32.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

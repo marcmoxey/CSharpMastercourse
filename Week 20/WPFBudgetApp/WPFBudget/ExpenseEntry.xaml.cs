@@ -21,23 +21,41 @@ namespace WPFBudget
     /// </summary>
     public partial class ExpenseEntry : Window
     {
-        IBudget _budget;    
-        public ExpenseEntry(IBudget budget)
+        IBudget _budget;
+        private readonly MonthlyExpenseModel _existingExpense;
+        public ExpenseEntry(IBudget budget, MonthlyExpenseModel existingExpense = null)
         {
             InitializeComponent();
             _budget = budget;
+            _existingExpense = existingExpense;
+            if(_existingExpense != null)
+            {
+                expenseNameTextBox.Text = _existingExpense.ExpenseName;
+                expenseAmountTextBox.Text = _existingExpense.ExpenseCost.ToString();
+
+            }
         }
 
         private void saveBtn_Click(object sender, RoutedEventArgs e)
         {
             decimal.TryParse(expenseAmountTextBox.Text, out decimal expenseAmount);
-            MonthlyExpenseModel expense = new MonthlyExpenseModel
-            {
-                ExpenseName = expenseNameTextBox.Text,
-                ExpenseCost = expenseAmount
-            };
 
-            _budget.AddExpense(expense);
+            if(_existingExpense != null)
+            {
+                _existingExpense.ExpenseName = expenseNameTextBox.Text;
+                _existingExpense.ExpenseCost = expenseAmount;
+            } else
+            {
+                MonthlyExpenseModel expense = new MonthlyExpenseModel
+                {
+                    ExpenseName = expenseNameTextBox.Text,
+                    ExpenseCost = expenseAmount
+                };
+                _budget.AddExpense(expense);
+
+            }
+
+           
             this.Close();
         }
     }

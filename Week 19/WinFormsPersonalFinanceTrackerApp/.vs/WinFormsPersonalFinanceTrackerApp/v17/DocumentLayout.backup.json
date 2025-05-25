@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormsPersonalFinanceTrackerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B6AC7F-3EB6-4805-908D-5A910DA855A6}|WinFormsPersonalFinanceTracker\\WinFormsPersonalFinanceTracker.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 19\\winformspersonalfinancetrackerapp\\winformspersonalfinancetracker\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B6AC7F-3EB6-4805-908D-5A910DA855A6}|WinFormsPersonalFinanceTracker\\WinFormsPersonalFinanceTracker.csproj|solutionrelative:winformspersonalfinancetracker\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500F404A-78C3-4DC9-B1D1-386638460A7D}|PersonalFianceLibrary\\PersonalFianceLibrary.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 19\\winformspersonalfinancetrackerapp\\personalfiancelibrary\\logic\\personalfinanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500F404A-78C3-4DC9-B1D1-386638460A7D}|PersonalFianceLibrary\\PersonalFianceLibrary.csproj|solutionrelative:personalfiancelibrary\\logic\\personalfinanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B6AC7F-3EB6-4805-908D-5A910DA855A6}|WinFormsPersonalFinanceTracker\\WinFormsPersonalFinanceTracker.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 19\\winformspersonalfinancetrackerapp\\winformspersonalfinancetracker\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B6AC7F-3EB6-4805-908D-5A910DA855A6}|WinFormsPersonalFinanceTracker\\WinFormsPersonalFinanceTracker.csproj|solutionrelative:winformspersonalfinancetracker\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 300,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormsPersonalFinanceTrackerApp\\WinFormsPersonalFinanceTracker\\Dashboard.cs",
+              "RelativeDocumentMoniker": "WinFormsPersonalFinanceTracker\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormsPersonalFinanceTrackerApp\\WinFormsPersonalFinanceTracker\\Dashboard.cs [Design]",
+              "RelativeToolTip": "WinFormsPersonalFinanceTracker\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:16:24.128Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormsPersonalFinanceTrackerApp\\WinFormsPersonalFinanceTracker\\Dashboard.cs",
+              "RelativeDocumentMoniker": "WinFormsPersonalFinanceTracker\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormsPersonalFinanceTrackerApp\\WinFormsPersonalFinanceTracker\\Dashboard.cs",
+              "RelativeToolTip": "WinFormsPersonalFinanceTracker\\Dashboard.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:32:25.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonalFinanceService.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormsPersonalFinanceTrackerApp\\PersonalFianceLibrary\\Logic\\PersonalFinanceService.cs",
+              "RelativeDocumentMoniker": "PersonalFianceLibrary\\Logic\\PersonalFinanceService.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormsPersonalFinanceTrackerApp\\PersonalFianceLibrary\\Logic\\PersonalFinanceService.cs",
+              "RelativeToolTip": "PersonalFianceLibrary\\Logic\\PersonalFinanceService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:33:57.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 17\BrokenLibrary\obj\Debug\net6.0\BrokenLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 17\BrokenLibrary\obj\Debug\net6.0\BrokenLibrary.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 17\BrokenLibrary\obj\Debug\net6.0\BrokenLibrary.AssemblyInfo.cs
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 17\BrokenLibrary\obj\Debug\net6.0\BrokenLibrary.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 17\BrokenLibrary\obj\Debug\net6.0\BrokenLibrary.sourcelink.json
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 17\BrokenLibrary\bin\Debug\net6.0\BrokenLibrary.deps.json
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 17\BrokenLibrary\bin\Debug\net6.0\BrokenLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 17\BrokenLibrary\bin\Debug\net6.0\BrokenLibrary.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 17\BrokenLibrary\obj\Debug\net6.0\BrokenLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 17\BrokenLibrary\obj\Debug\net6.0\refint\BrokenLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 17\BrokenLibrary\obj\Debug\net6.0\BrokenLibrary.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 17\BrokenLibrary\obj\Debug\net6.0\ref\BrokenLibrary.dll

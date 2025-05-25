@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\CardGameApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB808E1B-50C8-4F31-935E-492A6FBE61B9}|CardGameUI\\CardGameUI.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 14\\cardgameapp\\cardgameui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB808E1B-50C8-4F31-935E-492A6FBE61B9}|CardGameUI\\CardGameUI.csproj|solutionrelative:cardgameui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB808E1B-50C8-4F31-935E-492A6FBE61B9}|CardGameUI\\CardGameUI.csproj|C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\CardGameApp\\cardgameui\\enums\\cardvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB808E1B-50C8-4F31-935E-492A6FBE61B9}|CardGameUI\\CardGameUI.csproj|solutionrelative:cardgameui\\enums\\cardvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB808E1B-50C8-4F31-935E-492A6FBE61B9}|CardGameUI\\CardGameUI.csproj|C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\CardGameApp\\cardgameui\\enums\\cardsuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB808E1B-50C8-4F31-935E-492A6FBE61B9}|CardGameUI\\CardGameUI.csproj|solutionrelative:cardgameui\\enums\\cardsuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB808E1B-50C8-4F31-935E-492A6FBE61B9}|CardGameUI\\CardGameUI.csproj|C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\CardGameApp\\cardgameui\\models\\playingcardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB808E1B-50C8-4F31-935E-492A6FBE61B9}|CardGameUI\\CardGameUI.csproj|solutionrelative:cardgameui\\models\\playingcardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayingCardModel.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\CardGameApp\\CardGameUI\\Models\\PlayingCardModel.cs",
+              "RelativeDocumentMoniker": "CardGameUI\\Models\\PlayingCardModel.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\CardGameApp\\CardGameUI\\Models\\PlayingCardModel.cs",
+              "RelativeToolTip": "CardGameUI\\Models\\PlayingCardModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:51:37.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardValue.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\CardGameApp\\CardGameUI\\Enums\\CardValue.cs",
+              "RelativeDocumentMoniker": "CardGameUI\\Enums\\CardValue.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\CardGameApp\\CardGameUI\\Enums\\CardValue.cs",
+              "RelativeToolTip": "CardGameUI\\Enums\\CardValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:49:52.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardSuit.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\CardGameApp\\CardGameUI\\Enums\\CardSuit.cs",
+              "RelativeDocumentMoniker": "CardGameUI\\Enums\\CardSuit.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\CardGameApp\\CardGameUI\\Enums\\CardSuit.cs",
+              "RelativeToolTip": "CardGameUI\\Enums\\CardSuit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:48:42.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\CardGameApp\\CardGameUI\\Program.cs",
+              "RelativeDocumentMoniker": "CardGameUI\\Program.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\CardGameApp\\CardGameUI\\Program.cs",
+              "RelativeToolTip": "CardGameUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:07:35.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

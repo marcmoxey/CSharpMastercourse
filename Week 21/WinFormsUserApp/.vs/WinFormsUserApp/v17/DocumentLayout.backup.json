@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 21\\WinFormsUserApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A74EE8-EE27-4420-BFC7-A16E08E50D80}|WpfUser\\WpfUser.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 21\\winformsuserapp\\wpfuser\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A74EE8-EE27-4420-BFC7-A16E08E50D80}|WpfUser\\WpfUser.csproj|solutionrelative:wpfuser\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A74EE8-EE27-4420-BFC7-A16E08E50D80}|WpfUser\\WpfUser.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 21\\winformsuserapp\\wpfuser\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4A74EE8-EE27-4420-BFC7-A16E08E50D80}|WpfUser\\WpfUser.csproj|solutionrelative:wpfuser\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF9BA66-0C32-4A82-A679-CBA1A6C8AC35}|WinFormsUser\\WinFormsUser.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 21\\winformsuserapp\\winformsuser\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF9BA66-0C32-4A82-A679-CBA1A6C8AC35}|WinFormsUser\\WinFormsUser.csproj|solutionrelative:winformsuser\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 300,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 21\\WinFormsUserApp\\WpfUser\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfUser\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 21\\WinFormsUserApp\\WpfUser\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfUser\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T20:54:53.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 21\\WinFormsUserApp\\WpfUser\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfUser\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 21\\WinFormsUserApp\\WpfUser\\MainWindow.xaml",
+              "RelativeToolTip": "WpfUser\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-18T20:44:51.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 21\\WinFormsUserApp\\WinFormsUser\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsUser\\Form1.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 21\\WinFormsUserApp\\WinFormsUser\\Form1.cs",
+              "RelativeToolTip": "WinFormsUser\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:15:05.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

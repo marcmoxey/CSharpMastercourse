@@ -1,0 +1,7 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodsMiniApp\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodsMiniApp\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodsMiniApp\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodsMiniApp\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodsMiniApp\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodsMiniApp\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodsMiniApp\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

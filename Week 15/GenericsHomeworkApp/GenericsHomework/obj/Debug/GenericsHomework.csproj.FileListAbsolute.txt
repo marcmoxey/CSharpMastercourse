@@ -1,0 +1,7 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericsHomeworkApp\GenericsHomework\bin\Debug\GenericsHomework.exe.config
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericsHomeworkApp\GenericsHomework\bin\Debug\GenericsHomework.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericsHomeworkApp\GenericsHomework\bin\Debug\GenericsHomework.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericsHomeworkApp\GenericsHomework\obj\Debug\GenericsHomework.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericsHomeworkApp\GenericsHomework\obj\Debug\GenericsHomework.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericsHomeworkApp\GenericsHomework\obj\Debug\GenericsHomework.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericsHomeworkApp\GenericsHomework\obj\Debug\GenericsHomework.pdb

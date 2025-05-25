@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\TaskManagerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1FAD30-EBD4-4AFA-BB1C-6A91B3D13E75}|TaskManager\\TaskManager.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 12\\taskmanagerapp\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1FAD30-EBD4-4AFA-BB1C-6A91B3D13E75}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC028F7B-7893-4B3A-9B66-F493A30B9D18}|TaskManagerLibrary\\TaskManagerLibrary.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 12\\taskmanagerapp\\taskmanagerlibrary\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC028F7B-7893-4B3A-9B66-F493A30B9D18}|TaskManagerLibrary\\TaskManagerLibrary.csproj|solutionrelative:taskmanagerlibrary\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC028F7B-7893-4B3A-9B66-F493A30B9D18}|TaskManagerLibrary\\TaskManagerLibrary.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 12\\taskmanagerapp\\taskmanagerlibrary\\interfaces\\itaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC028F7B-7893-4B3A-9B66-F493A30B9D18}|TaskManagerLibrary\\TaskManagerLibrary.csproj|solutionrelative:taskmanagerlibrary\\interfaces\\itaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC028F7B-7893-4B3A-9B66-F493A30B9D18}|TaskManagerLibrary\\TaskManagerLibrary.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 12\\taskmanagerapp\\taskmanagerlibrary\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC028F7B-7893-4B3A-9B66-F493A30B9D18}|TaskManagerLibrary\\TaskManagerLibrary.csproj|solutionrelative:taskmanagerlibrary\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC028F7B-7893-4B3A-9B66-F493A30B9D18}|TaskManagerLibrary\\TaskManagerLibrary.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 12\\taskmanagerapp\\taskmanagerlibrary\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC028F7B-7893-4B3A-9B66-F493A30B9D18}|TaskManagerLibrary\\TaskManagerLibrary.csproj|solutionrelative:taskmanagerlibrary\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\TaskManagerApp\\TaskManagerLibrary\\TaskManager.cs",
+              "RelativeDocumentMoniker": "TaskManagerLibrary\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\TaskManagerApp\\TaskManagerLibrary\\TaskManager.cs",
+              "RelativeToolTip": "TaskManagerLibrary\\TaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:43:43.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\TaskManagerApp\\TaskManagerLibrary\\Interfaces\\ITaskManager.cs",
+              "RelativeDocumentMoniker": "TaskManagerLibrary\\Interfaces\\ITaskManager.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\TaskManagerApp\\TaskManagerLibrary\\Interfaces\\ITaskManager.cs",
+              "RelativeToolTip": "TaskManagerLibrary\\Interfaces\\ITaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:43:41.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\TaskManagerApp\\TaskManagerLibrary\\Models\\TaskModel.cs",
+              "RelativeDocumentMoniker": "TaskManagerLibrary\\Models\\TaskModel.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\TaskManagerApp\\TaskManagerLibrary\\Models\\TaskModel.cs",
+              "RelativeToolTip": "TaskManagerLibrary\\Models\\TaskModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:43:40.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "enums.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\TaskManagerApp\\TaskManagerLibrary\\Models\\enums.cs",
+              "RelativeDocumentMoniker": "TaskManagerLibrary\\Models\\enums.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\TaskManagerApp\\TaskManagerLibrary\\Models\\enums.cs",
+              "RelativeToolTip": "TaskManagerLibrary\\Models\\enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:43:39.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\TaskManagerApp\\TaskManager\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Program.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\TaskManagerApp\\TaskManager\\Program.cs",
+              "RelativeToolTip": "TaskManager\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:40:46.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

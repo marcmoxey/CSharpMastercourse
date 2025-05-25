@@ -1,0 +1,7 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\EventDemoApp\EventDemo\bin\Debug\EventDemo.exe.config
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\EventDemoApp\EventDemo\bin\Debug\EventDemo.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\EventDemoApp\EventDemo\bin\Debug\EventDemo.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\EventDemoApp\EventDemo\obj\Debug\EventDemo.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\EventDemoApp\EventDemo\obj\Debug\EventDemo.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\EventDemoApp\EventDemo\obj\Debug\EventDemo.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\EventDemoApp\EventDemo\obj\Debug\EventDemo.pdb

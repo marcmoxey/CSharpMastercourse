@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\StudentGradeManagement System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8120D0-1849-41E1-8CD8-1C39F26C10FF}|GradeLibrary\\GradeLibrary.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 12\\studentgrademanagement system\\gradelibrary\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8120D0-1849-41E1-8CD8-1C39F26C10FF}|GradeLibrary\\GradeLibrary.csproj|solutionrelative:gradelibrary\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB79F3C-027C-47F3-A2E8-43405E8E6DE8}|StudentGradeManagementSystemApp\\StudentGradeManagementSystemApp.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 12\\studentgrademanagement system\\studentgrademanagementsystemapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB79F3C-027C-47F3-A2E8-43405E8E6DE8}|StudentGradeManagementSystemApp\\StudentGradeManagementSystemApp.csproj|solutionrelative:studentgrademanagementsystemapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8120D0-1849-41E1-8CD8-1C39F26C10FF}|GradeLibrary\\GradeLibrary.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 12\\studentgrademanagement system\\gradelibrary\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8120D0-1849-41E1-8CD8-1C39F26C10FF}|GradeLibrary\\GradeLibrary.csproj|solutionrelative:gradelibrary\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8120D0-1849-41E1-8CD8-1C39F26C10FF}|GradeLibrary\\GradeLibrary.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 12\\studentgrademanagement system\\gradelibrary\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8120D0-1849-41E1-8CD8-1C39F26C10FF}|GradeLibrary\\GradeLibrary.csproj|solutionrelative:gradelibrary\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8120D0-1849-41E1-8CD8-1C39F26C10FF}|GradeLibrary\\GradeLibrary.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 12\\studentgrademanagement system\\gradelibrary\\interfaces\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8120D0-1849-41E1-8CD8-1C39F26C10FF}|GradeLibrary\\GradeLibrary.csproj|solutionrelative:gradelibrary\\interfaces\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\StudentGradeManagement System\\GradeLibrary\\StudentManager.cs",
+              "RelativeDocumentMoniker": "GradeLibrary\\StudentManager.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\StudentGradeManagement System\\GradeLibrary\\StudentManager.cs",
+              "RelativeToolTip": "GradeLibrary\\StudentManager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAABCwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:52:49.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\StudentGradeManagement System\\GradeLibrary\\Interfaces\\IStudent.cs",
+              "RelativeDocumentMoniker": "GradeLibrary\\Interfaces\\IStudent.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\StudentGradeManagement System\\GradeLibrary\\Interfaces\\IStudent.cs",
+              "RelativeToolTip": "GradeLibrary\\Interfaces\\IStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:48:32.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\StudentGradeManagement System\\GradeLibrary\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "GradeLibrary\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\StudentGradeManagement System\\GradeLibrary\\Models\\StudentModel.cs",
+              "RelativeToolTip": "GradeLibrary\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:47:33.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "enums.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\StudentGradeManagement System\\GradeLibrary\\Models\\enums.cs",
+              "RelativeDocumentMoniker": "GradeLibrary\\Models\\enums.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\StudentGradeManagement System\\GradeLibrary\\Models\\enums.cs",
+              "RelativeToolTip": "GradeLibrary\\Models\\enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:46:08.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\StudentGradeManagement System\\StudentGradeManagementSystemApp\\Program.cs",
+              "RelativeDocumentMoniker": "StudentGradeManagementSystemApp\\Program.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 12\\StudentGradeManagement System\\StudentGradeManagementSystemApp\\Program.cs",
+              "RelativeToolTip": "StudentGradeManagementSystemApp\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:45:24.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

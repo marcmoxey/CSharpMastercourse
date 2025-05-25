@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormMiniProjectApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19DBB8E7-8664-4F88-9F7E-746389188B4F}|WinFormMiniProject\\WinFormMiniProject.csproj|C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormMiniProjectApp\\winformminiproject\\addressentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DBB8E7-8664-4F88-9F7E-746389188B4F}|WinFormMiniProject\\WinFormMiniProject.csproj|solutionrelative:winformminiproject\\addressentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DBB8E7-8664-4F88-9F7E-746389188B4F}|WinFormMiniProject\\WinFormMiniProject.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 19\\winformminiprojectapp\\winformminiproject\\addressentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19DBB8E7-8664-4F88-9F7E-746389188B4F}|WinFormMiniProject\\WinFormMiniProject.csproj|solutionrelative:winformminiproject\\addressentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DBB8E7-8664-4F88-9F7E-746389188B4F}|WinFormMiniProject\\WinFormMiniProject.csproj|C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormMiniProjectApp\\winformminiproject\\personentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19DBB8E7-8664-4F88-9F7E-746389188B4F}|WinFormMiniProject\\WinFormMiniProject.csproj|solutionrelative:winformminiproject\\personentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DBB8E7-8664-4F88-9F7E-746389188B4F}|WinFormMiniProject\\WinFormMiniProject.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 19\\winformminiprojectapp\\winformminiproject\\personentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DBB8E7-8664-4F88-9F7E-746389188B4F}|WinFormMiniProject\\WinFormMiniProject.csproj|solutionrelative:winformminiproject\\personentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B57292-F4B9-4491-A92D-410184A7CC9F}|DemoLibrary\\DemoLibrary.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 19\\winformminiprojectapp\\demolibrary\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B57292-F4B9-4491-A92D-410184A7CC9F}|DemoLibrary\\DemoLibrary.csproj|solutionrelative:demolibrary\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B57292-F4B9-4491-A92D-410184A7CC9F}|DemoLibrary\\DemoLibrary.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 19\\winformminiprojectapp\\demolibrary\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B57292-F4B9-4491-A92D-410184A7CC9F}|DemoLibrary\\DemoLibrary.csproj|solutionrelative:demolibrary\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B57292-F4B9-4491-A92D-410184A7CC9F}|DemoLibrary\\DemoLibrary.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 19\\winformminiprojectapp\\demolibrary\\isaveaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B57292-F4B9-4491-A92D-410184A7CC9F}|DemoLibrary\\DemoLibrary.csproj|solutionrelative:demolibrary\\isaveaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddressEntry.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormMiniProjectApp\\WinFormMiniProject\\AddressEntry.cs",
+              "RelativeDocumentMoniker": "WinFormMiniProject\\AddressEntry.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormMiniProjectApp\\WinFormMiniProject\\AddressEntry.cs [Design]",
+              "RelativeToolTip": "WinFormMiniProject\\AddressEntry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:12:05.887Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddressModel.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormMiniProjectApp\\DemoLibrary\\AddressModel.cs",
+              "RelativeDocumentMoniker": "DemoLibrary\\AddressModel.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormMiniProjectApp\\DemoLibrary\\AddressModel.cs",
+              "RelativeToolTip": "DemoLibrary\\AddressModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:41:03.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormMiniProjectApp\\DemoLibrary\\PersonModel.cs",
+              "RelativeDocumentMoniker": "DemoLibrary\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormMiniProjectApp\\DemoLibrary\\PersonModel.cs",
+              "RelativeToolTip": "DemoLibrary\\PersonModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:35:33.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISaveAddress.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormMiniProjectApp\\DemoLibrary\\ISaveAddress.cs",
+              "RelativeDocumentMoniker": "DemoLibrary\\ISaveAddress.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormMiniProjectApp\\DemoLibrary\\ISaveAddress.cs",
+              "RelativeToolTip": "DemoLibrary\\ISaveAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:33:00.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonEntry.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormMiniProjectApp\\WinFormMiniProject\\PersonEntry.cs",
+              "RelativeDocumentMoniker": "WinFormMiniProject\\PersonEntry.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormMiniProjectApp\\WinFormMiniProject\\PersonEntry.cs",
+              "RelativeToolTip": "WinFormMiniProject\\PersonEntry.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:21:57.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddressEntry.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormMiniProjectApp\\WinFormMiniProject\\AddressEntry.cs",
+              "RelativeDocumentMoniker": "WinFormMiniProject\\AddressEntry.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormMiniProjectApp\\WinFormMiniProject\\AddressEntry.cs",
+              "RelativeToolTip": "WinFormMiniProject\\AddressEntry.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:21:55.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonEntry.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormMiniProjectApp\\WinFormMiniProject\\PersonEntry.cs",
+              "RelativeDocumentMoniker": "WinFormMiniProject\\PersonEntry.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\WinFormMiniProjectApp\\WinFormMiniProject\\PersonEntry.cs [Design]",
+              "RelativeToolTip": "WinFormMiniProject\\PersonEntry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:14:56.877Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

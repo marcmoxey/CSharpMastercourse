@@ -22,24 +22,49 @@ namespace WPFMiniProject
     public partial class AddressEntry : Window
     {
         ISaveAddress _addresses;
-        public AddressEntry(ISaveAddress address)
+
+        // If editing, this holds the existing address to be modified
+        private readonly AddressModel _existingAddress;
+
+        //  Initializes the form for either creating a new address or editing an existing one.
+        public AddressEntry(ISaveAddress address, AddressModel existingAddress = null)
         {
             InitializeComponent();
             _addresses = address;
+            _existingAddress = existingAddress;
+
+            // If an existing address is provided, fill the form with its data for editing
+            if (existingAddress != null )
+            {
+                streetAddressTextBox.Text = _existingAddress.StreetAddress;
+                cityTextBox.Text = _existingAddress.City;   
+                stateTextBox.Text = _existingAddress.State; 
+                zipCodeTextBox.Text = _existingAddress.ZipCode;
+            }
         }
 
         private void saveBtn_Click(object sender, RoutedEventArgs e)
         {
-            AddressModel address = new AddressModel
+            if(_existingAddress != null)
             {
-                StreetAddress = streetAddressTextBox.Text,
-                City = cityTextBox.Text,
-                State = stateTextBox.Text,
-                ZipCode = zipCodeTextBox.Text,
+                _existingAddress.StreetAddress = streetAddressTextBox.Text;
+                _existingAddress.City = cityTextBox.Text; 
+                _existingAddress.State = stateTextBox.Text; 
+                _existingAddress.ZipCode = zipCodeTextBox.Text; 
+            } else
+            {
+                AddressModel address = new AddressModel
+                {
+                    StreetAddress = streetAddressTextBox.Text,
+                    City = cityTextBox.Text,
+                    State = stateTextBox.Text,
+                    ZipCode = zipCodeTextBox.Text,
 
-            };
+                };
 
-            _addresses.SaveAddress(address);
+                _addresses.SaveAddress(address);
+            }
+        
             this.Close();
         }
     }

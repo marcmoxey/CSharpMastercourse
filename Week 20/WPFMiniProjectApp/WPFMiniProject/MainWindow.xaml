@@ -32,7 +32,9 @@
         </StackPanel>
         <StackPanel Orientation="Horizontal" Grid.Column="1" Grid.Row="2" Margin="0,50,0,5">
             <TextBlock>Addresses</TextBlock>
-            <Button x:Name="addAddressBtn" Click="addAddressBtn_Click" Padding="5,5" Margin="165,0,0,0">Add</Button>
+            <Button x:Name="addAddressBtn" Click="addAddressBtn_Click" Padding="5" Margin="165,0,0,0">Add</Button>
+            <Button x:Name="editAddressBtn" Click="editAddressBtn_Click" Margin="15,0,0,0" Padding="5">Edit</Button>
+            <Button x:Name="deleteAddressBtn" Click="deleteAddressBtn_Click"  Margin="15,0,0,0" Padding="4" >Delete</Button>
         </StackPanel>
 
 

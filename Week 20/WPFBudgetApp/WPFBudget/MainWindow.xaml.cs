@@ -2,6 +2,7 @@
 using BudgetLibrary.Logic;
 using BudgetLibrary.Models;
 using Microsoft.VisualBasic;
+using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Globalization;
 using System.Text;
@@ -22,7 +23,7 @@ namespace WPFBudget
     /// </summary>
     public partial class MainWindow : Window, IBudget
     {
-        private readonly BudgetService _service;    
+        private readonly BudgetService _service;
         BindingList<MonthlyExpenseModel> expenses = new BindingList<MonthlyExpenseModel>();
         public MainWindow()
         {
@@ -168,5 +169,46 @@ namespace WPFBudget
             twoMonthExpensesTextBlock.Text = twoMonthExpenses.ToString("$#,0.00;-$#,0.00");
         }
 
+        private void editExpense_Click(object sender, RoutedEventArgs e)
+        {
+            if(expensesListBox.SelectedItem is MonthlyExpenseModel selectedExpense)
+            {
+                ExpenseEntry entry = new ExpenseEntry(this, selectedExpense);
+                entry.ShowDialog(); // Wait for edit
+                expensesListBox.Items.Refresh(); // Refresh UI
+                UpdateTotalMonthlyExpenses();
+                UpdateTotalIncomeExpenses();
+                UpdateSavings();
+                UpdateBudgetPerCheck();
+                Update6MonthFund();
+                Update2MonthExpenses();
+            }else
+            {
+                MessageBox.Show("Please select an expense to edit", "Invalid Expense", MessageBoxButton.OK);
+            }
+        }
+
+        private void deleteExpense_Click(object sender, RoutedEventArgs e)
+        {
+            if (expensesListBox.SelectedItem is MonthlyExpenseModel selectedExpense)
+            {
+                if (MessageBox.Show($"Are You sure you want to delete {selectedExpense.ExpenseName}?", "Confirm Delete", MessageBoxButton.YesNo) == MessageBoxResult.Yes)
+                {
+                    expenses.Remove(selectedExpense);
+                    UpdateTotalMonthlyExpenses();
+                    UpdateTotalIncomeExpenses();
+                    UpdateSavings();
+                    UpdateBudgetPerCheck();
+                    Update6MonthFund();
+                    Update2MonthExpenses();
+
+                }
+            }
+            else
+            {
+                MessageBox.Show("Please select an expense to delete", "Invalid Expense", MessageBoxButton.OK);
+            }
+
+        }
     }
 }

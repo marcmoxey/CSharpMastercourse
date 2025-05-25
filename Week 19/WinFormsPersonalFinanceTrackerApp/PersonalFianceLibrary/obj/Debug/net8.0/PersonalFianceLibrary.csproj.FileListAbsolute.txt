@@ -1,0 +1,12 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormsPersonalFinanceTrackerApp\PersonalFianceLibrary\bin\Debug\net8.0\PersonalFianceLibrary.deps.json
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormsPersonalFinanceTrackerApp\PersonalFianceLibrary\bin\Debug\net8.0\PersonalFianceLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormsPersonalFinanceTrackerApp\PersonalFianceLibrary\bin\Debug\net8.0\PersonalFianceLibrary.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormsPersonalFinanceTrackerApp\PersonalFianceLibrary\obj\Debug\net8.0\PersonalFianceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormsPersonalFinanceTrackerApp\PersonalFianceLibrary\obj\Debug\net8.0\PersonalFianceLibrary.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormsPersonalFinanceTrackerApp\PersonalFianceLibrary\obj\Debug\net8.0\PersonalFianceLibrary.AssemblyInfo.cs
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormsPersonalFinanceTrackerApp\PersonalFianceLibrary\obj\Debug\net8.0\PersonalFianceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormsPersonalFinanceTrackerApp\PersonalFianceLibrary\obj\Debug\net8.0\PersonalFianceLibrary.sourcelink.json
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormsPersonalFinanceTrackerApp\PersonalFianceLibrary\obj\Debug\net8.0\PersonalFianceLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormsPersonalFinanceTrackerApp\PersonalFianceLibrary\obj\Debug\net8.0\refint\PersonalFianceLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormsPersonalFinanceTrackerApp\PersonalFianceLibrary\obj\Debug\net8.0\PersonalFianceLibrary.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\WinFormsPersonalFinanceTrackerApp\PersonalFianceLibrary\obj\Debug\net8.0\ref\PersonalFianceLibrary.dll

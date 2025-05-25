@@ -1,0 +1,6 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryDemoApp\FrameworkLibrary\bin\Debug\FrameworkLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryDemoApp\FrameworkLibrary\bin\Debug\FrameworkLibrary.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryDemoApp\FrameworkLibrary\obj\Debug\FrameworkLibrary.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryDemoApp\FrameworkLibrary\obj\Debug\FrameworkLibrary.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryDemoApp\FrameworkLibrary\obj\Debug\FrameworkLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 16\ClassLibraryDemoApp\FrameworkLibrary\obj\Debug\FrameworkLibrary.pdb

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ForEachLoops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dca36922fd031fe9ae220243f9237ce812b4b31")]
 [assembly: System.Reflection.AssemblyProductAttribute("ForEachLoops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ForEachLoops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

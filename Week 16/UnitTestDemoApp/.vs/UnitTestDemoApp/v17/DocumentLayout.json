@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 16\\UnitTestDemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEDFF96-0097-4703-B5CE-2952BD84844E}|DemoLibrary.Test\\DemoLibrary.Test.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 16\\unittestdemoapp\\demolibrary.test\\displaymessagestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEDFF96-0097-4703-B5CE-2952BD84844E}|DemoLibrary.Test\\DemoLibrary.Test.csproj|solutionrelative:demolibrary.test\\displaymessagestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED4157-A8A4-433C-9B2E-F92B4C467290}|DemoLibrary\\DemoLibrary.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 16\\unittestdemoapp\\demolibrary\\displaymessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85ED4157-A8A4-433C-9B2E-F92B4C467290}|DemoLibrary\\DemoLibrary.csproj|solutionrelative:demolibrary\\displaymessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisplayMessagesTest.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 16\\UnitTestDemoApp\\DemoLibrary.Test\\DisplayMessagesTest.cs",
+              "RelativeDocumentMoniker": "DemoLibrary.Test\\DisplayMessagesTest.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 16\\UnitTestDemoApp\\DemoLibrary.Test\\DisplayMessagesTest.cs",
+              "RelativeToolTip": "DemoLibrary.Test\\DisplayMessagesTest.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:37:09.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayMessages.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 16\\UnitTestDemoApp\\DemoLibrary\\DisplayMessages.cs",
+              "RelativeDocumentMoniker": "DemoLibrary\\DisplayMessages.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 16\\UnitTestDemoApp\\DemoLibrary\\DisplayMessages.cs",
+              "RelativeToolTip": "DemoLibrary\\DisplayMessages.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:20:11.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

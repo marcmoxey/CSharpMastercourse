@@ -1,0 +1,12 @@
+To Build a small, two-player console game that has its roots in the game Battleship from Mattel.
+There will be 25-spot grid (A1-E5). Each Player will place five pegs on the board to represent
+their five ships. Players will then then take turns firing on their opponent's ships. The first
+person to sink all five ships wins.
+
+W - Walk through the project
+O - Open up the requirements
+U - User interface design
+L - Logic Design
+D - Data Design
+
+

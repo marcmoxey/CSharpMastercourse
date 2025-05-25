@@ -1,0 +1,10 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 12\StudentGradeManagement System\StudentGradeManagementSystemApp\obj\Debug\StudentGradeManagementSystemApp.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 12\StudentGradeManagement System\StudentGradeManagementSystemApp\obj\Debug\StudentGradeManagementSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 12\StudentGradeManagement System\StudentGradeManagementSystemApp\bin\Debug\StudentGradeManagementSystemApp.exe.config
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 12\StudentGradeManagement System\StudentGradeManagementSystemApp\bin\Debug\StudentGradeManagementSystemApp.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 12\StudentGradeManagement System\StudentGradeManagementSystemApp\bin\Debug\StudentGradeManagementSystemApp.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 12\StudentGradeManagement System\StudentGradeManagementSystemApp\bin\Debug\GradeLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 12\StudentGradeManagement System\StudentGradeManagementSystemApp\bin\Debug\GradeLibrary.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 12\StudentGradeManagement System\StudentGradeManagementSystemApp\obj\Debug\StudentG.85D9F73A.Up2Date
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 12\StudentGradeManagement System\StudentGradeManagementSystemApp\obj\Debug\StudentGradeManagementSystemApp.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 12\StudentGradeManagement System\StudentGradeManagementSystemApp\obj\Debug\StudentGradeManagementSystemApp.pdb

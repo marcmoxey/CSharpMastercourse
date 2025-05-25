@@ -1,0 +1,7 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\WrapUpDemoApp\WrapUpDemo\bin\Debug\WrapUpDemo.exe.config
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\WrapUpDemoApp\WrapUpDemo\bin\Debug\WrapUpDemo.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\WrapUpDemoApp\WrapUpDemo\bin\Debug\WrapUpDemo.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.pdb

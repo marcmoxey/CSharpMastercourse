@@ -1,0 +1,10 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\MessageWallApp\MessageWall\bin\Debug\MessageWall.exe.config
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\MessageWallApp\MessageWall\bin\Debug\MessageWall.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\MessageWallApp\MessageWall\bin\Debug\MessageWall.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\MessageWallApp\MessageWall\obj\Debug\MessageWall.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\MessageWallApp\MessageWall\obj\Debug\MessageWall.Properties.Resources.resources
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\MessageWallApp\MessageWall\obj\Debug\MessageWall.csproj.GenerateResource.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\MessageWallApp\MessageWall\obj\Debug\MessageWall.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\MessageWallApp\MessageWall\obj\Debug\MessageWall.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\MessageWallApp\MessageWall\obj\Debug\MessageWall.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\MessageWallApp\MessageWall\obj\Debug\MessageWall.Dashboard.resources

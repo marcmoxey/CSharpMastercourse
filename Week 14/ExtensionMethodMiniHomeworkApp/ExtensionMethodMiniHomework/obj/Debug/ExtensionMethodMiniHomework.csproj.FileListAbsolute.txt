@@ -1,0 +1,7 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodMiniHomeworkApp\ExtensionMethodMiniHomework\bin\Debug\ExtensionMethodMiniHomework.exe.config
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodMiniHomeworkApp\ExtensionMethodMiniHomework\bin\Debug\ExtensionMethodMiniHomework.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodMiniHomeworkApp\ExtensionMethodMiniHomework\bin\Debug\ExtensionMethodMiniHomework.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodMiniHomeworkApp\ExtensionMethodMiniHomework\obj\Debug\ExtensionMethodMiniHomework.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodMiniHomeworkApp\ExtensionMethodMiniHomework\obj\Debug\ExtensionMethodMiniHomework.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodMiniHomeworkApp\ExtensionMethodMiniHomework\obj\Debug\ExtensionMethodMiniHomework.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 14\ExtensionMethodMiniHomeworkApp\ExtensionMethodMiniHomework\obj\Debug\ExtensionMethodMiniHomework.pdb

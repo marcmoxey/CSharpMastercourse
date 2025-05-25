@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 16\\ClassLibraryHomeworkApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{179D0956-B73C-4523-82BE-74D800A083A8}|ClassLibraryHomework\\ClassLibraryHomework.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 16\\classlibraryhomeworkapp\\classlibraryhomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179D0956-B73C-4523-82BE-74D800A083A8}|ClassLibraryHomework\\ClassLibraryHomework.csproj|solutionrelative:classlibraryhomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E6D2C2-2CF4-4CD9-ADCE-63D9C2096756}|HomeworrkLibrary\\HomeworrkLibrary.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 16\\classlibraryhomeworkapp\\homeworrklibrary\\mathshortcuts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E6D2C2-2CF4-4CD9-ADCE-63D9C2096756}|HomeworrkLibrary\\HomeworrkLibrary.csproj|solutionrelative:homeworrklibrary\\mathshortcuts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathShortcuts.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 16\\ClassLibraryHomeworkApp\\HomeworrkLibrary\\MathShortcuts.cs",
+              "RelativeDocumentMoniker": "HomeworrkLibrary\\MathShortcuts.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 16\\ClassLibraryHomeworkApp\\HomeworrkLibrary\\MathShortcuts.cs",
+              "RelativeToolTip": "HomeworrkLibrary\\MathShortcuts.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T01:27:36.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 16\\ClassLibraryHomeworkApp\\ClassLibraryHomework\\Program.cs",
+              "RelativeDocumentMoniker": "ClassLibraryHomework\\Program.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 16\\ClassLibraryHomeworkApp\\ClassLibraryHomework\\Program.cs",
+              "RelativeToolTip": "ClassLibraryHomework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T01:23:26.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

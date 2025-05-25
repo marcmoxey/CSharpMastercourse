@@ -34,6 +34,10 @@
             <TextBlock Margin="0,0,5,0">Monthly Expenses</TextBlock>
             <Button x:Name="addExpense" Click="addExpense_Click" Padding="10,5,10,5" Margin="45,0,0,0">Add</Button>
         </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0" Grid.Row="3" Grid.Column="0">
+            <Button x:Name="editExpense" Click="editExpense_Click" Padding="10,5" Margin="5">Edit</Button>
+            <Button x:Name="deleteExpense" Click="deleteExpense_Click" Padding="10,5" Margin="5">Delete</Button>
+        </StackPanel>
 
         <ListBox x:Name="expensesListBox" Grid.Row="4" Grid.Column="0" Margin="5,0,0,0">
             <ListBox.ItemTemplate>

@@ -1,0 +1,7 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericValidatorSystemApp\GenericValidatorSystem\bin\Debug\GenericValidatorSystem.exe.config
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericValidatorSystemApp\GenericValidatorSystem\bin\Debug\GenericValidatorSystem.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericValidatorSystemApp\GenericValidatorSystem\bin\Debug\GenericValidatorSystem.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericValidatorSystemApp\GenericValidatorSystem\obj\Debug\GenericValidatorSystem.csproj.AssemblyReference.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericValidatorSystemApp\GenericValidatorSystem\obj\Debug\GenericValidatorSystem.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericValidatorSystemApp\GenericValidatorSystem\obj\Debug\GenericValidatorSystem.exe
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 15\GenericValidatorSystemApp\GenericValidatorSystem\obj\Debug\GenericValidatorSystem.pdb

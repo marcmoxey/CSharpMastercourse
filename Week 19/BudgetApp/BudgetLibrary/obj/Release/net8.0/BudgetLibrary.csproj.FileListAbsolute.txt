@@ -1,0 +1,12 @@
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\BudgetApp\BudgetLibrary\bin\Release\net8.0\BudgetLibrary.deps.json
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\BudgetApp\BudgetLibrary\bin\Release\net8.0\BudgetLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\BudgetApp\BudgetLibrary\bin\Release\net8.0\BudgetLibrary.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\BudgetApp\BudgetLibrary\obj\Release\net8.0\BudgetLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\BudgetApp\BudgetLibrary\obj\Release\net8.0\BudgetLibrary.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\BudgetApp\BudgetLibrary\obj\Release\net8.0\BudgetLibrary.AssemblyInfo.cs
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\BudgetApp\BudgetLibrary\obj\Release\net8.0\BudgetLibrary.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\BudgetApp\BudgetLibrary\obj\Release\net8.0\BudgetLibrary.sourcelink.json
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\BudgetApp\BudgetLibrary\obj\Release\net8.0\BudgetLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\BudgetApp\BudgetLibrary\obj\Release\net8.0\refint\BudgetLibrary.dll
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\BudgetApp\BudgetLibrary\obj\Release\net8.0\BudgetLibrary.pdb
+C:\Users\moxey\source\repos\marcmoxey\CSharpMastercourse\Week 19\BudgetApp\BudgetLibrary\obj\Release\net8.0\ref\BudgetLibrary.dll

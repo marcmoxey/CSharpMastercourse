@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\ExtensionMethodsMiniApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95EC56CD-7FAD-49BE-9573-ECF894D1FC3C}|ExtensionMethods\\ExtensionMethods.csproj|C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\ExtensionMethodsMiniApp\\extensionmethods\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95EC56CD-7FAD-49BE-9573-ECF894D1FC3C}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EC56CD-7FAD-49BE-9573-ECF894D1FC3C}|ExtensionMethods\\ExtensionMethods.csproj|C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\ExtensionMethodsMiniApp\\extensionmethods\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95EC56CD-7FAD-49BE-9573-ECF894D1FC3C}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EC56CD-7FAD-49BE-9573-ECF894D1FC3C}|ExtensionMethods\\ExtensionMethods.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 14\\extensionmethodsminiapp\\extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95EC56CD-7FAD-49BE-9573-ECF894D1FC3C}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\ExtensionMethodsMiniApp\\ExtensionMethods\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\ExtensionMethodsMiniApp\\ExtensionMethods\\ConsoleHelper.cs",
+              "RelativeToolTip": "ExtensionMethods\\ConsoleHelper.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:51:54.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\ExtensionMethodsMiniApp\\ExtensionMethods\\PersonModel.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\ExtensionMethodsMiniApp\\ExtensionMethods\\PersonModel.cs",
+              "RelativeToolTip": "ExtensionMethods\\PersonModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:51:52.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\ExtensionMethodsMiniApp\\ExtensionMethods\\Program.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 14\\ExtensionMethodsMiniApp\\ExtensionMethods\\Program.cs",
+              "RelativeToolTip": "ExtensionMethods\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:57:42.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

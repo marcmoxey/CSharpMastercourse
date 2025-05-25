@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ClassLibraryHomework/1.0.0": {
+        "dependencies": {
+          "HomeworrkLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ClassLibraryHomework.dll": {}
+        }
+      },
+      "HomeworrkLibrary/1.0.0": {
+        "runtime": {
+          "HomeworrkLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibraryHomework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HomeworrkLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

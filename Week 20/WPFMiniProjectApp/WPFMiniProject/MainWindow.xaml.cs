@@ -48,5 +48,36 @@ namespace WPFMiniProject
                 Addresses = addresses.ToList()
             };
         }
+
+        private void editAddressBtn_Click(object sender, RoutedEventArgs e)
+        {
+            if(addressesListBox.SelectedItem is AddressModel selectedAddress)
+            {
+                AddressEntry entry = new AddressEntry(this, selectedAddress);
+                entry.ShowDialog();
+                addressesListBox.Items.Refresh();
+
+            } else
+            {
+                MessageBox.Show("Please select an Address to edit", "Invalid Address", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+
+        private void deleteAddressBtn_Click(object sender, RoutedEventArgs e)
+        {
+            if(addressesListBox.SelectedItem is AddressModel selectedAddress)
+            {
+                if(MessageBox.Show($"Are you sure you want to delete {selectedAddress.AddressDisplayValue}?", "Confirm Delete", MessageBoxButton.YesNo) == MessageBoxResult.Yes)
+                {
+                    addresses.Remove(selectedAddress);
+
+                }
+
+            }
+            else
+            {
+                MessageBox.Show("Please selected an address to delete", "Invalid Address", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
     }
 }
