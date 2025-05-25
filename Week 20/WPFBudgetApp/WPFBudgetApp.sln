@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFBudget", "WPFBudget\WPFBudget.csproj", "{86BD1B3A-6A2D-4C22-B676-7DF8355181DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetLibrary", "..\..\Week 19\BudgetApp\BudgetLibrary\BudgetLibrary.csproj", "{5F2A9284-5C53-0BBA-4227-F2804A7B0D6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86BD1B3A-6A2D-4C22-B676-7DF8355181DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BD1B3A-6A2D-4C22-B676-7DF8355181DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BD1B3A-6A2D-4C22-B676-7DF8355181DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BD1B3A-6A2D-4C22-B676-7DF8355181DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F2A9284-5C53-0BBA-4227-F2804A7B0D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2A9284-5C53-0BBA-4227-F2804A7B0D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2A9284-5C53-0BBA-4227-F2804A7B0D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2A9284-5C53-0BBA-4227-F2804A7B0D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FD63294-F457-4137-8A59-698161D43331}
+	EndGlobalSection
+EndGlobal

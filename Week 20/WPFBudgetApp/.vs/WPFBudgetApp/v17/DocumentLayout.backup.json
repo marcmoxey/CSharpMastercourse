@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 20\\WPFBudgetApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86BD1B3A-6A2D-4C22-B676-7DF8355181DA}|WPFBudget\\WPFBudget.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 20\\wpfbudgetapp\\wpfbudget\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86BD1B3A-6A2D-4C22-B676-7DF8355181DA}|WPFBudget\\WPFBudget.csproj|solutionrelative:wpfbudget\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BD1B3A-6A2D-4C22-B676-7DF8355181DA}|WPFBudget\\WPFBudget.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 20\\wpfbudgetapp\\wpfbudget\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{86BD1B3A-6A2D-4C22-B676-7DF8355181DA}|WPFBudget\\WPFBudget.csproj|solutionrelative:wpfbudget\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2A9284-5C53-0BBA-4227-F2804A7B0D6B}|..\\..\\Week 19\\BudgetApp\\BudgetLibrary\\BudgetLibrary.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 19\\budgetapp\\budgetlibrary\\logic\\budgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 300,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BudgetService.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\BudgetApp\\BudgetLibrary\\Logic\\BudgetService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Week 19\\BudgetApp\\BudgetLibrary\\Logic\\BudgetService.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 19\\BudgetApp\\BudgetLibrary\\Logic\\BudgetService.cs",
+              "RelativeToolTip": "..\\..\\Week 19\\BudgetApp\\BudgetLibrary\\Logic\\BudgetService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:55:40.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 20\\WPFBudgetApp\\WPFBudget\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFBudget\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 20\\WPFBudgetApp\\WPFBudget\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFBudget\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:06:38.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 20\\WPFBudgetApp\\WPFBudget\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFBudget\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 20\\WPFBudgetApp\\WPFBudget\\MainWindow.xaml",
+              "RelativeToolTip": "WPFBudget\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T15:37:02.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

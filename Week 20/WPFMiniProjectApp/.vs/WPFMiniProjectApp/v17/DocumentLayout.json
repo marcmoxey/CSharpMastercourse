@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 20\\WPFMiniProjectApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{491B9760-C397-402D-8B48-305EF4F6FFB5}|WPFMiniProject\\WPFMiniProject.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 20\\wpfminiprojectapp\\wpfminiproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491B9760-C397-402D-8B48-305EF4F6FFB5}|WPFMiniProject\\WPFMiniProject.csproj|solutionrelative:wpfminiproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491B9760-C397-402D-8B48-305EF4F6FFB5}|WPFMiniProject\\WPFMiniProject.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 20\\wpfminiprojectapp\\wpfminiproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{491B9760-C397-402D-8B48-305EF4F6FFB5}|WPFMiniProject\\WPFMiniProject.csproj|solutionrelative:wpfminiproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491B9760-C397-402D-8B48-305EF4F6FFB5}|WPFMiniProject\\WPFMiniProject.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 20\\wpfminiprojectapp\\wpfminiproject\\addressentry.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{491B9760-C397-402D-8B48-305EF4F6FFB5}|WPFMiniProject\\WPFMiniProject.csproj|solutionrelative:wpfminiproject\\addressentry.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491B9760-C397-402D-8B48-305EF4F6FFB5}|WPFMiniProject\\WPFMiniProject.csproj|c:\\users\\moxey\\source\\repos\\marcmoxey\\csharpmastercourse\\week 20\\wpfminiprojectapp\\wpfminiproject\\addressentry.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491B9760-C397-402D-8B48-305EF4F6FFB5}|WPFMiniProject\\WPFMiniProject.csproj|solutionrelative:wpfminiproject\\addressentry.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 300,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddressEntry.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 20\\WPFMiniProjectApp\\WPFMiniProject\\AddressEntry.xaml.cs",
+              "RelativeDocumentMoniker": "WPFMiniProject\\AddressEntry.xaml.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 20\\WPFMiniProjectApp\\WPFMiniProject\\AddressEntry.xaml.cs",
+              "RelativeToolTip": "WPFMiniProject\\AddressEntry.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:27:29.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddressEntry.xaml",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 20\\WPFMiniProjectApp\\WPFMiniProject\\AddressEntry.xaml",
+              "RelativeDocumentMoniker": "WPFMiniProject\\AddressEntry.xaml",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 20\\WPFMiniProjectApp\\WPFMiniProject\\AddressEntry.xaml",
+              "RelativeToolTip": "WPFMiniProject\\AddressEntry.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T12:22:29.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 20\\WPFMiniProjectApp\\WPFMiniProject\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFMiniProject\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 20\\WPFMiniProjectApp\\WPFMiniProject\\MainWindow.xaml",
+              "RelativeToolTip": "WPFMiniProject\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T11:40:16.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 20\\WPFMiniProjectApp\\WPFMiniProject\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFMiniProject\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\marcmoxey\\CSharpMastercourse\\Week 20\\WPFMiniProjectApp\\WPFMiniProject\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFMiniProject\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:40:16.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
