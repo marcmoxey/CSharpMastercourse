@@ -1,0 +1,53 @@
+<<<<<<< HEAD
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverridingHomework", "MethodOverridingHomework\MethodOverridingHomework.csproj", "{3FDEE1DA-ADAC-4513-A1E9-6A1D79DA5ADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FDEE1DA-ADAC-4513-A1E9-6A1D79DA5ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FDEE1DA-ADAC-4513-A1E9-6A1D79DA5ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FDEE1DA-ADAC-4513-A1E9-6A1D79DA5ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FDEE1DA-ADAC-4513-A1E9-6A1D79DA5ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39570932-12EE-444B-BFFF-5CA3BC9F07FC}
+	EndGlobalSection
+EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverridingHomework", "MethodOverridingHomework\MethodOverridingHomework.csproj", "{3FDEE1DA-ADAC-4513-A1E9-6A1D79DA5ADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FDEE1DA-ADAC-4513-A1E9-6A1D79DA5ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FDEE1DA-ADAC-4513-A1E9-6A1D79DA5ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FDEE1DA-ADAC-4513-A1E9-6A1D79DA5ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FDEE1DA-ADAC-4513-A1E9-6A1D79DA5ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39570932-12EE-444B-BFFF-5CA3BC9F07FC}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 9e6ca562ba4b79c549dfe0a1520ee498281f8ad9

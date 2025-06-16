@@ -1,0 +1,173 @@
+﻿<Window x:Class="WPFBudget.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFBudget"
+        mc:Ignorable="d" FontSize="18"
+        Title="MainWindow" Height="680" Width="1000">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="0" FontSize="26" FontWeight="Bold" TextAlignment="Center" >Monthly Budget</TextBlock>
+
+        <StackPanel Orientation="Vertical" Margin="15,15,0,0" Grid.Row="1" Grid.Column="0">
+            <TextBlock Margin="0,0,5,0">Total Per Paycheck:</TextBlock>
+            <TextBox x:Name="totalPerPaycheckTextBox" MinWidth="200" MaxLength="300" TextChanged="totalPerPaycheckTextBox_TextChanged"></TextBox>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="15,15, 30, 15" Grid.Row="2" Grid.Column="0">
+            <TextBlock Margin="0,0,5,0">Monthly Expenses</TextBlock>
+            <Button x:Name="addExpense" Click="addExpense_Click" Padding="10,5,10,5" Margin="45,0,0,0">Add</Button>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0" Grid.Row="3" Grid.Column="0">
+            <Button x:Name="editExpense" Click="editExpense_Click" Padding="10,5" Margin="5">Edit</Button>
+            <Button x:Name="deleteExpense" Click="deleteExpense_Click" Padding="10,5" Margin="5">Delete</Button>
+        </StackPanel>
+
+        <ListBox x:Name="expensesListBox" Grid.Row="4" Grid.Column="0" Margin="5,0,0,0">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Path= ExpenseName}"/>
+                        <TextBlock Text="   " />
+                        <TextBlock Text="$" />
+                        <TextBlock Text="{Binding Path= ExpenseCost}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="5" Grid.Column="0">
+            <TextBlock Margin="15,5,0,0">Total Monthly Expenses</TextBlock>
+            <TextBlock Margin="15,5,0,0" x:Name="totalMonthlyExpensesTextBlock">$0.00</TextBlock>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="1">
+            <TextBlock Margin="20,5,0,0">Total Per Month</TextBlock>
+            <TextBlock Margin="20,5,0,0" x:Name="totalPerMonthTextBlock">$0.00</TextBlock>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="2" Grid.Column="1">
+            <TextBlock Margin="20,5,0,0">Total Income - Expenses</TextBlock>
+            <TextBlock Margin="20,5,0,0" x:Name="totalIncomeExpensesTextBlock">$0.00</TextBlock>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="3" Grid.Column="1">
+            <TextBlock Margin="20,5,0,0">Savings</TextBlock>
+            <TextBlock Margin="20,5,0,0" x:Name="totalSavingsTextBlock">$0.00</TextBlock>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="4" Grid.Column="1">
+            <TextBlock Margin="20,5,0,0">Monthly Allowance</TextBlock>
+            <TextBox x:Name="monthlyAllowanceTextBox" MinWidth="200" MaxWidth="300"  TextChanged="monthlyAllowanceTextBox_TextChanged"></TextBox>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="5" Grid.Column="1" Margin="15,10,0,0">
+            <!-- Header Row -->
+            <Grid Margin="0,5,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100"/>
+                    <!-- Spacer for labels -->
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="100"/>
+
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="1" Text="1st Check"/>
+                <TextBlock Grid.Column="2" Text="2nd Check"/>
+                <TextBlock Grid.Column="3" Text="Total"/>
+
+            </Grid>
+
+            <!-- Spending Row -->
+            <Grid Margin="0,5,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="100"/>
+
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="Spending"/>
+                <TextBlock Grid.Column="1" x:Name="spendingFirstCheckTextBlock" Text="$0.00"/>
+                <TextBlock Grid.Column="2" x:Name="spendingSecondCheckTextBlock" Text="$0.00"/>
+                <TextBlock Grid.Column="3" x:Name="spendingTotalTextBlock" Text="$0.00"/>
+
+            </Grid>
+
+            <!-- Bill Pay Row -->
+            <Grid Margin="0,5,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="100"/>
+
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="Bill Pay"/>
+                <TextBlock Grid.Column="1" x:Name="billPayFirstCheckTextBlock" Text="$0.00"/>
+                <TextBlock Grid.Column="2" x:Name="billPaySecondCheckTextBlock"  Text="$0.00"/>
+                <TextBlock Grid.Column="3" x:Name="billPayTotalTextBlock" Text="$0.00"/>
+
+            </Grid>
+
+            <!-- Savings Row -->
+            <Grid Margin="0,5,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="100"/>
+
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="Savings"/>
+                <TextBlock Grid.Column="1" x:Name="savingsFirstCheckTextBlock" Text="$0.00"/>
+                <TextBlock Grid.Column="2" x:Name="savingsSecondCheckTextBlock" Text="$0.00"/>
+                <TextBlock Grid.Column="3" x:Name="savingsTotalTextBlock" Text="$0.00"/>
+             
+            </Grid>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="6" Grid.Column="1" Margin="15,35,0,0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Row 0 -->
+                <TextBlock Grid.Row="0" Grid.Column="0" Text="6-Month Emergency Fund"/>
+                <TextBlock x:Name="sixMonthExpensesTextBlock" Grid.Row="0" Grid.Column="1" Text="$0.00" Margin="10,0,0,0"/>
+
+                <!-- Row 1 -->
+                <TextBlock Grid.Row="1" Grid.Column="0" Text="2-Month Expenses"/>
+                <TextBlock x:Name="twoMonthExpensesTextBlock" Grid.Row="1" Grid.Column="1" Text="$0.00" Margin="10,0,0,0"/>
+            </Grid>
+        </StackPanel>
+
+        <Button x:Name="saveBtn" Click="saveBtn_Click" Padding="5" Margin="40, 40" Grid.Row="6" Grid.Column="2">Save</Button>
+
+
+
+
+    </Grid>
+</Window>

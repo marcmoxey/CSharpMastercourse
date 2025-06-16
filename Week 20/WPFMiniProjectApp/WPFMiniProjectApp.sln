@@ -1,0 +1,65 @@
+<<<<<<< HEAD
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFMiniProject", "WPFMiniProject\WPFMiniProject.csproj", "{491B9760-C397-402D-8B48-305EF4F6FFB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{C2246472-C0F5-416F-98C1-AAC6C2E95BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{491B9760-C397-402D-8B48-305EF4F6FFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491B9760-C397-402D-8B48-305EF4F6FFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491B9760-C397-402D-8B48-305EF4F6FFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491B9760-C397-402D-8B48-305EF4F6FFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2246472-C0F5-416F-98C1-AAC6C2E95BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2246472-C0F5-416F-98C1-AAC6C2E95BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2246472-C0F5-416F-98C1-AAC6C2E95BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2246472-C0F5-416F-98C1-AAC6C2E95BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63B68C3F-1EB0-483B-ACAF-163D62793344}
+	EndGlobalSection
+EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFMiniProject", "WPFMiniProject\WPFMiniProject.csproj", "{491B9760-C397-402D-8B48-305EF4F6FFB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{C2246472-C0F5-416F-98C1-AAC6C2E95BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{491B9760-C397-402D-8B48-305EF4F6FFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491B9760-C397-402D-8B48-305EF4F6FFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491B9760-C397-402D-8B48-305EF4F6FFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491B9760-C397-402D-8B48-305EF4F6FFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2246472-C0F5-416F-98C1-AAC6C2E95BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2246472-C0F5-416F-98C1-AAC6C2E95BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2246472-C0F5-416F-98C1-AAC6C2E95BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2246472-C0F5-416F-98C1-AAC6C2E95BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63B68C3F-1EB0-483B-ACAF-163D62793344}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 9e6ca562ba4b79c549dfe0a1520ee498281f8ad9

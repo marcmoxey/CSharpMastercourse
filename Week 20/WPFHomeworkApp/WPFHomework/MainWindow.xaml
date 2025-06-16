@@ -1,0 +1,91 @@
+<<<<<<< HEAD
+﻿<Window x:Class="WPFHomework.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFHomework"
+        mc:Ignorable="d" FontSize="24"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Orientation="Horizontal" Grid.Column="1" Grid.Row="0" Margin="0, 20, 0, 10">
+            <TextBlock Margin="0,0,5,0">First Name:</TextBlock>
+            <TextBox x:Name="firstNameTextBox" MinWidth="200" MaxWidth="300"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Column="1" Grid.Row="1">
+            <TextBlock  Margin="0,0,5,0">Last Name:</TextBlock>
+            <TextBox x:Name="lastNameTextBox" MinWidth="200" MaxWidth="300"/>
+        </StackPanel>
+        
+        <Button x:Name="sayHi" Grid.Row="2" Grid.Column="1" Click="sayHi_Click" Padding="0,5" Margin="0,5, 0 ,0">Say Hi</Button>
+
+        <ListBox x:Name="namesList" Grid.Row="3" Grid.Column="1" Margin="0,20,0,0">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Path=Greetings}" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            
+        </ListBox>
+
+    </Grid>
+</Window>
+=======
+﻿<Window x:Class="WPFHomework.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFHomework"
+        mc:Ignorable="d" FontSize="24"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Orientation="Horizontal" Grid.Column="1" Grid.Row="0" Margin="0, 20, 0, 10">
+            <TextBlock Margin="0,0,5,0">First Name:</TextBlock>
+            <TextBox x:Name="firstNameTextBox" MinWidth="200" MaxWidth="300"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Column="1" Grid.Row="1">
+            <TextBlock  Margin="0,0,5,0">Last Name:</TextBlock>
+            <TextBox x:Name="lastNameTextBox" MinWidth="200" MaxWidth="300"/>
+        </StackPanel>
+        
+        <Button x:Name="sayHi" Grid.Row="2" Grid.Column="1" Click="sayHi_Click" Padding="0,5" Margin="0,5, 0 ,0">Say Hi</Button>
+
+        <ListBox x:Name="namesList" Grid.Row="3" Grid.Column="1" Margin="0,20,0,0">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Greetings}" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            
+        </ListBox>
+
+    </Grid>
+</Window>
+>>>>>>> 9e6ca562ba4b79c549dfe0a1520ee498281f8ad9

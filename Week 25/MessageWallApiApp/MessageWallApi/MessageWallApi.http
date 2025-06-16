@@ -1,0 +1,6 @@
+@MessageWallApi_HostAddress = http://localhost:5239
+
+GET {{MessageWallApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
