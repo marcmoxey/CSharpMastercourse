@@ -1,0 +1,35 @@
+﻿@page "/PersonEntry"
+
+
+<h3>Person Entry</h3>
+
+<EditForm Model="model" OnValidSubmit="ValidSubmission">
+  <DataAnnotationsValidator />
+  <ValidationSummary />
+
+  <label for="FirstName" class="form-label">@nameof(model.FirstName)</label>
+  <InputText id="FirstName" @bind-Value="model.FirstName" class="form-control"/>
+
+    <label for="LastName" class="form-label">@nameof(model.LastName)</label>
+    <InputText id="LastName" @bind-Value="model.LastName" class="form-control" />
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+ </EditForm>
+
+ <ul>
+    @foreach(string person in people)
+    {
+        <li>@person</li>
+    }
+</ul>
+
+@code {
+    PersonModel model = new();
+    List<string> people = new();
+
+    public void ValidSubmission()
+    {
+        people.Add($"{model.FirstName} {model.LastName}");
+        model = new();
+    }
+}
