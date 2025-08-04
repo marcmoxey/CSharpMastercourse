@@ -81,11 +81,12 @@ namespace DataAccessLibrary
                             sql = "insert into dbo.PhoneNumbers (PhoneNumber) values (@PhoneNumber);";
                             db.SaveData(sql, new { phoneNumber.PhoneNumber}, _connectionString);
 
+                           sql = "select Id from dbo.PhoneNumbers where PhoneNumber = @PhoneNumber";
                            phoneNumber.Id = db.LoadData<IdLookupModel, dynamic>(sql, new { phoneNumber.PhoneNumber }, _connectionString).First().Id;
                         }
 
                     // Insert into link table for that number
-                    sql = "insert into dbo.ContactPhoneNumbers (ContactId, PhoneNumberId) values (@ContactId, @PhoneNumberId);";
+                    sql = "insert into dbo.ContactPhoneNumber (ContactId, PhoneNumberId) values (@ContactId, @PhoneNumberId);";
 
                     // Then do the link table insert
                     db.SaveData(sql, new { ContactId = contactId, PhoneNumberId = phoneNumber.Id}, _connectionString);
@@ -102,10 +103,11 @@ namespace DataAccessLibrary
                     sql = "Insert into dbo.EmailAddresses (EmailAddress) values (@EmailAddress);";
                     db.SaveData(sql, new {emailAddress.EmailAddress}, _connectionString);
 
+                    sql = "select id from  dbo.EmailAddresses where EmailAddress = @EmailAddress";
                     emailAddress.id = db.LoadData<IdLookupModel, dynamic>(sql, new { emailAddress.EmailAddress }, _connectionString).First().Id;
                 }
 
-                sql = "insert into dbo.ContactEmailAddresses (ContactId, EmailAddressId) values (@ContactId, @EmailAddressId);";
+                sql = "insert into dbo.ContactEmail (ContactId, EmailAddressId) values (@ContactId, @EmailAddressId);";
 
                 db.SaveData(sql, new { contactId = contactId, EmailAddressId = emailAddress.id }, _connectionString);
             }
