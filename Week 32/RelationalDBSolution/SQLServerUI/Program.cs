@@ -11,13 +11,35 @@ SqlCrud sql = new SqlCrud(GetConnectionString());
 
 //ReadAllContacts(sql);
 
-//ReadContact(sql, 1);
+//ReadContact(sql, 1002);
 
-CreateNewContact(sql);
+//CreateNewContact(sql);
+
+//UpdateContact(sql);
+
+//RemovePhoneNumberFromContact(sql,2, 1);
+
+Console.WriteLine("Done!");
 
 
 
 Console.ReadLine();
+
+static void RemovePhoneNumberFromContact(SqlCrud sql, int contactId, int phoneNumberId)
+{
+   sql.RemovePhoneNumberFromContact(contactId, phoneNumberId);
+}
+
+static void UpdateContact(SqlCrud sql)
+{
+    BasicContactModel contact = new BasicContactModel
+    {
+        Id = 1, 
+        FirstName = "Marc-Anthony",
+        LastName = "Moxey"
+    };
+    sql.UpdateContactName(contact);
+}
 
 static void CreateNewContact(SqlCrud sql)
 {
@@ -37,6 +59,7 @@ static void CreateNewContact(SqlCrud sql)
 
     sql.CreateContact(user);
 }
+
 static void ReadAllContacts(SqlCrud sql)
 {
     var rows = sql.GetAllContacts();
@@ -54,7 +77,6 @@ static void ReadContact(SqlCrud sql, int ContactId)
     Console.WriteLine($"{contact.BasicInfo.Id}: {contact.BasicInfo.FirstName} {contact.BasicInfo.LastName}");
 
 }
-
 
 static string GetConnectionString(string connectionStringName = "Default")
 {

@@ -113,5 +113,30 @@ namespace DataAccessLibrary
             }
 
         }
+
+
+        public void UpdateContactName(BasicContactModel contact)
+        {
+            string sql = "update dbo.Contacts set FirstName = @FirstName, LastName = @LastName where Id = @Id";
+            db.SaveData(sql, contact, _connectionString);
+        }
+
+        public void RemovePhoneNumberFromContact(int contactId, int phoneNumberId)
+        {
+            // Find all the usages of the phone number id 
+            string sql = "select Id, ContactId, PhoneNumberId from dbo.ContactPhoneNumber where PhoneNumberId = @PhoneNumberId";
+            var links = db.LoadData<ContactPhoneNumberModel, dynamic>(sql, new { PhoneNumberId = phoneNumberId }, _connectionString);
+            // if > 1, then delete link for contact 
+            sql = "delete from dbo.ContactPhoneNumber where PhoneNumberId = @PhoneNumberId and ContactId = @ContactId";
+            db.SaveData(sql, new { PhoneNumberId = phoneNumberId, ContactId = contactId }, _connectionString);
+
+            // if 1, then delete link and phone 
+            if (links.Count == 1 )
+            {
+                sql = "delete from dbo.PhoneNumbers where Id = @PhoneNumberId;";
+                db.SaveData(sql, new { PhoneNumberId = phoneNumberId }, _connectionString);
+            }
+               
+        }
     }
 }
