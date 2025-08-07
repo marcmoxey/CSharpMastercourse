@@ -342,7 +342,7 @@ namespace DataAccessLibrary
         // Employer Read
         public List<EmployerModel> GetAllEmployers()
         {
-            string sql = "select employer from dbo.Employers;";
+            string sql = "select Id, Employer from dbo.Employers;";
             List<EmployerModel> employers = new List<EmployerModel> ();
 
             using (SqlConnection conn = new(_connectionString))
@@ -357,7 +357,8 @@ namespace DataAccessLibrary
                     {
                         EmployerModel employer = new EmployerModel
                         {
-                            EmployerName = reader["Employer"].ToString()
+                            Id = Convert.ToInt32(reader["Id"]),
+                            Employer = reader["Employer"].ToString()
                         };
                         employers.Add(employer);
                     }
@@ -375,13 +376,14 @@ namespace DataAccessLibrary
         public EmployerModel GetEmployerById(int id)
         {
             EmployerModel employer = new EmployerModel();
-            string sql = "select employer from dbo.Employers where Id = @Id;";
+            string sql = "select Id,  employer from dbo.Employers where Id = @Id;";
            
 
             using (SqlConnection conn = new(_connectionString))
             {
                 SqlCommand cmd = new(sql, conn);
                 SqlParameter param = new SqlParameter("@Id", id);
+                cmd.Parameters.Add(param);  
 
                 try
                 {
@@ -392,10 +394,10 @@ namespace DataAccessLibrary
                         employer = new EmployerModel
                         {
                             Id = Convert.ToInt32(reader["Id"]),
-                            EmployerName = reader["Employer"].ToString()
+                            Employer = reader["Employer"].ToString()
                         };
                     }   
-                    reader.Close();
+                   conn.Close();
                 }
                 catch (Exception ex)
                 {
@@ -407,5 +409,78 @@ namespace DataAccessLibrary
         }
 
         // Employer Write
+        public void CreateEmployer(EmployerModel employer)
+        {
+            string sql = "insert into dbo.Employers (Employer) values (@Employer);";
+
+            using(SqlConnection conn = new(_connectionString))
+            {
+                SqlCommand cmd = new SqlCommand(sql, conn);
+                SqlParameter param = new SqlParameter("@Employer", employer.Employer);
+                cmd.Parameters.Add(param);
+
+                try
+                {
+                    conn.Open();
+                    cmd.ExecuteNonQuery();
+                    conn.Close();
+                }
+                catch (Exception ex)
+                {
+
+                    Console.WriteLine($"Error: {ex.Message}");
+                }
+            }
+        }
+
+        public void UpdateEmployer(EmployerModel employer)
+        {
+            string sql = "update dbo.Employers set Employer = @Employer where Id = @Id;";
+            using(SqlConnection conn = new(_connectionString))
+            {
+                SqlCommand cmd = new(sql, conn);
+                SqlParameter param = new SqlParameter("@Id", employer.Id);
+                SqlParameter param2 = new SqlParameter("@Employer", employer.Employer);
+                cmd.Parameters.Add(param);
+                cmd.Parameters.Add(param2);
+
+                try
+                {
+                    conn.Open();
+                    cmd.ExecuteNonQuery();
+                    conn.Close();
+                }
+                catch (Exception ex)
+                {
+
+                    Console.WriteLine($"Error: {ex.Message}");
+                }
+                
+            }
+        }
+
+        public void DeleteEmployer(int id)
+        {
+            string sql = "delete from dbo.Employers where Id = @Id;";
+            using(SqlConnection conn = new(_connectionString))
+            {
+                SqlCommand cmd = new(sql,conn);
+                SqlParameter param = new SqlParameter("@Id", id);
+                cmd.Parameters.Add(param);
+
+                try
+                {
+                    conn.Open();
+                    cmd.ExecuteNonQuery();
+                    conn.Close();
+                }
+                catch (Exception ex)
+                {
+
+                    Console.WriteLine($"Error: {ex.Message}");
+                }
+
+            }
+        }
     }
 }

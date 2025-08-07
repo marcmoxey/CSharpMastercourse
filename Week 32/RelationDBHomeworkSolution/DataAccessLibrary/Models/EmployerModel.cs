@@ -9,6 +9,6 @@ namespace DataAccessLibrary.Models
     public class EmployerModel
     {
         public int Id { get; set; }
-        public string EmployerName { get; set; }
+        public string Employer { get; set; }
     }
 }

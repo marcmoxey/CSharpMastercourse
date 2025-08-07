@@ -16,12 +16,52 @@ SqlCrud sql = new SqlCrud(GetConnectionString());
 //UpdateAddress(sql); 
 //RemoveAddress(sql,11);
 
+//GetAllEmployers(sql);
+//GetEmployer(sql,1);
+//CreateEmployer(sql);
+//UpdateEmployer(sql);
+//RemoveEmployer(sql, 6);
+
+
 Console.WriteLine("Done!");
 Console.ReadLine();
 
+static void RemoveEmployer(SqlCrud sql, int id)
+{
+    sql.DeleteEmployer(id);
+}
+static void UpdateEmployer(SqlCrud sql)
+{
+    EmployerModel employer = new EmployerModel
+    {
+        Id = 6,
+        Employer = "Advanced Micro Devices"
+    };
+
+    sql.UpdateEmployer(employer);
+}
+static void CreateEmployer(SqlCrud sql)
+{
+    EmployerModel employer = new EmployerModel
+    {
+        Id = 6,
+        Employer = "AMD"
+    };
+
+    sql.CreateEmployer(employer);
+}
+static void GetEmployer(SqlCrud sql, int id)
+{
+    var employer = sql.GetEmployerById(id);
+    Console.WriteLine($"{employer.Id}: {employer.Employer}");
+}
 static void GetAllEmployers(SqlCrud sql)
 {
-
+    var rows = sql.GetAllEmployers();
+    foreach(var row in rows)
+    {
+        Console.WriteLine($"{row.Id}: {row.Employer}");
+    }
 }
 
 
