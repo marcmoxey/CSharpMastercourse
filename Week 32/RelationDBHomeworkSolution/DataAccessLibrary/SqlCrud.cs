@@ -99,5 +99,60 @@ namespace DataAccessLibrary
             }
             return person;
         }
+
+
+        public void CreatePerson(PersonModel person)
+        {
+            string sql = "insert into dbo.People (FirstName, LastName) values (@FirstName, @LastName)";
+           
+            using(SqlConnection conn = new(_connectionString))
+            {
+                SqlCommand cmd = new (sql, conn);
+                SqlParameter param1 = new SqlParameter("@FirstName", person.FirstName);
+                SqlParameter param2 = new SqlParameter("@LastName",person.LastName);
+                cmd.Parameters.Add(param1);
+                cmd.Parameters.Add(param2);
+
+                try
+                {
+                    conn.Open();
+                    cmd.ExecuteNonQuery();
+                    conn.Close();
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+            }
+        }
+
+
+        public void UpdatePerson(PersonModel person)
+        {
+            string sql = "update dbo.People set FirstName = @FirstName, LastName = @LastName where Id = @Id";
+
+            using(SqlConnection conn = new(_connectionString))
+            {
+                SqlCommand cmd = new(sql, conn);
+                SqlParameter param1 = new SqlParameter("@Id", person.Id);
+                SqlParameter param2 = new SqlParameter("@FirstName", person.FirstName); 
+                SqlParameter param3 = new SqlParameter("@LastName", person.LastName);
+                cmd.Parameters.Add(param1);
+                cmd.Parameters.Add(param2);
+                cmd.Parameters.Add(param3);
+
+                try
+                {
+                    conn.Open();
+                    cmd.ExecuteNonQuery();
+                    conn.Close();
+
+                } 
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+            }
+        }
     }
 }

@@ -1,15 +1,38 @@
 ﻿using DataAccessLibrary;
+using DataAccessLibrary.Models;
 using Microsoft.Extensions.Configuration;
 
 SqlCrud sql = new SqlCrud(GetConnectionString());
 
 //GetAllPeople(sql);
 //GetPersonById(sql, 1);
+//CreatePerson(sql);
+UpdatePerson(sql);
 
 Console.WriteLine("Done!");
 Console.ReadLine();
 
 
+static void UpdatePerson(SqlCrud sql)
+{ 
+    PersonModel person = new PersonModel
+    {
+        Id = 1002,
+        FirstName = "Marc-Anthony",
+        LastName = "Moxey"
+    };
+    sql.UpdatePerson(person);
+}
+static void CreatePerson(SqlCrud sql)
+{
+    PersonModel person = new PersonModel
+    {
+        FirstName = "Marc",
+        LastName = "Moxey"
+    };
+
+    sql.CreatePerson(person);
+}
 static void GetPersonById(SqlCrud sql, int id)
 {
     var Person = sql.GetPersonById(id);
