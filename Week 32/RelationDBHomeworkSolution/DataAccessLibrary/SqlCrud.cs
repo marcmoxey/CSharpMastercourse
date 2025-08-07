@@ -409,29 +409,6 @@ namespace DataAccessLibrary
         }
 
         // Employer Write
-        public void CreateEmployer(EmployerModel employer)
-        {
-            string sql = "insert into dbo.Employers (Employer) values (@Employer);";
-
-            using(SqlConnection conn = new(_connectionString))
-            {
-                SqlCommand cmd = new SqlCommand(sql, conn);
-                SqlParameter param = new SqlParameter("@Employer", employer.Employer);
-                cmd.Parameters.Add(param);
-
-                try
-                {
-                    conn.Open();
-                    cmd.ExecuteNonQuery();
-                    conn.Close();
-                }
-                catch (Exception ex)
-                {
-
-                    Console.WriteLine($"Error: {ex.Message}");
-                }
-            }
-        }
 
         public void UpdateEmployer(EmployerModel employer)
         {
@@ -482,5 +459,74 @@ namespace DataAccessLibrary
 
             }
         }
+
+        public void CreateEmployer(FullEmployerModel employer)
+        {
+            using (SqlConnection conn = new SqlConnection(_connectionString))
+            {
+                conn.Open();
+                SqlTransaction trans = conn.BeginTransaction();
+
+                try
+                {
+                    int employerId;
+
+                    // 1. Insert employer and get ID
+                    string sql = @"INSERT INTO dbo.Employers (Employer) 
+                           VALUES (@Employer); 
+                           SELECT SCOPE_IDENTITY();";
+
+                    using (SqlCommand cmd = new SqlCommand(sql, conn, trans))
+                    {
+                        cmd.Parameters.AddWithValue("@Employer", employer.BasicInfo.Employer);
+                        employerId = Convert.ToInt32(cmd.ExecuteScalar());
+                    }
+
+                    // 2. Insert each address and link to employer
+                    foreach (var address in employer.Addresses)
+                    {
+                        int addressId = address.Id;
+
+                        if (addressId == 0)
+                        {
+                            sql = @"INSERT INTO dbo.Addresses (StreetAddress, City, State, ZipCode) 
+                            VALUES (@StreetAddress, @City, @State, @ZipCode); 
+                            SELECT SCOPE_IDENTITY();";
+
+                            using (SqlCommand cmd = new SqlCommand(sql, conn, trans))
+                            {
+                                cmd.Parameters.AddWithValue("@StreetAddress", address.StreetAddress);
+                                cmd.Parameters.AddWithValue("@City", address.City);
+                                cmd.Parameters.AddWithValue("@State", address.State);
+                                cmd.Parameters.AddWithValue("@ZipCode", address.ZipCode);
+
+                                addressId = Convert.ToInt32(cmd.ExecuteScalar());
+                            }
+                        }
+
+                        // 3. Link address to employer
+                        sql = "INSERT INTO dbo.EmployerAddress (EmployerId, AddressId) VALUES (@EmployerId, @AddressId);";
+
+                        using (SqlCommand cmd = new SqlCommand(sql, conn, trans))
+                        {
+                            cmd.Parameters.AddWithValue("@EmployerId", employerId);
+                            cmd.Parameters.AddWithValue("@AddressId", addressId);
+                            cmd.ExecuteNonQuery();
+                        }
+                    }
+
+                    trans.Commit();
+                }
+                catch (Exception ex)
+                {
+                    trans.Rollback();
+                    Console.WriteLine($"Error: {ex.Message}");
+                    throw;
+                }
+            }
+        }
+
+
+
     }
 }

@@ -18,7 +18,7 @@ SqlCrud sql = new SqlCrud(GetConnectionString());
 
 //GetAllEmployers(sql);
 //GetEmployer(sql,1);
-//CreateEmployer(sql);
+CreateEmployer(sql);
 //UpdateEmployer(sql);
 //RemoveEmployer(sql, 6);
 
@@ -42,11 +42,29 @@ static void UpdateEmployer(SqlCrud sql)
 }
 static void CreateEmployer(SqlCrud sql)
 {
-    EmployerModel employer = new EmployerModel
+    FullEmployerModel employer = new FullEmployerModel
     {
-        Id = 6,
-        Employer = "AMD"
+        BasicInfo = new EmployerModel
+        {
+            Employer = "Advanced Micro Devices"
+        }
     };
+
+    employer.Addresses.Add(new AddressModel
+    {
+        StreetAddress = "1340 Airport Commerce Drive",
+        City = "Austin",
+        State  = "TX",
+        ZipCode = "78741"
+    });
+
+    employer.Addresses.Add(new AddressModel
+    {
+        StreetAddress = "1024 Iron Point Road",
+        City = "Folsom",
+        State = "CA",
+        ZipCode = "95630"
+    });
 
     sql.CreateEmployer(employer);
 }
