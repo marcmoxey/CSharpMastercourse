@@ -78,17 +78,17 @@ static void ReadContact(SqlCrud sql, int ContactId)
 
 }
 
-static string GetConnectionString(string connectionStringName = "Default")
-{
-    string output = "";
+    static string GetConnectionString(string connectionStringName = "Default")
+    {
+        string output = "";
 
-    var builder = new ConfigurationBuilder()
-        .SetBasePath(Directory.GetCurrentDirectory())
-        .AddJsonFile("appsettings.json");
+        var builder = new ConfigurationBuilder()
+            .SetBasePath(Directory.GetCurrentDirectory())
+            .AddJsonFile("appsettings.json");
 
-    var config = builder.Build();
+        var config = builder.Build();
 
-    output = config.GetConnectionString(connectionStringName);
+        output = config.GetConnectionString(connectionStringName);
 
-    return output;
-}
+        return output;
+    }
