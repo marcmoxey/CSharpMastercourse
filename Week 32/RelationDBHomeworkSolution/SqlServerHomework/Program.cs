@@ -14,10 +14,16 @@ SqlCrud sql = new SqlCrud(GetConnectionString());
 //GetAddress(sql, 1); 
 //CreateAddress(sql);
 //UpdateAddress(sql); 
-RemoveAddress(sql,11);
+//RemoveAddress(sql,11);
 
 Console.WriteLine("Done!");
 Console.ReadLine();
+
+static void GetAllEmployers(SqlCrud sql)
+{
+
+}
+
 
 static void RemoveAddress(SqlCrud sql, int id)
 {

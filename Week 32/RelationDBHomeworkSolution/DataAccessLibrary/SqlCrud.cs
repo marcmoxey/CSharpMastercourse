@@ -338,5 +338,74 @@ namespace DataAccessLibrary
             }
         }
 
+
+        // Employer Read
+        public List<EmployerModel> GetAllEmployers()
+        {
+            string sql = "select employer from dbo.Employers;";
+            List<EmployerModel> employers = new List<EmployerModel> ();
+
+            using (SqlConnection conn = new(_connectionString))
+            {
+                SqlCommand cmd = new(sql, conn);
+
+                try
+                {
+                    conn.Open();
+                    SqlDataReader reader = cmd.ExecuteReader();
+                    while (reader.Read())
+                    {
+                        EmployerModel employer = new EmployerModel
+                        {
+                            EmployerName = reader["Employer"].ToString()
+                        };
+                        employers.Add(employer);
+                    }
+                    reader.Close();
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+
+                return employers;
+            }
+        }
+
+        public EmployerModel GetEmployerById(int id)
+        {
+            EmployerModel employer = new EmployerModel();
+            string sql = "select employer from dbo.Employers where Id = @Id;";
+           
+
+            using (SqlConnection conn = new(_connectionString))
+            {
+                SqlCommand cmd = new(sql, conn);
+                SqlParameter param = new SqlParameter("@Id", id);
+
+                try
+                {
+                    conn.Open();
+                    SqlDataReader reader = cmd.ExecuteReader();
+                    while (reader.Read())
+                    {
+                        employer = new EmployerModel
+                        {
+                            Id = Convert.ToInt32(reader["Id"]),
+                            EmployerName = reader["Employer"].ToString()
+                        };
+                    }   
+                    reader.Close();
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+
+                return employer;
+            }
+        }
+
+        // Employer Write
     }
 }
