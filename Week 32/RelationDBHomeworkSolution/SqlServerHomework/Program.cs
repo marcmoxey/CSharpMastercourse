@@ -5,14 +5,68 @@ using Microsoft.Extensions.Configuration;
 SqlCrud sql = new SqlCrud(GetConnectionString());
 
 //GetAllPeople(sql);
-//GetPersonById(sql, 1);
+//GetPerson(sql, 1);
 //CreatePerson(sql);
-UpdatePerson(sql);
+//UpdatePerson(sql);
+//DeletePerson(sql, 1002);
+
+//GetAllAddresses(sql);
+//GetAddress(sql, 1); 
+//CreateAddress(sql);
+//UpdateAddress(sql); 
+RemoveAddress(sql,11);
 
 Console.WriteLine("Done!");
 Console.ReadLine();
 
+static void RemoveAddress(SqlCrud sql, int id)
+{
+    sql.DeleteAddress(id);
+}
+static void UpdateAddress(SqlCrud sql)
+{
+    AddressModel address = new AddressModel
+    {
+        Id = 11,
+        StreetAddress = "200-08 Linden Blvd",
+        City = "Saint Albans",
+        State = "NY",
+        ZipCode = "11412"
+    };
+    sql.UpdateAddress(address);
+}
+static void CreateAddress(SqlCrud sql)
+{
+    AddressModel address = new AddressModel
+    {
+        StreetAddress = "200-12 Linden Blvd",
+        City = "Saint Albans",
+        State = "NY",
+        ZipCode = "11412"
+    };
 
+    sql.CreateAddress(address);
+}
+static void GetAllAddresses(SqlCrud sql)
+{
+    var rows = sql.GetAllAddresses(); 
+    foreach(var row in rows)
+    {
+        Console.WriteLine($"{row.StreetAddress} {row.City}, {row.State} {row.ZipCode}");
+    }
+}
+static void GetAddress(SqlCrud sql, int id)
+{
+    var Address = sql.GetAnAddressById(id);
+
+    Console.WriteLine($"{Address.Id}: {Address.StreetAddress} {Address.City}, {Address.State} {Address.ZipCode}");
+}
+
+
+static void DeletePerson(SqlCrud sql, int personId)
+{
+    sql.DeletePerson(personId);
+}
 static void UpdatePerson(SqlCrud sql)
 { 
     PersonModel person = new PersonModel
@@ -33,7 +87,7 @@ static void CreatePerson(SqlCrud sql)
 
     sql.CreatePerson(person);
 }
-static void GetPersonById(SqlCrud sql, int id)
+static void GetPerson(SqlCrud sql, int id)
 {
     var Person = sql.GetPersonById(id);
 
