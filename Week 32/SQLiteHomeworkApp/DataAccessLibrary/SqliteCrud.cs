@@ -117,8 +117,8 @@ namespace DataAccessLibrary
 
                     // 1. Insert employer and get ID
                     string sql = @"INSERT INTO People (FirstName, LastName) 
-                           VALUES (@FirstName, @LastName); 
-                           SELECT SCOPE_IDENTITY();";
+                           VALUES (@FirstName, @LastName);
+                           SELECT last_insert_rowid();";
 
                     using (SQLiteCommand cmd = new SQLiteCommand(sql, conn, trans))
                     {
@@ -135,8 +135,8 @@ namespace DataAccessLibrary
                         if (addressId == 0)
                         {
                             sql = @"INSERT INTO Addresses (StreetAddress, City, State, ZipCode) 
-                            VALUES (@StreetAddress, @City, @State, @ZipCode); 
-                            SELECT SCOPE_IDENTITY();";
+                            VALUES (@StreetAddress, @City, @State, @ZipCode);
+                            SELECT last_insert_rowid();";
 
                             using (SQLiteCommand cmd = new SQLiteCommand(sql, conn, trans))
                             {
@@ -149,12 +149,12 @@ namespace DataAccessLibrary
                             }
                         }
 
-                        // 3. Link address to employer
-                        sql = "INSERT INTO EPersonAddress (PersonId, AddressId) VALUES (@PersonId, @AddressId);";
+                        // 3. Link address to person
+                        sql = "INSERT INTO PersonAddress (PersonId, AddressId) VALUES (@PersonId, @AddressId);";
 
                         using (SQLiteCommand cmd = new SQLiteCommand(sql, conn, trans))
                         {
-                            cmd.Parameters.AddWithValue("@EmployerId", PersonId);
+                            cmd.Parameters.AddWithValue("@PersonId", PersonId);
                             cmd.Parameters.AddWithValue("@AddressId", addressId);
                             cmd.ExecuteNonQuery();
                         }
@@ -517,8 +517,8 @@ namespace DataAccessLibrary
 
                     // 1. Insert employer and get ID
                     string sql = @"INSERT INTO Employers (Employer) 
-                           VALUES (@Employer); 
-                           SELECT SCOPE_IDENTITY();";
+                           VALUES (@Employer);
+                           SELECT last_insert_rowid();";
 
                     using (SQLiteCommand cmd = new SQLiteCommand(sql, conn, trans))
                     {
@@ -534,8 +534,8 @@ namespace DataAccessLibrary
                         if (addressId == 0)
                         {
                             sql = @"INSERT INTO Addresses (StreetAddress, City, State, ZipCode) 
-                            VALUES (@StreetAddress, @City, @State, @ZipCode); 
-                            SELECT SCOPE_IDENTITY();";
+                            VALUES (@StreetAddress, @City, @State, @ZipCode);
+                            SELECT last_insert_rowid();";
 
                             using (SQLiteCommand cmd = new SQLiteCommand(sql, conn, trans))
                             {

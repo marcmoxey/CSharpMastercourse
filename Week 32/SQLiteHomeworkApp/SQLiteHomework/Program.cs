@@ -6,9 +6,9 @@ using Microsoft.Extensions.Configuration.Json;
 SqliteCrud sql = new SqliteCrud(GetConnectionString());
 
 
-GetAllPeople(sql);
+//GetAllPeople(sql);
 //GetPerson(sql, 1);
-//CreatePerson(sql);
+CreatePerson(sql);
 //UpdatePerson(sql);
 //DeletePerson(sql, 1002);
 
