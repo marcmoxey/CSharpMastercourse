@@ -3,14 +3,16 @@ using DataAccessLibrary.Models;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Configuration.Json;
 
-SqliteCrud sql = new SqliteCrud(GetConnectionString());
+MySqlCrud sql = new MySqlCrud(GetConnectionString());
 
 
-//GetAllPeople(sql);
+GetAllPeople(sql);
 //GetPerson(sql, 1);
 //CreatePerson(sql);
+//GetPerson(sql, 16);
 //UpdatePerson(sql);
-//DeletePerson(sql, 6);
+//GetPerson(sql, 16);
+//DeletePerson(sql, 16);
 
 //GetAllAddresses(sql);
 //GetAddress(sql, 1); 
@@ -30,11 +32,11 @@ Console.ReadLine();
 
 
 
-static void RemoveEmployer(SqliteCrud sql, int id)
+static void RemoveEmployer(MySqlCrud sql, int id)
 {
     sql.DeleteEmployer(id);
 }
-static void UpdateEmployer(SqliteCrud sql)
+static void UpdateEmployer(MySqlCrud sql)
 {
     EmployerModel employer = new EmployerModel
     {
@@ -44,7 +46,7 @@ static void UpdateEmployer(SqliteCrud sql)
 
     sql.UpdateEmployer(employer);
 }
-static void CreateEmployer(SqliteCrud sql)
+static void CreateEmployer(MySqlCrud sql)
 {
     FullEmployerModel employer = new FullEmployerModel
     {
@@ -72,12 +74,12 @@ static void CreateEmployer(SqliteCrud sql)
 
     sql.CreateEmployer(employer);
 }
-static void GetEmployer(SqliteCrud sql, int id)
+static void GetEmployer(MySqlCrud sql, int id)
 {
     var employer = sql.GetEmployerById(id);
     Console.WriteLine($"{employer.Id}: {employer.Employer}");
 }
-static void GetAllEmployers(SqliteCrud sql)
+static void GetAllEmployers(MySqlCrud sql)
 {
     var rows = sql.GetAllEmployers();
     foreach (var row in rows)
@@ -87,11 +89,11 @@ static void GetAllEmployers(SqliteCrud sql)
 }
 
 
-static void RemoveAddress(SqliteCrud sql, int id)
+static void RemoveAddress(MySqlCrud sql, int id)
 {
     sql.DeleteAddress(id);
 }
-static void UpdateAddress(SqliteCrud sql)
+static void UpdateAddress(MySqlCrud sql)
 {
     AddressModel address = new AddressModel
     {
@@ -103,7 +105,7 @@ static void UpdateAddress(SqliteCrud sql)
     };
     sql.UpdateAddress(address);
 }
-static void CreateAddress(SqliteCrud sql)
+static void CreateAddress(MySqlCrud sql)
 {
     AddressModel address = new AddressModel
     {
@@ -115,7 +117,7 @@ static void CreateAddress(SqliteCrud sql)
 
     sql.CreateAddress(address);
 }
-static void GetAllAddresses(SqliteCrud sql)
+static void GetAllAddresses(MySqlCrud sql)
 {
     var rows = sql.GetAllAddresses();
     foreach (var row in rows)
@@ -123,7 +125,7 @@ static void GetAllAddresses(SqliteCrud sql)
         Console.WriteLine($"{row.StreetAddress} {row.City}, {row.State} {row.ZipCode}");
     }
 }
-static void GetAddress(SqliteCrud sql, int id)
+static void GetAddress(MySqlCrud sql, int id)
 {
     var Address = sql.GetAnAddressById(id);
 
@@ -131,21 +133,21 @@ static void GetAddress(SqliteCrud sql, int id)
 }
 
 
-static void DeletePerson(SqliteCrud sql, int personId)
+static void DeletePerson(MySqlCrud sql, int personId)
 {
     sql.DeletePerson(personId);
 }
-static void UpdatePerson(SqliteCrud sql)
+static void UpdatePerson(MySqlCrud sql)
 {
     PersonModel person = new PersonModel
     {
-        Id = 6,
+        Id = 16,
         FirstName = "Marc-Anthony",
         LastName = "Moxey"
     };
     sql.UpdatePerson(person);
 }
-static void CreatePerson(SqliteCrud sql)
+static void CreatePerson(MySqlCrud sql)
 {
     FullPersonModel person = new FullPersonModel
     {
@@ -175,14 +177,13 @@ static void CreatePerson(SqliteCrud sql)
 
     sql.CreatePerson(person);
 }
-
-static void GetPerson(SqliteCrud sql, int id)
+static void GetPerson(MySqlCrud sql, int id)
 {
     var Person = sql.GetPersonById(id);
 
     Console.WriteLine($"{Person.Id}: {Person.FirstName}, {Person.LastName}");
 }
-static void GetAllPeople(SqliteCrud sql)
+static void GetAllPeople(MySqlCrud sql)
 {
     var rows = sql.GetAllPeople();
     foreach (var row in rows)
