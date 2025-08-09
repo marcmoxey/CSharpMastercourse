@@ -14,7 +14,7 @@ SqliteCrud sql = new SqliteCrud(GetConnectionString());
 //UpdateContact(sql);
 //ReadAllContacts(sql);
 
-RemovePhoneNumberFromContact(sql,2, 1);
+//RemovePhoneNumberFromContact(sql,2, 1);
 
 Console.WriteLine("Done! Sqlite");
 
