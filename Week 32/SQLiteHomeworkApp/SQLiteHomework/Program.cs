@@ -8,9 +8,9 @@ SqliteCrud sql = new SqliteCrud(GetConnectionString());
 
 //GetAllPeople(sql);
 //GetPerson(sql, 1);
-CreatePerson(sql);
+//CreatePerson(sql);
 //UpdatePerson(sql);
-//DeletePerson(sql, 1002);
+//DeletePerson(sql, 6);
 
 //GetAllAddresses(sql);
 //GetAddress(sql, 1); 
@@ -139,7 +139,7 @@ static void UpdatePerson(SqliteCrud sql)
 {
     PersonModel person = new PersonModel
     {
-        Id = 1002,
+        Id = 6,
         FirstName = "Marc-Anthony",
         LastName = "Moxey"
     };
