@@ -6,7 +6,7 @@ using Microsoft.Extensions.Configuration.Json;
 SqliteCrud sql = new SqliteCrud(GetConnectionString());
 
 
-//GetAllPeople(sql);
+GetAllPeople(sql);
 //GetPerson(sql, 1);
 //CreatePerson(sql);
 //UpdatePerson(sql);
@@ -158,23 +158,24 @@ static void CreatePerson(SqliteCrud sql)
 
     person.Addresses.Add(new AddressModel
     {
-        StreetAddress = "",
-        City = "",
-        State = "",
-        ZipCode = ""
+        StreetAddress = "200-12 Linden Blvd",
+        City = "Saint Albans",
+        State = "NY",
+        ZipCode = "11412"
     });
 
 
     person.Addresses.Add(new AddressModel
     {
-        StreetAddress = "",
-        City = "",
-        State = "",
-        ZipCode = ""
+        StreetAddress = "200-08 Linden Blvd",
+        City = "Saint Albans",
+        State = "NY",
+        ZipCode = "11412"
     });
 
     sql.CreatePerson(person);
 }
+
 static void GetPerson(SqliteCrud sql, int id)
 {
     var Person = sql.GetPersonById(id);
