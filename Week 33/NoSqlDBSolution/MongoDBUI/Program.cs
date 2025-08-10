@@ -32,8 +32,15 @@ namespace MongoDBUI
 
             //RemovePhoneNumberFromUser("555-1212", "ba0e9dd1-2c40-4775-ad15-eaaf7aded960");
 
+            //RemoveUser("ba0e9dd1-2c40-4775-ad15-eaaf7aded960");
+
             Console.WriteLine("Done!");
             Console.ReadLine();
+        }
+        public static void RemoveUser(string id)
+        {
+            Guid guid = new Guid(id);
+            db.DeleteRecord<ContactModel>(tableName, guid);
         }
         public static void RemovePhoneNumberFromUser(string phoneNumber, string id)
         {
