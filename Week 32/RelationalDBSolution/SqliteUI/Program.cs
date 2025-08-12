@@ -3,11 +3,11 @@ using DataAccessLibrary.Models;
 using Microsoft.Extensions.Configuration;
 
 
-MySqlCrud sql = new MySqlCrud(GetConnectionString());
+SqliteCrud sql = new SqliteCrud(GetConnectionString());
 
 //ReadAllContacts(sql);
 
-//ReadContact(sql, 2);
+//ReadContact(sql, 3);
 
 //CreateNewContact(sql);
 
@@ -16,17 +16,17 @@ MySqlCrud sql = new MySqlCrud(GetConnectionString());
 
 //RemovePhoneNumberFromContact(sql,2, 1);
 
-Console.WriteLine("Done! MySQL");
+Console.WriteLine("Done! Sqlite");
 
 Console.ReadLine();
 
 
-static void RemovePhoneNumberFromContact(MySqlCrud sql, int contactId, int phoneNumberId)
+static void RemovePhoneNumberFromContact(SqliteCrud sql, int contactId, int phoneNumberId)
 {
     sql.RemovePhoneNumberFromContact(contactId, phoneNumberId);
 }
 
-static void UpdateContact(MySqlCrud sql)
+static void UpdateContact(SqliteCrud sql)
 {
     BasicContactModel contact = new BasicContactModel
     {
@@ -37,7 +37,7 @@ static void UpdateContact(MySqlCrud sql)
     sql.UpdateContactName(contact);
 }
 
-static void CreateNewContact(MySqlCrud sql)
+static void CreateNewContact(SqliteCrud sql)
 {
     FullContactModel user = new FullContactModel
     {
@@ -56,7 +56,7 @@ static void CreateNewContact(MySqlCrud sql)
     sql.CreateContact(user);
 }
 
-static void ReadAllContacts(MySqlCrud sql)
+static void ReadAllContacts(SqliteCrud sql)
 {
     var rows = sql.GetAllContacts();
     foreach (var row in rows)
@@ -65,7 +65,7 @@ static void ReadAllContacts(MySqlCrud sql)
     }
 }
 
-static void ReadContact(MySqlCrud sql, int ContactId)
+static void ReadContact(SqliteCrud sql, int ContactId)
 {
     var contact = sql.GetFullContactById(ContactId);
 

@@ -1,14 +1,16 @@
 ﻿using DataAccessLibrary;
 using DataAccessLibrary.Models;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Configuration.Json;
 
-SqlCrud sql = new SqlCrud(GetConnectionString());
+SqliteCrud sql = new SqliteCrud(GetConnectionString());
+
 
 //GetAllPeople(sql);
 //GetPerson(sql, 1);
 //CreatePerson(sql);
 //UpdatePerson(sql);
-//DeletePerson(sql, 1002);
+//DeletePerson(sql, 6);
 
 //GetAllAddresses(sql);
 //GetAddress(sql, 1); 
@@ -22,15 +24,17 @@ SqlCrud sql = new SqlCrud(GetConnectionString());
 //UpdateEmployer(sql);
 //RemoveEmployer(sql, 6);
 
-
 Console.WriteLine("Done!");
 Console.ReadLine();
 
-static void RemoveEmployer(SqlCrud sql, int id)
+
+
+
+static void RemoveEmployer(SqliteCrud sql, int id)
 {
     sql.DeleteEmployer(id);
 }
-static void UpdateEmployer(SqlCrud sql)
+static void UpdateEmployer(SqliteCrud sql)
 {
     EmployerModel employer = new EmployerModel
     {
@@ -40,7 +44,7 @@ static void UpdateEmployer(SqlCrud sql)
 
     sql.UpdateEmployer(employer);
 }
-static void CreateEmployer(SqlCrud sql)
+static void CreateEmployer(SqliteCrud sql)
 {
     FullEmployerModel employer = new FullEmployerModel
     {
@@ -54,7 +58,7 @@ static void CreateEmployer(SqlCrud sql)
     {
         StreetAddress = "1340 Airport Commerce Drive",
         City = "Austin",
-        State  = "TX",
+        State = "TX",
         ZipCode = "78741"
     });
 
@@ -68,26 +72,26 @@ static void CreateEmployer(SqlCrud sql)
 
     sql.CreateEmployer(employer);
 }
-static void GetEmployer(SqlCrud sql, int id)
+static void GetEmployer(SqliteCrud sql, int id)
 {
     var employer = sql.GetEmployerById(id);
     Console.WriteLine($"{employer.Id}: {employer.Employer}");
 }
-static void GetAllEmployers(SqlCrud sql)
+static void GetAllEmployers(SqliteCrud sql)
 {
     var rows = sql.GetAllEmployers();
-    foreach(var row in rows)
+    foreach (var row in rows)
     {
         Console.WriteLine($"{row.Id}: {row.Employer}");
     }
 }
 
 
-static void RemoveAddress(SqlCrud sql, int id)
+static void RemoveAddress(SqliteCrud sql, int id)
 {
     sql.DeleteAddress(id);
 }
-static void UpdateAddress(SqlCrud sql)
+static void UpdateAddress(SqliteCrud sql)
 {
     AddressModel address = new AddressModel
     {
@@ -99,7 +103,7 @@ static void UpdateAddress(SqlCrud sql)
     };
     sql.UpdateAddress(address);
 }
-static void CreateAddress(SqlCrud sql)
+static void CreateAddress(SqliteCrud sql)
 {
     AddressModel address = new AddressModel
     {
@@ -111,15 +115,15 @@ static void CreateAddress(SqlCrud sql)
 
     sql.CreateAddress(address);
 }
-static void GetAllAddresses(SqlCrud sql)
+static void GetAllAddresses(SqliteCrud sql)
 {
-    var rows = sql.GetAllAddresses(); 
-    foreach(var row in rows)
+    var rows = sql.GetAllAddresses();
+    foreach (var row in rows)
     {
         Console.WriteLine($"{row.StreetAddress} {row.City}, {row.State} {row.ZipCode}");
     }
 }
-static void GetAddress(SqlCrud sql, int id)
+static void GetAddress(SqliteCrud sql, int id)
 {
     var Address = sql.GetAnAddressById(id);
 
@@ -127,44 +131,66 @@ static void GetAddress(SqlCrud sql, int id)
 }
 
 
-static void DeletePerson(SqlCrud sql, int personId)
+static void DeletePerson(SqliteCrud sql, int personId)
 {
     sql.DeletePerson(personId);
 }
-static void UpdatePerson(SqlCrud sql)
-{ 
+static void UpdatePerson(SqliteCrud sql)
+{
     PersonModel person = new PersonModel
     {
-        Id = 1002,
+        Id = 6,
         FirstName = "Marc-Anthony",
         LastName = "Moxey"
     };
     sql.UpdatePerson(person);
 }
-static void CreatePerson(SqlCrud sql)
+static void CreatePerson(SqliteCrud sql)
 {
-    PersonModel person = new PersonModel
+    FullPersonModel person = new FullPersonModel
     {
-        FirstName = "Marc",
-        LastName = "Moxey"
+        BasicInfo = new PersonModel
+        {
+            FirstName = "Marc",
+            LastName = "Moxey"
+        }
     };
+
+    person.Addresses.Add(new AddressModel
+    {
+        StreetAddress = "200-12 Linden Blvd",
+        City = "Saint Albans",
+        State = "NY",
+        ZipCode = "11412"
+    });
+
+
+    person.Addresses.Add(new AddressModel
+    {
+        StreetAddress = "200-08 Linden Blvd",
+        City = "Saint Albans",
+        State = "NY",
+        ZipCode = "11412"
+    });
 
     sql.CreatePerson(person);
 }
-static void GetPerson(SqlCrud sql, int id)
+
+static void GetPerson(SqliteCrud sql, int id)
 {
     var Person = sql.GetPersonById(id);
 
     Console.WriteLine($"{Person.Id}: {Person.FirstName}, {Person.LastName}");
 }
-static void GetAllPeople(SqlCrud sql)
+static void GetAllPeople(SqliteCrud sql)
 {
     var rows = sql.GetAllPeople();
-    foreach(var row in rows)
+    foreach (var row in rows)
     {
         Console.WriteLine($"{row.Id}.{row.FirstName}, {row.LastName}");
     }
 }
+
 
 
 static string GetConnectionString(string connectionStringName = "Default")
