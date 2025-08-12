@@ -9,6 +9,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "PeopleDB", "PeopleDB\People
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCUI", "MVCUI\MVCUI.csproj", "{72EEE1A7-D759-4FAE-97F4-5DFB44407112}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIUI", "WebAPIUI\WebAPIUI.csproj", "{FBB624B7-E41D-4B02-AA06-4FD369B2A6DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{72EEE1A7-D759-4FAE-97F4-5DFB44407112}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72EEE1A7-D759-4FAE-97F4-5DFB44407112}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72EEE1A7-D759-4FAE-97F4-5DFB44407112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB624B7-E41D-4B02-AA06-4FD369B2A6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB624B7-E41D-4B02-AA06-4FD369B2A6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB624B7-E41D-4B02-AA06-4FD369B2A6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB624B7-E41D-4B02-AA06-4FD369B2A6DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

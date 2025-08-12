@@ -7,7 +7,7 @@ namespace MVCUI.Controllers
 {
     public class PeopleController : Controller
     {
-        SqlCrud sql = new SqlCrud(GetConnectionString());
+        SqlCrud sql = new SqlCrud(Tools.GetConnectionString());
 
         private static string GetConnectionString(string connectionStringName = "Default")
         {
@@ -82,7 +82,7 @@ namespace MVCUI.Controllers
         }
 
         // gets id
-        // GET: People/Edit/5
+        // GET: People/Delete/5
         [HttpGet]
         public IActionResult Delete(int id)
         {
