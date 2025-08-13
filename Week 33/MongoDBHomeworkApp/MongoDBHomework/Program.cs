@@ -52,7 +52,7 @@ namespace MongoDBHomework
             // GetContactById("62008caf-2cff-4336-95de-5f8be1d9fe7c");
             //UpdatePersonFirstName("Marc-Anthony", "62008caf-2cff-4336-95de-5f8be1d9fe7c");
             //RemoveEmployerFromPerson("Intel", "62008caf-2cff-4336-95de-5f8be1d9fe7c");
-            RemovePerson("62008caf-2cff-4336-95de-5f8be1d9fe7c");
+            //RemovePerson("62008caf-2cff-4336-95de-5f8be1d9fe7c");
 
             Console.WriteLine("Done!");
             Console.ReadLine();
