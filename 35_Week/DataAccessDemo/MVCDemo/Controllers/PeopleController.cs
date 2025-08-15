@@ -14,9 +14,9 @@ namespace MVCDemo.Controllers
         }
 
         // GET: PeopleController
-        public ActionResult Index()
+        public async Task<ActionResult> Index()
         {
-          List<PersonModel> people = _sql.LoadPeople();
+          List<PersonModel> people =  await _sql.LoadPeople();
             return View(people);
         }
 

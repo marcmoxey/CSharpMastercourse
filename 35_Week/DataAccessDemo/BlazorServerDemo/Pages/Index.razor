@@ -23,9 +23,9 @@ Welcome to your new app.
 @code {
     List<PersonModel>? people;
     
-    protected override void OnInitialized()
+    protected async override Task OnInitializedAsync()
     {
-        people = sql.LoadPeople();
+        people = await sql.LoadPeople();
     }
 
     

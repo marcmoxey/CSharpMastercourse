@@ -19,15 +19,15 @@ public  class SqlDataAccess
         _config = config;
     }
 
-    public List<PersonModel> LoadPeople()
+    public async Task<List<PersonModel>> LoadPeople()
     {
         string connectionString = _config.GetConnectionString("Default");
         string sql = "select * from dbo.People";
 
         using IDbConnection connection = new SqlConnection(connectionString);
-        List<PersonModel> output = connection.Query<PersonModel>(sql, commandType: CommandType.Text).ToList();
+        IEnumerable<PersonModel> output = await connection.QueryAsync<PersonModel>(sql, commandType: CommandType.Text);
 
-        return output;
+        return output.ToList();
     }
 
 

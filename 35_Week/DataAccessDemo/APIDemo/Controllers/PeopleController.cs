@@ -18,12 +18,14 @@ namespace APIDemo.Controllers
         }
         // GET: api/<PeopleController>
         [HttpGet]
-        public List<PersonModel> Get()
+        public async Task<List<PersonModel>> Index()
         {
-            return _sql.LoadPeople();
+            return await _sql.LoadPeople();
+           
         }
 
-        
-        
+
+
+
     }
 }
