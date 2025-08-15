@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLibrary", "DataAccessLibrary\DataAccessLibrary.csproj", "{A746D024-C6D5-4B32-835F-712BADD21DE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLibrary", "DataAccessLibrary\DataAccessLibrary.csproj", "{A746D024-C6D5-4B32-835F-712BADD21DE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCDemo", "MVCDemo\MVCDemo.csproj", "{F86B245E-A958-4925-A9E8-EB9D793A1A00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCDemo", "MVCDemo\MVCDemo.csproj", "{F86B245E-A958-4925-A9E8-EB9D793A1A00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDemo", "APIDemo\APIDemo.csproj", "{C51018F0-723F-45D0-B31C-7A558DEB4A80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIDemo", "APIDemo\APIDemo.csproj", "{C51018F0-723F-45D0-B31C-7A558DEB4A80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServerDemo", "BlazorServerDemo\BlazorServerDemo.csproj", "{28694D1F-E4D4-48AC-8839-E0228BE4C184}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{C51018F0-723F-45D0-B31C-7A558DEB4A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C51018F0-723F-45D0-B31C-7A558DEB4A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C51018F0-723F-45D0-B31C-7A558DEB4A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28694D1F-E4D4-48AC-8839-E0228BE4C184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28694D1F-E4D4-48AC-8839-E0228BE4C184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28694D1F-E4D4-48AC-8839-E0228BE4C184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28694D1F-E4D4-48AC-8839-E0228BE4C184}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

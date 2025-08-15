@@ -1,14 +1,37 @@
 ﻿@page "/People"
-
+@inject SqlCrud sql
 
 <h3>View People</h3>
 
 
+@if(people is not null)
+{
 
+    foreach(var person in people)
+    {
+       
+           <ul>
+               <li>@person.Id: @person.FirstName @person.LastName</li>
+            </ul>
+          
+         
+         
+    }
+} 
+else
+{
+    <h2>Loading...</h2>
+}
+}
 
 @code {
+    List<PersonModel>? people;
 
-  
-    
+    protected override void OnInitialized()
+    {
+        people = sql.GetAllPeople();
+    }
+
+
 
 }
