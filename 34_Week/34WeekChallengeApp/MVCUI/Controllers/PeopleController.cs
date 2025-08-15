@@ -7,27 +7,16 @@ namespace MVCUI.Controllers
 {
     public class PeopleController : Controller
     {
-        SqlCrud sql = new SqlCrud(Tools.GetConnectionString());
+        private readonly SqlCrud _sql;
 
-        private static string GetConnectionString(string connectionStringName = "Default")
+        public PeopleController(SqlCrud sql)
         {
-            string output = "";
-
-            var builder = new ConfigurationBuilder()
-                .SetBasePath(Directory.GetCurrentDirectory())
-                .AddJsonFile("appsettings.json");
-
-            var config = builder.Build();
-
-            output = config.GetConnectionString(connectionStringName);
-
-            return output;
+            _sql = sql;
         }
-
         // GET: PeopleController
         public ActionResult Index()
         {
-            var people = sql.GetAllPeople();
+            var people = _sql.GetAllPeople();
             return View(people);
         }
 
@@ -45,7 +34,7 @@ namespace MVCUI.Controllers
         {
             if(ModelState.IsValid)
             {
-              sql.CreatePerson(person);
+              _sql.CreatePerson(person);
               TempData["SuccessMessage"] = $"Person {person.FirstName} {person.LastName} created successfully!";
 
             }
@@ -58,7 +47,7 @@ namespace MVCUI.Controllers
         [HttpGet]
         public IActionResult Edit(int id)
         {
-            var person = sql.GetPersonById(id);
+            var person = _sql.GetPersonById(id);
             if (person == null)
                 return NotFound();
 
@@ -72,7 +61,7 @@ namespace MVCUI.Controllers
         {
             if (ModelState.IsValid)
             {
-                sql.UpdatePerson(person);
+                _sql.UpdatePerson(person);
                 TempData["SuccessMessage"] = $"Person {person.FirstName} {person.LastName} updated successfully!";
                 return RedirectToAction("Index");  // Redirect after successful POST (PRG pattern)
             }
@@ -86,7 +75,7 @@ namespace MVCUI.Controllers
         [HttpGet]
         public IActionResult Delete(int id)
         {
-            var person = sql.GetPersonById(id);
+            var person = _sql.GetPersonById(id);
             if (person == null)
                 return NotFound();
 
@@ -99,7 +88,7 @@ namespace MVCUI.Controllers
         public ActionResult Delete(PersonModel person)
         {
           
-                sql.DeletePerson(person.Id);
+                _sql.DeletePerson(person.Id);
                 TempData["SuccessMessage"] = $"Person {person.FirstName} {person.LastName} deleted successfully!";
                 return RedirectToAction("Index");
             

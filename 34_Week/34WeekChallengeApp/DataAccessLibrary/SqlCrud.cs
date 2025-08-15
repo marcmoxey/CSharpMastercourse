@@ -1,4 +1,5 @@
 ﻿using DataAccessLibrary.Models;
+using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
@@ -12,11 +13,11 @@ namespace DataAccessLibrary
 {
     public class SqlCrud
     {
-        private readonly string _connectionString;
+        private readonly IConfiguration _config;
 
-        public SqlCrud(string connectionString)
+        public SqlCrud(IConfiguration config)
         {
-            _connectionString = connectionString;
+            _config = config;
         }
 
 
@@ -24,9 +25,10 @@ namespace DataAccessLibrary
         //Create 
         public void CreatePerson(PersonModel person)
         {
+            string connectionString = _config.GetConnectionString("Default");
             string sql = "spData_CreatePerson";
 
-            using (SqlConnection conn = new(_connectionString))
+            using (SqlConnection conn = new(connectionString))
             {
                 SqlCommand cmd = new(sql, conn);
                 cmd.CommandType = CommandType.StoredProcedure;
@@ -56,9 +58,10 @@ namespace DataAccessLibrary
         // Read
         public List<PersonModel> GetAllPeople()
         {
+            string connectionString = _config.GetConnectionString("Default");
             string sql = "spData_GetAllPeople";
             List<PersonModel> people = new List<PersonModel>();
-            using (SqlConnection conn = new(_connectionString))
+            using (SqlConnection conn = new(connectionString))
             {
                 SqlCommand cmd = new(sql, conn);
                 cmd.CommandType = CommandType.StoredProcedure;
@@ -91,8 +94,9 @@ namespace DataAccessLibrary
         public PersonModel GetPersonById(int id)
         {
             PersonModel person = new PersonModel();
+            string connectionString = _config.GetConnectionString("Default");
             string sql = "spData_GetPersonById"; 
-            using(SqlConnection conn = new(_connectionString))
+            using(SqlConnection conn = new(connectionString))
             {
                 SqlCommand cmd = new(sql,conn);
                 cmd.CommandType = CommandType.StoredProcedure;
@@ -128,10 +132,10 @@ namespace DataAccessLibrary
         // Update
         public void UpdatePerson(PersonModel person)
         {
-         
+            string connectionString = _config.GetConnectionString("Default");
             string sql = "spData_UpdatePerson";
 
-            using(SqlConnection conn = new(_connectionString))
+            using(SqlConnection conn = new(connectionString))
             {
                 SqlCommand cmd = new(sql, conn);
                 cmd.CommandType = CommandType.StoredProcedure;
@@ -162,10 +166,10 @@ namespace DataAccessLibrary
         // Delete
         public void DeletePerson(int Id)
         {
-
+            string connectionString = _config.GetConnectionString("Default");
             string sql = "spData_RemovePerson";
 
-            using (SqlConnection conn = new(_connectionString))
+            using (SqlConnection conn = new(connectionString))
             {
                 SqlCommand cmd = new(sql, conn);
                 cmd.CommandType = CommandType.StoredProcedure;

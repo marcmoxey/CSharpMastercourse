@@ -10,12 +10,16 @@ namespace WebAPIUI.Controllers
     [ApiController]
     public class PeopleController : ControllerBase
     {
-        SqlCrud sql = new SqlCrud(Tools.GetConnectionString());
+        private readonly SqlCrud _sql;
+        public PeopleController(SqlCrud sql)
+        {
+            _sql = sql;
+        }
         // GET: api/<PeopleController>
         [HttpGet]
         public IEnumerable<PersonModel> Get()
         {
-            var person = sql.GetAllPeople();
+            var person = _sql.GetAllPeople();
             return person;
         }
 
@@ -23,7 +27,7 @@ namespace WebAPIUI.Controllers
         [HttpGet("{id}")]
         public PersonModel Get(int id)
         {
-          var person = sql.GetPersonById(id);
+          var person = _sql.GetPersonById(id);
             return person;
         }
 
@@ -31,21 +35,21 @@ namespace WebAPIUI.Controllers
         [HttpPost]
         public void Post([FromBody] PersonModel person)
         {
-            sql.CreatePerson(person);
+            _sql.CreatePerson(person);
         }
 
         // PUT api/<PeopleController>/5
         [HttpPut("{id}")]
         public void Put([FromBody] PersonModel person)
         {
-            sql.UpdatePerson(person);
+            _sql.UpdatePerson(person);
         }
 
         // DELETE api/<PeopleController>/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
-            sql.DeletePerson(id);
+            _sql.DeletePerson(id);
         }
     }
 }
