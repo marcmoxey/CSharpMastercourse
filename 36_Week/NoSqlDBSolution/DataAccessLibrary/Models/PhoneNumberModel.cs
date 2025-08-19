@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace DataAccessLibrary.Models
 {
-    public class PersonModel
+    public class PhoneNumberModel
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-       
-
+        public string PhoneNumber { get; set; }
     }
 }

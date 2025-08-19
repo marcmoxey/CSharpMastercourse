@@ -23,6 +23,7 @@ namespace TextFileHomework
                 FirstName = "Marc",
                 LastName = "Moxey",
                
+               
              };
 
             PersonModel person2 = new PersonModel
@@ -30,10 +31,21 @@ namespace TextFileHomework
                 FirstName = "Sue",
                 LastName = "Storm",
               
+              
+            };
+
+
+            PersonModel person3 = new PersonModel
+            {
+                FirstName = "John",
+                LastName = "Doe",
+             
+
             };
 
             CreatePerson(person1);
             CreatePerson(person2);
+            CreatePerson(person3);
             GetAllPeople();
 
 
