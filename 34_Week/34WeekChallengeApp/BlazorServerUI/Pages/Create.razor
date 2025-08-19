@@ -1,0 +1,30 @@
+﻿@page "/Create"
+@inject SqlCrud sql
+
+<h3>Create Person</h3>
+
+
+<EditForm Model="model" OnValidSubmit="ValidSubmission">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <label for="firstName" class="form-label">@nameof(model.FirstName)</label>
+   <InputText id="firstName" @bind-Value="model.FirstName" class="form-control"/>
+
+       <label for="lastName" class="form-label">@nameof(model.LastName)</label>
+   <InputText id="lastName" @bind-Value="model.LastName" class="form-control"/>
+
+   <button class="btn btn-primary" type="submit">Submit</button>
+</EditForm>
+
+@code {
+    PersonModel model = new();
+
+
+    private async Task ValidSubmission()
+    {
+
+        await Task.Run(() => sql.CreatePerson(model));
+        model = new();
+    }
+}
