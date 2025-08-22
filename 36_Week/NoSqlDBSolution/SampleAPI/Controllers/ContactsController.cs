@@ -25,5 +25,11 @@ namespace SampleAPI.Controllers
         {
             return db.LoadRecords<ContactModel>(tableName);
         }
+
+        [HttpPost]
+        public void InsertRecord(ContactModel contact)
+        {
+            db.UpsertRecord(tableName, contact.Id, contact);
+        }
     }
 }

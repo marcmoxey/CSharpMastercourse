@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLibrary", "DataAc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDBUI", "ComosDBUI\CosmosDBUI.csproj", "{7A3F89F7-AAE6-477E-90C4-9C92EA7734E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAPI", "SampleAPI\SampleAPI.csproj", "{1C39E2CD-3C91-41D0-8B03-0ED81C605FFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleAPI", "SampleAPI\SampleAPI.csproj", "{1C39E2CD-3C91-41D0-8B03-0ED81C605FFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDBUI", "ApiDBUI\ApiDBUI.csproj", "{5C06968B-0D35-4FDA-AD32-888980A40D24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{1C39E2CD-3C91-41D0-8B03-0ED81C605FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C39E2CD-3C91-41D0-8B03-0ED81C605FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C39E2CD-3C91-41D0-8B03-0ED81C605FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C06968B-0D35-4FDA-AD32-888980A40D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C06968B-0D35-4FDA-AD32-888980A40D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C06968B-0D35-4FDA-AD32-888980A40D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C06968B-0D35-4FDA-AD32-888980A40D24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
