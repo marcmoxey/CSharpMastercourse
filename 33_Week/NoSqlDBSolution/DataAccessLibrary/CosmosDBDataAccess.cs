@@ -1,4 +1,5 @@
 ﻿using Microsoft.Azure.Cosmos;
+using MongoDB.Driver;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -81,5 +82,9 @@ namespace DataAccessLibrary
             
         }
 
+        public async Task DeleteRecordAsync<T>(string id, string partitionKey)
+        {
+            await _container.DeleteItemAsync<T>(id, new PartitionKey(partitionKey)); // assume partitionKey string
+        }
     }
 }
