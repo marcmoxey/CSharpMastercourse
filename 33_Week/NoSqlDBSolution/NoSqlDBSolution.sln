@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDBUI", "MongoDBUI\Mong
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLibrary", "DataAccessLibrary\DataAccessLibrary.csproj", "{C248E68D-805A-415A-8F5C-1BEC6D7405BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDBUI", "CosmosDBUI\CosmosDBUI.csproj", "{12D81789-BF54-4320-8113-DE1CCB175FE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C248E68D-805A-415A-8F5C-1BEC6D7405BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C248E68D-805A-415A-8F5C-1BEC6D7405BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C248E68D-805A-415A-8F5C-1BEC6D7405BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D81789-BF54-4320-8113-DE1CCB175FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D81789-BF54-4320-8113-DE1CCB175FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D81789-BF54-4320-8113-DE1CCB175FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D81789-BF54-4320-8113-DE1CCB175FE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
