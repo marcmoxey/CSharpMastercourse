@@ -70,7 +70,7 @@ namespace DataAccessLibrary
             throw new Exception("Item noy found");
         }
 
-        public async Task UpsertItemAsync<T>(T record)
+        public async Task UpsertRecordAsync<T>(T record)
         {
             await _container.UpsertItemAsync(record);
         }
