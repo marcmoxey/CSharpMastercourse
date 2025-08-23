@@ -78,17 +78,21 @@ namespace CosmosDBHomework
                 Employer = "Intel"
             });
 
-            await CreatePerson(person1);
-            await CreatePerson(person2);
+            //await CreatePerson(person1);
+            //await CreatePerson(person2);
+            //await GetAllPeople();
 
+            // 
+            //await GetPersonById("");
 
+            //await UpdatePersonFirstName("", "");
 
+            
 
 
             Console.WriteLine("Done!");
             Console.ReadLine();
         }
-
 
         private static async Task RemovePerson(string id)
         {
@@ -96,19 +100,30 @@ namespace CosmosDBHomework
         }
         private static async Task RemoveEmployerFromPerson(string employer, string id)
         {
-          
+
+            var person = await db.LoadRecordByIdAsync<PersonModel>(id);
+            person.Employers = person.Employers.Where(x => x.Employer != employer).ToList();
+            await db.UpsertRecordAsync<PersonModel>(person);
         }
         private static async Task UpdatePersonFirstName(string firstName, string id)
         {
-            
+            var person = await db.LoadRecordByIdAsync<PersonModel>(id);
+            person.FirstName = firstName;
+            await db.UpsertRecordAsync(person);
         }
-        private static async Task GetContactById(string id)
+        private static async Task GetPersonById(string id)
         {
-            
+            var person = await db.LoadRecordByIdAsync<PersonModel>(id);
+            Console.WriteLine($"{person.Id}: {person.FirstName}, {person.LastName}");
         }
         private static async Task GetAllPeople()
         {
-            
+            var people = await db.LoadRecordAsync<PersonModel>();
+
+            foreach(var person in people)
+            {
+                Console.WriteLine($"{person.Id}: {person.FirstName}, {person.LastName}");
+            }
         }
         private static async Task CreatePerson(PersonModel person)
         {
