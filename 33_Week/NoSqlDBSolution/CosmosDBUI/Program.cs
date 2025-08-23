@@ -1,11 +1,9 @@
 ﻿using DataAccessLibrary;
 using DataAccessLibrary.Models;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Configuration.Json;
 
 namespace CosmosDBUI
 {
-    class Program
+    internal class Program
     {
         private static CosmosDBDataAccess db;
         static void Main(string[] args)
@@ -16,32 +14,28 @@ namespace CosmosDBUI
 
         public static void RemoveUser(string id)
         {
-            
+         
         }
         public static void RemovePhoneNumberFromUser(string phoneNumber, string id)
         {
-          
+        
         }
         private static void UpdateContactFirstName(string firstName, string id)
         {
-           
          
 
         }
         private static void GetContactById(string id)
         {
-          
-
-            
+         
         }
         private static void GetAllContacts()
         {
-            
           
         }
         private static void CreateContact(ContactModel contact)
         {
-            
+        
         }
         private static string GetConnectionString(string connectionStringName = "Default")
         {
