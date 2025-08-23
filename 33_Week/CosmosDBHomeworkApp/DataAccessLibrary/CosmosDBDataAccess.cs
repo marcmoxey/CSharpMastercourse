@@ -1,4 +1,5 @@
 ﻿using Microsoft.Azure.Cosmos;
+using MongoDB.Driver;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -33,20 +34,20 @@ namespace DataAccessLibrary
 
         public async Task<List<T>> LoadRecordAsync<T>()
         {
-            string sql =  "select * from p;";
+            string sql = "Select * from p"; 
             QueryDefinition queryDefinition = new QueryDefinition(sql);
-            FeedIterator<T> feedIterator = _container.GetItemQueryIterator<T>(queryDefinition);
+            FeedIterator<T> feedIterator = _container.GetItemQueryIterator<T>(queryDefinition); // have records that match the query 
 
             List<T> output = new List<T>();
 
-            while (feedIterator.HasMoreResults)
+            while (feedIterator.HasMoreResults) // find more results that match 
             {
-                FeedResponse<T> currentResultSet = await feedIterator.ReadNextAsync();
+                FeedResponse<T> currentResultSet = await feedIterator.ReadNextAsync(); // grab result set
 
-                foreach(var item in currentResultSet)
+                foreach (var item in currentResultSet)
                 {
-                      output.Add(item); 
-                }  
+                    output.Add(item); // loop through result add to output
+                }
             }
 
             return output;
@@ -54,20 +55,23 @@ namespace DataAccessLibrary
 
         public async Task<T> LoadRecordByIdAsync<T>(string id)
         {
-            string sql = "select * from p where p.id = @Id;";
-            QueryDefinition queryDefinition = new QueryDefinition(sql).WithParameter("id", id);
-            FeedIterator<T> feedIterator = _container.GetItemQueryIterator<T>(queryDefinition);
+            string sql = "Select * from p where p.id = @Id ";
+            QueryDefinition queryDefinition = new QueryDefinition(sql).WithParameter("@Id", id);
+            FeedIterator<T> feedIterator = _container.GetItemQueryIterator<T>(queryDefinition); // have records that match the query 
 
-            while(feedIterator.HasMoreResults)
+
+
+            while (feedIterator.HasMoreResults) // find more results that match 
             {
-                FeedResponse<T> currentResultSet = await feedIterator.ReadNextAsync();
+                FeedResponse<T> currentResultSet = await feedIterator.ReadNextAsync(); // grab result set
 
-                foreach(var item in currentResultSet)
+                foreach (var item in currentResultSet)
                 {
-                    return item;
+                    return item; // return first value 
                 }
             }
-            throw new Exception("Item noy found");
+
+            throw new Exception("Item not found");
         }
 
         public async Task UpsertRecordAsync<T>(T record)
@@ -77,6 +81,7 @@ namespace DataAccessLibrary
 
         public async Task DeleteRecordAsync<T>(string id, string partitionKey)
         {
+        
             await _container.DeleteItemAsync<T>(id, new PartitionKey(partitionKey));
         }
     }

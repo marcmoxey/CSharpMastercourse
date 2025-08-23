@@ -82,21 +82,24 @@ namespace CosmosDBHomework
             //await CreatePerson(person2);
             //await GetAllPeople();
 
-            // 
-            //await GetPersonById("");
+            // "6bef6f3b-38bb-465b-b06d-acb7f7590922"
+            //await GetPersonById("6bef6f3b-38bb-465b-b06d-acb7f7590922");
 
-            //await UpdatePersonFirstName("", "");
+            //await UpdatePersonFirstName("Susan", "6bef6f3b-38bb-465b-b06d-acb7f7590922");
 
-            
+            //await RemoveEmployerFromPerson("AMD", "6bef6f3b-38bb-465b-b06d-acb7f7590922");
+
+            await RemovePerson("6bef6f3b-38bb-465b-b06d-acb7f7590922", "Storm");
+
 
 
             Console.WriteLine("Done!");
             Console.ReadLine();
         }
 
-        private static async Task RemovePerson(string id)
+        private static async Task RemovePerson(string id, string lastName)
         {
-         
+            await db.DeleteRecordAsync<PersonModel>(id, lastName);
         }
         private static async Task RemoveEmployerFromPerson(string employer, string id)
         {
@@ -129,21 +132,6 @@ namespace CosmosDBHomework
         {
             await db.UpsertRecordAsync(person);
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         private static (string endpointurl, string primarykey, string databasename, string containername) GetCosmosInfo()
         {
