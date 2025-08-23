@@ -1,6 +1,7 @@
 ﻿using DataAccessLibrary;
 using DataAccessLibrary.Models;
 using Microsoft.Extensions.Configuration;
+using System.Threading.Tasks;
 
 namespace CosmosDBUI
 {
@@ -34,36 +35,55 @@ namespace CosmosDBUI
             user2.PhoneNumbers.Add(new PhoneNumberModel { PhoneNumber = "555-9876" });
 
 
-            await CreateContact(user);
-            await CreateContact(user2);
-            await GetAllContacts();
+            //await CreateContact(user);
+            //await CreateContact(user2);
+            //await GetAllContacts();
 
+
+            // "2538a9f2-9dfc-4513-8d56-41b242194837"
+            //await GetContactById("2538a9f2-9dfc-4513-8d56-41b242194837");
+
+            //await UpdateContactFirstName("Marc-Anthony", "2538a9f2-9dfc-4513-8d56-41b242194837");
+            //await GetContactById("2538a9f2-9dfc-4513-8d56-41b242194837");
+
+            await RemovePhoneNumberFromUser("555-1212", "2538a9f2-9dfc-4513-8d56-41b242194837");
 
 
             Console.WriteLine("Done!");
             Console.ReadLine();
         }
 
-        public static void RemoveUser(string id)
+        public static async Task RemoveUser(string id)
         {
          
         }
-        public static void RemovePhoneNumberFromUser(string phoneNumber, string id)
+        public static async Task RemovePhoneNumberFromUser(string phoneNumber, string id)
         {
-        
-        }
-        private static void UpdateContactFirstName(string firstName, string id)
-        {
-         
+            var contact = await db.LoadRecordByIdAsync<ContactModel>(id);
+            contact.PhoneNumbers = contact.PhoneNumbers.Where(x => x.PhoneNumber != phoneNumber).ToList();
+            await db.UpsertRecordAsync(contact);
 
         }
-        private static void GetContactById(string id)
+
+
+        private static async Task UpdateContactFirstName(string firstName, string id)
         {
-         
+            var contact = await db.LoadRecordByIdAsync<ContactModel>(id);
+            contact.FirstName = firstName;
+            await db.UpsertRecordAsync(contact);
+
         }
+
+
+        private static async Task GetContactById(string id)
+        {
+            var contact = await db.LoadRecordByIdAsync<ContactModel>(id);
+            Console.WriteLine($"{contact.Id}: {contact.FirstName}, {contact.LastName}");
+        }
+
         private static async Task GetAllContacts()
         {
-            var contacts = await db.LoadRecordsASync<ContactModel>();
+            var contacts = await db.LoadRecordsAsync<ContactModel>();
             foreach (var contact in contacts)
             {
                 Console.WriteLine($"{contact.Id}: {contact.FirstName}, {contact.LastName}");

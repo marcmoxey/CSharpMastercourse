@@ -31,7 +31,7 @@ namespace DataAccessLibrary
         }
 
       
-        public async Task<List<T>> LoadRecordsASync<T>()
+        public async Task<List<T>> LoadRecordsAsync<T>()
         {
             string sql = "Select * from c"; // c - alias, already talking to container
             QueryDefinition queryDefinition = new QueryDefinition(sql); 
@@ -52,7 +52,7 @@ namespace DataAccessLibrary
             return output;
         }
 
-        public async Task<T> LoadRecordById<T>(string id)
+        public async Task<T> LoadRecordByIdAsync<T>(string id)
         {
             string sql = "Select * from c where c.id = @Id "; // c - alias, already talking to container
             QueryDefinition queryDefinition = new QueryDefinition(sql).WithParameter("@Id", id);
