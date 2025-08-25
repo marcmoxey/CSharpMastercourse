@@ -20,10 +20,18 @@ namespace SampleAPI.Controllers
             
         }
 
+        // /api/contact/
         [HttpGet]
         public List<ContactModel> GetAll()
         {
             return db.LoadRecords<ContactModel>(tableName);
+        }
+
+        // /api/contact/
+        [HttpPost]
+        public void InsertRecord(ContactModel contact)     
+        {
+            db.UpsertRecord(tableName, contact.Id, contact);
         }
     }
 }
