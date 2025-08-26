@@ -26,7 +26,7 @@ namespace ApiHomework.Pages
             var _client = _httpClientFactory.CreateClient(); // create the browser
             var response = await _client.GetAsync("https://www.swapi.tech/api/people/1");
 
-            List<PersonModel> people;
+            PersonModel people;
 
 
             if (response.IsSuccessStatusCode)
@@ -37,7 +37,7 @@ namespace ApiHomework.Pages
                 };
 
                 string responseText = await response.Content.ReadAsStringAsync(); // json 
-                people = JsonSerializer.Deserialize<List<PersonModel>>(responseText, options);
+                people = JsonSerializer.Deserialize<PersonModel>(responseText, options);
             }
             else
             {
