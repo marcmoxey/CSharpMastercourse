@@ -18,7 +18,8 @@ namespace ApiHomework.Pages
 
         public async Task OnGet()
         {
-            await GetPerson();
+            //await GetPerson();
+            await GetFilms();
         }
 
         private async Task GetPerson()
@@ -38,6 +39,30 @@ namespace ApiHomework.Pages
 
                 string responseText = await response.Content.ReadAsStringAsync(); // json 
                 people = JsonSerializer.Deserialize<PersonModel>(responseText, options);
+            }
+            else
+            {
+                throw new Exception(response.ReasonPhrase);
+            }
+        }
+
+        private async Task GetFilms()
+        {
+            var _client = _httpClientFactory.CreateClient(); // create the browser
+            var response = await _client.GetAsync("https://www.swapi.tech/api/films/1");
+
+            PersonModel films;
+
+
+            if (response.IsSuccessStatusCode)
+            {
+                var options = new JsonSerializerOptions
+                {
+                    PropertyNameCaseInsensitive = true, // ignore the case
+                };
+
+                string responseText = await response.Content.ReadAsStringAsync(); // json 
+                films = JsonSerializer.Deserialize<PersonModel>(responseText, options);
             }
             else
             {
