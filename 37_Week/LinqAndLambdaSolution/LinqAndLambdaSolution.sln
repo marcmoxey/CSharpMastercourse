@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqUI", "LinqUI\LinqUI.csproj", "{576201C7-1979-4B64-B206-336C000D22FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{576201C7-1979-4B64-B206-336C000D22FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576201C7-1979-4B64-B206-336C000D22FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576201C7-1979-4B64-B206-336C000D22FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576201C7-1979-4B64-B206-336C000D22FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63076286-EEF3-4B54-B1D1-488615E0697F}
+	EndGlobalSection
+EndGlobal
