@@ -128,3 +128,5 @@ namespace EFConsoleUI
 
 // PM - Add-Migration CreateDatabase
 // PM - Update-Database
+// PM - Add-Migration ImprovedColumns
+// PM - Update-Database
