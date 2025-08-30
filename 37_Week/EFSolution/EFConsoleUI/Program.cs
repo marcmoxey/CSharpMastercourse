@@ -10,12 +10,31 @@ namespace EFConsoleUI
         {
             // CreateTim();
             // ReadAll();
-            ReadById(1);
+            //ReadById(1);
+            //CreateCharity();
+            //UpdateFirstName(1, "Timothy");
+            //ReadAll();
+            //RemovePhoneNumber(1, "555-1212");
+            RemoveUser(1);
+            ReadAll();
+           
             Console.WriteLine("Done!");
             Console.ReadLine();
 
         }
 
+        private static void RemoveUser(int id)
+        {
+            using(var db = new ContactContext())
+            {
+                var users = db.Contacts
+                    .Include(e => e.EmailAddreses)
+                    .Include(p => p.PhoneNumbers)
+                    .Where(c => c.Id == id).First(); 
+                db.Contacts.Remove(users);
+                db.SaveChanges();
+            }
+        }
         private static void CreateTim()
         {
             var c = new Contact
@@ -28,6 +47,48 @@ namespace EFConsoleUI
 
             c.PhoneNumbers.Add(new Phone { PhoneNumber = "555-1212" });
             c.PhoneNumbers.Add(new Phone { PhoneNumber = "555-1234" });
+
+            using (var db = new ContactContext()) // connection to Db
+            {
+                db.Contacts.Add(c); // Add to tables
+                db.SaveChanges(); // Save changes write to sql
+            }
+        }
+
+        private static void RemovePhoneNumber(int id, string phoneNumber)
+        {
+            using(var db = new ContactContext())
+            {
+                var user = db.Contacts
+                            .Include(p => p.PhoneNumbers)
+                            .Where(c => c.Id == id).First();
+
+                user.PhoneNumbers.RemoveAll(p => p.PhoneNumber == phoneNumber);
+                db.SaveChanges();
+            }
+        }
+        private static void UpdateFirstName(int id, string firstName)
+        {
+            using(var db = new ContactContext())
+            {
+                var user = db.Contacts.Where(c => c.Id == id).First();
+
+                user.FirstName = firstName;
+                db.SaveChanges();
+            }
+        }
+        private static void CreateCharity()
+        {
+            var c = new Contact
+            {
+                FirstName = "Charity",
+                LastName = "Corey"
+            };
+            c.EmailAddreses.Add(new Email { EmailAddress = "nope@aol.com" });
+            c.EmailAddreses.Add(new Email { EmailAddress = "me@timothycorey.com" });
+
+            c.PhoneNumbers.Add(new Phone { PhoneNumber = "555-1212" });
+            c.PhoneNumbers.Add(new Phone { PhoneNumber = "555-9876" });
 
             using (var db = new ContactContext()) // connection to Db
             {
