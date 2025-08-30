@@ -8,8 +8,9 @@ namespace EFConsoleUI
     {
         static void Main(string[] args)
         {
-           // CreateTim();
-            ReadAll();
+            // CreateTim();
+            // ReadAll();
+            ReadById(1);
             Console.WriteLine("Done!");
             Console.ReadLine();
 
@@ -37,18 +38,28 @@ namespace EFConsoleUI
 
         private static void ReadAll()
         {
-            using(var db = new ContactContext())
+            using (var db = new ContactContext())
             {
                 var records = db.Contacts
-                    .Include(e => e.EmailAddreses)
-                     .Include(p => p.PhoneNumbers)
+                    //.Include(e => e.EmailAddreses)
+                    // .Include(p => p.PhoneNumbers)
                     .ToList(); /// read all the records 
 
-                foreach (var c in records) 
+                foreach (var c in records)
                 {
                     Console.WriteLine($"{c.FirstName}, {c.LastName}");
                 }
 
+            }
+        }
+
+        private static void ReadById(int id)
+        {
+            using (var db = new ContactContext())
+            {
+                var user = db.Contacts.Where(c => c.Id == id).First();
+
+                Console.WriteLine($"{user.FirstName}, {user.LastName}");
             }
         }
     }
