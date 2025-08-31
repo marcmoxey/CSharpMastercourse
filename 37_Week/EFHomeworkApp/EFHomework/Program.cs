@@ -16,8 +16,8 @@ namespace EFHomework
             //UpdateFirstName(3, "Marc-Anthony");
             //ReadById(3);
             //RemoveEmployer(3, "Apple");
-            RemovePerson(3);
-            ReadAll();
+            //RemovePerson(3);
+           // ReadAll();
 
             Console.WriteLine("Done!");
             Console.ReadLine();
