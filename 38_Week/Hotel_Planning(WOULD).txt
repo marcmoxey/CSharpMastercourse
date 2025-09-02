@@ -1,0 +1,50 @@
+We have been commissioned to create a hotel 
+management application. We need a web portal that
+allows people to book an available room. We also need a 
+desktop app for when they check in
+
+We need to create a minimum via product (MVP) that 
+will allow the customer to get going and to identify
+what features should be added later.
+
+W - Walk Through the project
+
+How the payment process gonna work?
+Do user pick a timeframe when booking?
+Are there differnt type of rooms?
+Do employees look up user's name to check the user?
+Do employees have list of avaiable and booked rooms? 
+
+--------------------------------------------------------
+
+Hotel Management App
+Web Portal
+  Allow guests to book rooms
+  We have to know if rooms are available
+
+Desktop App
+  The guest will check in via desktop app
+  We need to be able to look up guest reservation by name or other piece of information
+
+This is an MVP
+
+
+O - Open up the requirements
+
+User Select a timeframe when they want to book the room
+User search for the creatia of the room they want
+User books an available room 
+User pays for room
+User goes to front desk to check
+Employee searches user name to check the user in. 
+
+----------------------------------------
+
+
+U - User interface design
+
+L - Logic design
+
+D - Data design
+
+
