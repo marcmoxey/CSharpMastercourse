@@ -7,15 +7,10 @@ We need to create a minimum via product (MVP) that
 will allow the customer to get going and to identify
 what features should be added later.
 
+
+
+
 W - Walk Through the project
-
-How the payment process gonna work?
-Do user pick a timeframe when booking?
-Are there differnt type of rooms?
-Do employees look up user's name to check the user?
-Do employees have list of avaiable and booked rooms? 
-
---------------------------------------------------------
 
 Hotel Management App
 Web Portal
@@ -31,15 +26,45 @@ This is an MVP
 
 O - Open up the requirements
 
-User Select a timeframe when they want to book the room
-User search for the creatia of the room they want
-User books an available room 
-User pays for room
-User goes to front desk to check
-Employee searches user name to check the user in. 
+Things For Mvp
+ ASP.NET Core Razor Pages
+Web page - Searching for a room
+	Start Data 
+	End Date 
+	Display list of hotem room types are available
+	User can choose to book
+ Web page - Book room
+	Takes room from search page 
+	Ask for Guest Info(name)
+	Book upon submission
+WPF Core DesktopApp
+WPF page - Search for user
+	Search by last name and use today's data
+	Display a list of matching reservations
+	Have a button that checks in a guest
+SQL Server data storage 
 
-----------------------------------------
 
+
+
+Things for a future version
+ Authenticate guests
+ Guest history
+ Multiple hotel capabilites 
+ Allow guests to check out
+ Allow booking search by reservation number or other pieces of information 
+ Allow data to be store in other database type like SQLite 
+
+
+Assumptions that were confirmed 
+ One hotel only 
+ Guest book a hotel room type, not a specific room
+ A hotel employee will check guests in 
+ Booking search is done by last name
+ Check in means we just mark that they are at hotel
+ Data will be stored in SQL Server
+ No API middle layer 
+ Use the lastest .NET technologies
 
 U - User interface design
 
