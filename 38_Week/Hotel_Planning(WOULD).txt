@@ -31,13 +31,13 @@ Things For Mvp
 Web page - Searching for a room
 	Start Data 
 	End Date 
-	Display list of hotem room types are available
+	Display list of hotel room types are available
 	User can choose to book
  Web page - Book room
 	Takes room from search page 
 	Ask for Guest Info(name)
 	Book upon submission
-WPF Core DesktopApp
+WPF Core Desktop App
 WPF page - Search for user
 	Search by last name and use today's data
 	Display a list of matching reservations
@@ -50,7 +50,7 @@ SQL Server data storage
 Things for a future version
  Authenticate guests
  Guest history
- Multiple hotel capabilites 
+ Multiple hotel capabilities 
  Allow guests to check out
  Allow booking search by reservation number or other pieces of information 
  Allow data to be store in other database type like SQLite 
@@ -64,12 +64,58 @@ Assumptions that were confirmed
  Check in means we just mark that they are at hotel
  Data will be stored in SQL Server
  No API middle layer 
- Use the lastest .NET technologies
+ Use the latest .NET technologies
 
 U - User interface design
 
 L - Logic design
 
+Tricky bits 
+ ASP.NET Core Razor Pages
+  Display lists of info
+  Link with Data
+  Multiple pages
+  Talking to SQL
+
+WPF Core App
+ Capture form information
+ Display List of information(DataGrid)
+ Lists of buttons
+ Talking to SQL
+
+SQL Server 
+ Create a database
+ Create tables
+ Create CRUD queries
+ Prepopulate data
+
+Deploying stuff 
+ ASP.NET web app
+ WPF desktop app
+ SQL database
+ 
 D - Data design
+
+Guest
+FirstName
+LastName
+
+RoomType
+ Title
+ Description
+ Price
+
+Rooms
+RoomNumber
+RoomType
+
+Bookings 
+Room
+Guest
+Start Date 
+End Date
+Checked In
+Total Cost
+
 
 
