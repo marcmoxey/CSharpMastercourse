@@ -26,6 +26,7 @@ This is an MVP
 
 O - Open up the requirements
 
+
 Things For Mvp
  ASP.NET Core Razor Pages
 Web page - Searching for a room
@@ -43,8 +44,6 @@ WPF page - Search for user
 	Display a list of matching reservations
 	Have a button that checks in a guest
 SQL Server data storage 
-
-
 
 
 Things for a future version
@@ -68,7 +67,19 @@ Assumptions that were confirmed
 
 U - User interface design
 
+Missing Pieces / Future verison idea
+ Web - confirmation pge 
+ Web - conirmation email
+ WPF - confired checked it
+ Cost of room
+ Check in payment
+ invoice
+
+
+
 L - Logic design
+
+
 
 D - Data design
 
