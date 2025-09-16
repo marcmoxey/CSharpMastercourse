@@ -10,3 +10,17 @@ L - Logic Design
 D - Data Design
 
 
+W 
+Ask player1 for ship placements
+Ask player2 for ship placements
+Ask player1 for shot 
+check if hit was a hit or miss and notify player1 or results
+Ask player2 for shot 
+check if hit was a hit or miss and notify player2 or results
+Keep going till one of the player fives ships are sink
+display results and winner 
+
+O
+
+ 
+
