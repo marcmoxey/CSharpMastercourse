@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HotelLibrary.Models
 {
-    public class BookingModel
+    public  class BookingFullModel
     {
         public int Id { get; set; }
         public int RoomId { get; set; }
@@ -15,5 +15,11 @@ namespace HotelLibrary.Models
         public DateTime EndDate { get; set; }
         public bool CheckedIn { get; set; }
         public decimal TotalCost { get; set; }
+
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Title { get; set; }
+        public string Description { get; set; }
+        public decimal Price { get; set; }
     }
 }
