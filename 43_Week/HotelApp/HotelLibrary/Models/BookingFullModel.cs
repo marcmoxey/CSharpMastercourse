@@ -15,7 +15,7 @@ namespace HotelLibrary.Models
         public DateTime EndDate { get; set; }
         public bool CheckedIn { get; set; }
         public decimal TotalCost { get; set; }
-
+        public string RoomNumber { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Title { get; set; }
