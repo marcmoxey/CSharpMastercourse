@@ -1,0 +1,3 @@
+Invalid row data: Sue,Storm,New York,
+Invalid row data: Ray,,Jones,Florida
+Invalid row data: Bilbo,Baggins

@@ -2,16 +2,22 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.PortableExecutable;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace DataAccessLibrary
 {
     public  class CSVFileDataAccess
     {
-        public List<PersonModel> ReadAllRecords(string csvFile)
+        
+        public List<PersonModel> ReadAllRecords( string csvFile)
         {
-            if(File.Exists(csvFile) == false)
+            var errorLogPath = @"C:\\Users\\moxey\\source\\repos\\C#Mastercourse\\43_Week\\ErrorText.txt";
+            var invalidLines = new List<string>();
+
+            if (File.Exists(csvFile) == false)
             {
                 return new List<PersonModel>();
             }
@@ -24,10 +30,21 @@ namespace DataAccessLibrary
                 PersonModel p = new PersonModel();
                 var vals = line.Split(',');
 
-                if(vals.Length < 2)
+                // check if there 3 col
+                if(vals.Length != 3)
                 {
-                    throw new Exception($"Invalid row data: {line}");
+                    invalidLines.Add($"Invalid row data: {line}");
+                    continue;
                 } 
+                
+                // check if there data in all 3 cols
+                if(string.IsNullOrEmpty(vals[0]) || 
+                    string.IsNullOrEmpty(vals[1]) || 
+                    string.IsNullOrEmpty(vals[2]))
+                {
+                    invalidLines.Add($"Invalid row data: {line}");
+                    continue;
+                }
 
                 
                 p.FirstName = vals[0];
@@ -37,8 +54,14 @@ namespace DataAccessLibrary
                 output.Add(p);
 
             }
-
+            // Write all invalid rows to a text file (append if already exists)
+            if (invalidLines.Any())
+            {
+                File.WriteAllLines(errorLogPath, invalidLines);
+            }
             return output;  
         }
+
+     
     }
 }

@@ -17,7 +17,7 @@ namespace DataAccessLibrary
         private static IConfiguration _config;
         private static string csvFile;
         private static CSVFileDataAccess fileAccess = new();
-        private const string connectionStringName = "Default";
+        private const string connectionStringName = "SqlDB";
 
         public SqlData(ISqlDataAccess db)
         {
@@ -30,7 +30,7 @@ namespace DataAccessLibrary
         public void Insert()
         {
             List<PersonModel> people = fileAccess.ReadAllRecords(csvFile);
-            string sql = "insert into dbo.People (FirsrName, LastName, State) values (@FirstName, @LastName, @State)";
+            string sql = "insert into dbo.People (FirsTName, LastName, State) values (@FirstName, @LastName, @State)";
 
             foreach (var p in people)
             {
