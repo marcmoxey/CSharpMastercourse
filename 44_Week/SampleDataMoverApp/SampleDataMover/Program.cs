@@ -13,8 +13,8 @@ List<string> badData = new(); // store bad data
 
 string connectionString = @"Data Source=(localdb)\\MSSQLLocalDB; Initial Catalog = SampleDB; Integrated Security = True; Connect Timeout = 60; Encrypt = False; ";
 
-using (IDbConnection connection = new SqlConnection(connectionString)) 
-{
+using IDbConnection connection = new SqlConnection(connectionString);
+
     // Loop over the CSV file and separate out into data columns
     foreach (string line in lines)
     {
@@ -47,9 +47,8 @@ using (IDbConnection connection = new SqlConnection(connectionString))
 
         
     }
-}
 // Save bad records to a Errors.txt
-File.WriteAllLinesAsync(@"C:\Users\moxey\source\repos\C#Mastercourse\44_Week\Error.txt", badData);
+await File.WriteAllLinesAsync(@"C:\Users\moxey\source\repos\C#Mastercourse\44_Week\Error.txt", badData);
 
 
 Console.WriteLine("Done!");
