@@ -11,7 +11,7 @@ string[] lines = await File.ReadAllLinesAsync(@"C:\Users\moxey\source\repos\C#Ma
 
 List<string> badData = new(); // store bad data
 
-string connectionString = @"Data Source=(localdb)\\MSSQLLocalDB; Initial Catalog = SampleDB; Integrated Security = True; Connect Timeout = 60; Encrypt = False; ";
+string connectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=SampleDb;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
 
 using IDbConnection connection = new SqlConnection(connectionString);
 
